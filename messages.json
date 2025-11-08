@@ -60,20 +60,6 @@
         "tagMention": null
       },
       {
-        "id": "mhqifqloni8zpr2v5io",
-        "from": "TryNoter",
-        "to": "KirillEblan",
-        "text": "Да",
-        "time": "2025-11-08T16:39:57.804Z",
-        "isGlobal": false,
-        "replyTo": {
-          "id": "mhqfaxcvhfsygbe14d9",
-          "sender": "KirillEblan",
-          "text": "Ну что же, привет TryNoter X!"
-        },
-        "tagMention": null
-      },
-      {
         "id": "mhqifzzx0mt4fbnfgbx",
         "from": "TryNoter",
         "to": "KirillEblan",
@@ -89,5 +75,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-08T16:40:10.008Z"
+  "lastUpdate": "2025-11-08T16:51:00.342Z"
 }
