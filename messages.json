@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-09T12:18:12.829Z",
+      "lastSeen": "2025-11-09T12:18:36.224Z",
       "isOnline": true
     },
     "kornix-dev": {
@@ -161,6 +161,20 @@
           "text": "Тестируем тестируем🤔🤔🤔"
         },
         "tagMention": null
+      },
+      {
+        "id": "mhrojha8ojb6r5zklc",
+        "from": "KirillEblan",
+        "to": "kornix-dev",
+        "text": "Так в итоге, быстрее сообщения отправляются?",
+        "time": "2025-11-09T12:18:36.224Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhrkqkt5msudr1vegrn",
+          "sender": "kornix-dev",
+          "text": "Тестируем тестируем🤔🤔🤔"
+        },
+        "tagMention": null
       }
     ],
     "TryNoterSMM_kornix-dev": [
@@ -176,5 +190,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-09T12:18:12.845Z"
+  "lastUpdate": "2025-11-09T12:18:36.241Z"
 }
