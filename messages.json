@@ -58,22 +58,8 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
-      },
-      {
-        "id": "mhrfqj1w85i3b012ifq",
-        "from": "TryNoter",
-        "to": "KirillEblan",
-        "text": "Уже как будто лучше",
-        "time": "2025-11-09T08:12:08.566Z",
-        "isGlobal": false,
-        "replyTo": {
-          "id": "mhqfbeox4flgrr9p7ph",
-          "sender": "KirillEblan",
-          "text": "Быстрее отправка стала?"
-        },
-        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-09T08:12:08.582Z"
+  "lastUpdate": "2025-11-09T08:34:12.675Z"
 }
