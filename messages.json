@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-09T10:10:22.011Z",
+      "lastSeen": "2025-11-09T10:13:06.442Z",
       "isOnline": true
     }
   },
@@ -101,7 +101,23 @@
         },
         "tagMention": null
       }
+    ],
+    "FlamingOxygen_KirillEblan": [
+      {
+        "id": "mhrk239mafn9pfgun25",
+        "from": "KirillEblan",
+        "to": "FlamingOxygen",
+        "text": "Все, третье поражение Волохуимера",
+        "time": "2025-11-09T10:13:06.442Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 99981,
+          "postTitle": "Коричневый конец (продолжение 'Широкие Восстания')",
+          "postPreview": "По всей планете начали происходить какие-то катаклизмы, вся земля залилась говном. Это был настоящий..."
+        }
+      }
     ]
   },
-  "lastUpdate": "2025-11-09T10:10:22.074Z"
+  "lastUpdate": "2025-11-09T10:13:06.457Z"
 }
