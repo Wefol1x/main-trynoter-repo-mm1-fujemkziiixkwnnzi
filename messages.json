@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-09T10:13:06.442Z",
+      "lastSeen": "2025-11-09T10:36:45.896Z",
       "isOnline": true
     },
     "kornix-dev": {
@@ -133,6 +133,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhrkwiiwwjj9pn94en",
+        "from": "KirillEblan",
+        "to": "kornix-dev",
+        "text": ")",
+        "time": "2025-11-09T10:36:45.896Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhrkqkt5msudr1vegrn",
+          "sender": "kornix-dev",
+          "text": "Тестируем тестируем🤔🤔🤔"
+        },
+        "tagMention": null
       }
     ],
     "TryNoterSMM_kornix-dev": [
@@ -148,5 +162,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-09T10:34:30.462Z"
+  "lastUpdate": "2025-11-09T10:36:45.923Z"
 }
