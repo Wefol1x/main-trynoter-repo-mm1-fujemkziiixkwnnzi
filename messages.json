@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-09T10:36:45.896Z",
+      "lastSeen": "2025-11-09T12:18:12.829Z",
       "isOnline": true
     },
     "kornix-dev": {
@@ -121,6 +121,20 @@
           "postTitle": "Коричневый конец (продолжение 'Широкие Восстания')",
           "postPreview": "По всей планете начали происходить какие-то катаклизмы, вся земля залилась говном. Это был настоящий..."
         }
+      },
+      {
+        "id": "mhroiz8djejpy2127vi",
+        "from": "KirillEblan",
+        "to": "FlamingOxygen",
+        "text": "Хз, это получается суицид?",
+        "time": "2025-11-09T12:18:12.829Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhrk239mafn9pfgun25",
+          "sender": "KirillEblan",
+          "text": "Все, третье поражение Волохуимера"
+        },
+        "tagMention": null
       }
     ],
     "KirillEblan_kornix-dev": [
@@ -162,5 +176,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-09T10:36:45.923Z"
+  "lastUpdate": "2025-11-09T12:18:12.845Z"
 }
