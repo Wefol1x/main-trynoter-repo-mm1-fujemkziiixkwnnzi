@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-08T15:12:36.898Z",
+      "lastSeen": "2025-11-09T10:10:04.537Z",
       "isOnline": true
     }
   },
@@ -72,8 +72,22 @@
           "text": "Быстрее отправка стала?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mhrjy6wpd1sgl1ofetw",
+        "from": "KirillEblan",
+        "to": "TryNoter",
+        "text": "Да теперь как будто все круто)",
+        "time": "2025-11-09T10:10:04.537Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhrgjgyud7fynkjhlyk",
+          "sender": "TryNoter",
+          "text": "Типа как лучше, но интерфейс оставляет желать лучшего"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-09T08:34:38.916Z"
+  "lastUpdate": "2025-11-09T10:10:04.584Z"
 }
