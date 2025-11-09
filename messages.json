@@ -12,7 +12,7 @@
     },
     "kornix-dev": {
       "name": "kornix-dev",
-      "lastSeen": "2025-11-09T10:32:08.921Z",
+      "lastSeen": "2025-11-09T10:34:30.452Z",
       "isOnline": true
     }
   },
@@ -134,7 +134,19 @@
         "replyTo": null,
         "tagMention": null
       }
+    ],
+    "TryNoterSMM_kornix-dev": [
+      {
+        "id": "mhrktm0k800al0npjy3",
+        "from": "kornix-dev",
+        "to": "TryNoterSMM",
+        "text": "Тестировочка пришла",
+        "time": "2025-11-09T10:34:30.452Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-09T10:32:08.962Z"
+  "lastUpdate": "2025-11-09T10:34:30.462Z"
 }
