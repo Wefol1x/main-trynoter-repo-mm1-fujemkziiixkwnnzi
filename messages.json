@@ -204,18 +204,7 @@
         "tagMention": null
       }
     ],
-    "KirillEblan_Werline": [
-      {
-        "id": "mhs0e0d2a3h2gp5dtew",
-        "from": "Werline",
-        "to": "KirillEblan",
-        "text": "Хаахах\"",
-        "time": "2025-11-09T17:50:16.411Z",
-        "isGlobal": false,
-        "replyTo": null,
-        "tagMention": null
-      }
-    ]
+    "KirillEblan_Werline": []
   },
-  "lastUpdate": "2025-11-09T17:50:16.453Z"
+  "lastUpdate": "2025-11-09T17:50:23.860Z"
 }
