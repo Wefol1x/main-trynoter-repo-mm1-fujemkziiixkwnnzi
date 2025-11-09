@@ -9,6 +9,11 @@
       "name": "KirillEblan",
       "lastSeen": "2025-11-09T10:13:06.442Z",
       "isOnline": true
+    },
+    "kornix-dev": {
+      "name": "kornix-dev",
+      "lastSeen": "2025-11-09T10:32:08.921Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -117,7 +122,19 @@
           "postPreview": "По всей планете начали происходить какие-то катаклизмы, вся земля залилась говном. Это был настоящий..."
         }
       }
+    ],
+    "KirillEblan_kornix-dev": [
+      {
+        "id": "mhrkqkt5msudr1vegrn",
+        "from": "kornix-dev",
+        "to": "KirillEblan",
+        "text": "Тестируем тестируем🤔🤔🤔",
+        "time": "2025-11-09T10:32:08.921Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-09T10:13:06.457Z"
+  "lastUpdate": "2025-11-09T10:32:08.962Z"
 }
