@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-09T17:50:16.418Z",
+      "lastSeen": "2025-11-10T12:17:46.069Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -254,8 +254,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mht3y98zyrmpwu3qpz",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Воюча писька зели",
+        "time": "2025-11-10T12:17:46.069Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mht3w9ipgx6so63wai",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "Вонючай писька ежа"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-10T12:16:13.138Z"
+  "lastUpdate": "2025-11-10T12:17:46.093Z"
 }
