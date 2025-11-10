@@ -51,16 +51,6 @@
           "postTitle": "[TN] - (10.0 - X) - RePoints - Упоминания поинтов!",
           "postPreview": "Теперь вы можете создать упоминание поинта. Пишете в любом чате команду /tag id Cooбщение - id берет..."
         }
-      },
-      {
-        "id": "mhqfaxcvhfsygbe14d9",
-        "from": "KirillEblan",
-        "to": null,
-        "text": "Ну что же, привет TryNoter X!",
-        "time": "2025-11-08T15:12:14.431Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
       }
     ],
     "KirillEblan_TryNoter": [
@@ -271,5 +261,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-10T12:17:46.093Z"
+  "lastUpdate": "2025-11-10T13:43:52.824Z"
 }
