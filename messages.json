@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-10T12:14:01.955Z",
+      "lastSeen": "2025-11-10T12:16:13.105Z",
       "isOnline": true
     }
   },
@@ -244,8 +244,18 @@
           "text": "Отчим в маленькой писечке"
         },
         "tagMention": null
+      },
+      {
+        "id": "mht3w9ipgx6so63wai",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Вонючай писька ежа",
+        "time": "2025-11-10T12:16:13.105Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-10T12:14:01.971Z"
+  "lastUpdate": "2025-11-10T12:16:13.138Z"
 }
