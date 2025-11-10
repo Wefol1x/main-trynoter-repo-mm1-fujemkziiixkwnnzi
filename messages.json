@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-10T12:17:46.069Z",
+      "lastSeen": "2025-11-10T14:29:14.187Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -258,8 +258,18 @@
           "text": "Вонючай писька ежа"
         },
         "tagMention": null
+      },
+      {
+        "id": "mht8nbrf4k4ndfbrx5m",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Эу бро. Я тебе перевёл",
+        "time": "2025-11-10T14:29:14.187Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-10T13:43:52.824Z"
+  "lastUpdate": "2025-11-10T14:29:14.209Z"
 }
