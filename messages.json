@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-10T14:29:18.971Z",
+      "lastSeen": "2025-11-10T18:34:23.784Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -278,8 +278,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhthelrbf21yyq5c0wv",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Интересно, вот Евсей говорил нам что он теоретически гей",
+        "time": "2025-11-10T18:34:23.783Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-10T14:29:18.985Z"
+  "lastUpdate": "2025-11-10T18:34:23.817Z"
 }
