@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-11T16:18:40.487Z",
+      "lastSeen": "2025-11-11T16:46:49.096Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -312,6 +312,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhut03ygy00ppg5y3a",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Почти ты редко заходиь?",
+        "time": "2025-11-11T16:46:49.096Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -337,5 +347,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-11T16:18:40.508Z"
+  "lastUpdate": "2025-11-11T16:46:49.125Z"
 }
