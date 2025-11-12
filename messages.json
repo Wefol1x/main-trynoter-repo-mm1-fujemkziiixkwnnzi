@@ -366,16 +366,6 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
-      },
-      {
-        "id": "mhwkuwk37kgt3jyfvaa",
-        "from": "Werline",
-        "to": "Mm..Ah...Ooo~",
-        "text": "В то кину",
-        "time": "2025-11-12T22:34:21.651Z",
-        "isGlobal": false,
-        "replyTo": null,
-        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -391,5 +381,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-12T22:34:21.699Z"
+  "lastUpdate": "2025-11-12T22:34:26.931Z"
 }
