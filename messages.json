@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T18:14:27.308Z",
+      "lastSeen": "2025-11-13T18:14:34.574Z",
       "isOnline": true
     },
     "Power": {
@@ -667,6 +667,16 @@
           "text": "Поминай как звали?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mhxr0o5qyesz8xtao5",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Помню ток еблю буквами",
+        "time": "2025-11-13T18:14:34.574Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -708,5 +718,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T18:14:27.404Z"
+  "lastUpdate": "2025-11-13T18:14:34.600Z"
 }
