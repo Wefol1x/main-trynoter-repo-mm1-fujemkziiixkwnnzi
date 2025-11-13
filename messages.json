@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-12T22:34:32.135Z",
+      "lastSeen": "2025-11-13T15:56:50.768Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -405,8 +405,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxm3jrkcra8dxe2g7",
+        "from": "Werline",
+        "to": "Power",
+        "text": "Привет",
+        "time": "2025-11-13T15:56:50.768Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhxl2vz87ailgnmqx1e",
+          "sender": "Power",
+          "text": "Привет"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-13T15:28:20.358Z"
+  "lastUpdate": "2025-11-13T15:56:50.796Z"
 }
