@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T17:58:33.672Z",
+      "lastSeen": "2025-11-13T17:59:02.063Z",
       "isOnline": true
     },
     "Power": {
@@ -521,6 +521,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxqgomnjlfu6u1nsna",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Мы так сильно ебались буквами что она не выдержала",
+        "time": "2025-11-13T17:59:02.063Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -562,5 +572,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T17:58:33.727Z"
+  "lastUpdate": "2025-11-13T17:59:02.082Z"
 }
