@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-13T15:56:50.768Z",
+      "lastSeen": "2025-11-13T17:14:50.730Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -381,6 +381,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxovuuhzynp7prqgeb",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Блять",
+        "time": "2025-11-13T17:14:50.730Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -422,5 +432,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T15:56:50.796Z"
+  "lastUpdate": "2025-11-13T17:14:50.767Z"
 }
