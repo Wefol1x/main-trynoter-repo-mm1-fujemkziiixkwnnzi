@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T18:00:14.880Z",
+      "lastSeen": "2025-11-13T18:00:33.753Z",
       "isOnline": true
     },
     "Power": {
@@ -591,6 +591,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxqindl35mqnc4pwo8",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Я ктдаю ссылку на предложение она заходит говорит спасибо",
+        "time": "2025-11-13T18:00:33.753Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -632,5 +642,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T18:00:14.906Z"
+  "lastUpdate": "2025-11-13T18:00:33.768Z"
 }
