@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-13T18:12:33.703Z",
+      "lastSeen": "2025-11-13T21:24:55.835Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -691,6 +691,20 @@
           "text": "У нас никто не регистрироваться ксати"
         },
         "tagMention": null
+      },
+      {
+        "id": "mhxxtguzv8qimonxlh",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Ебать дупло какое, что даже не помнишь",
+        "time": "2025-11-13T21:24:55.835Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhxr0o5qyesz8xtao5",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "Помню ток еблю буквами"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -732,5 +746,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T18:14:46.434Z"
+  "lastUpdate": "2025-11-13T21:24:56.585Z"
 }
