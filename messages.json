@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T17:59:57.458Z",
+      "lastSeen": "2025-11-13T18:00:07.115Z",
       "isOnline": true
     },
     "Power": {
@@ -571,6 +571,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxqi2tnytvvk8zlnj",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Кидаю один фанфик вроде нравится",
+        "time": "2025-11-13T18:00:07.115Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -612,5 +622,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T17:59:57.485Z"
+  "lastUpdate": "2025-11-13T18:00:07.150Z"
 }
