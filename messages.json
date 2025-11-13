@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T18:14:34.574Z",
+      "lastSeen": "2025-11-13T18:14:46.385Z",
       "isOnline": true
     },
     "Power": {
@@ -677,6 +677,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxr0x9tqk4fofh3dvs",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Жаль",
+        "time": "2025-11-13T18:14:46.385Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhxqy2w6wquk3nzy42",
+          "sender": "Werline",
+          "text": "У нас никто не регистрироваться ксати"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -718,5 +732,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T18:14:34.600Z"
+  "lastUpdate": "2025-11-13T18:14:46.434Z"
 }
