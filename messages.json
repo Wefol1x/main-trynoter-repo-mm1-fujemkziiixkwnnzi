@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T17:58:24.202Z",
+      "lastSeen": "2025-11-13T17:58:33.672Z",
       "isOnline": true
     },
     "Power": {
@@ -511,6 +511,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxqg2q0ebd146kw2c9",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Я нашёл первую",
+        "time": "2025-11-13T17:58:33.672Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -552,5 +562,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T17:58:24.226Z"
+  "lastUpdate": "2025-11-13T17:58:33.727Z"
 }
