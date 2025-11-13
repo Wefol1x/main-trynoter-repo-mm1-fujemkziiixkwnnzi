@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T17:38:21.844Z",
+      "lastSeen": "2025-11-13T17:57:00.863Z",
       "isOnline": true
     },
     "Power": {
@@ -451,6 +451,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxqe33zcuaq75l43vo",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "В общем",
+        "time": "2025-11-13T17:57:00.863Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -492,5 +502,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T17:38:21.875Z"
+  "lastUpdate": "2025-11-13T17:57:00.874Z"
 }
