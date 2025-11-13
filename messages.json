@@ -22,7 +22,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-13T17:57:33.883Z",
+      "lastSeen": "2025-11-13T17:58:06.293Z",
       "isOnline": true
     },
     "Power": {
@@ -491,6 +491,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhxqfhlhbq580i4d4te",
+        "from": "Mm..Ah...Ooo~",
+        "to": "Werline",
+        "text": "Там мы кста тоже обсуждали ебущихся зайцев",
+        "time": "2025-11-13T17:58:06.293Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -532,5 +542,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-13T17:57:33.899Z"
+  "lastUpdate": "2025-11-13T17:58:06.310Z"
 }
