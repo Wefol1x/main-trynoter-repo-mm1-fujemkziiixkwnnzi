@@ -24,6 +24,11 @@
       "name": "Mm..Ah...Ooo~",
       "lastSeen": "2025-11-12T19:13:50.156Z",
       "isOnline": true
+    },
+    "Power": {
+      "name": "Power",
+      "lastSeen": "2025-11-13T15:28:20.325Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -389,7 +394,19 @@
         "replyTo": null,
         "tagMention": null
       }
+    ],
+    "Power_Werline": [
+      {
+        "id": "mhxl2vz87ailgnmqx1e",
+        "from": "Power",
+        "to": "Werline",
+        "text": "Привет",
+        "time": "2025-11-13T15:28:20.325Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-12T22:34:32.252Z"
+  "lastUpdate": "2025-11-13T15:28:20.358Z"
 }
