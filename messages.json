@@ -744,16 +744,6 @@
         "tagMention": null
       },
       {
-        "id": "mhyoiyewvr8gyzktewd",
-        "from": "FlamingOxygen",
-        "to": "Werline",
-        "text": "По приколу",
-        "time": "2025-11-14T09:52:35.000Z",
-        "isGlobal": false,
-        "replyTo": null,
-        "tagMention": null
-      },
-      {
         "id": "mhyoizoqol1gmdl6h",
         "from": "FlamingOxygen",
         "to": "Werline",
@@ -801,5 +791,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-14T09:52:40.590Z"
+  "lastUpdate": "2025-11-14T09:52:45.864Z"
 }
