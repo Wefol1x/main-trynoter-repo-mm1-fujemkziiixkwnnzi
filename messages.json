@@ -32,7 +32,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-14T09:52:35.000Z",
+      "lastSeen": "2025-11-14T09:52:36.650Z",
       "isOnline": true
     }
   },
@@ -752,6 +752,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhyoizoqol1gmdl6h",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "По приколу",
+        "time": "2025-11-14T09:52:36.650Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "Power_Werline": [
@@ -781,5 +791,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-14T09:52:35.018Z"
+  "lastUpdate": "2025-11-14T09:52:36.659Z"
 }
