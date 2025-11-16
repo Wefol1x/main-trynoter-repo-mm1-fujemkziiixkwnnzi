@@ -17,7 +17,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-11-16T20:29:30.447Z",
+      "lastSeen": "2025-11-16T20:29:40.692Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -754,6 +754,20 @@
           "text": "Я сгнил нахуй"
         },
         "tagMention": null
+      },
+      {
+        "id": "mi265yvn0cl3kip02rwa",
+        "from": "Werline",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Чо случилось?",
+        "time": "2025-11-16T20:29:40.692Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mi20uwkkyxdcqj7bed",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "Я сгнил нахуй"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -815,5 +829,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-16T20:29:31.127Z"
+  "lastUpdate": "2025-11-16T20:29:41.070Z"
 }
