@@ -1,7 +1,24 @@
 {
-  "users": {},
-  "conversations": {
-    "global": []
+  "users": {
+    "WayPoint": {
+      "name": "WayPoint",
+      "lastSeen": "2025-11-20T20:34:40.152Z",
+      "isOnline": true
+    }
   },
-  "lastUpdate": "2025-11-20T20:33:16.267Z"
+  "conversations": {
+    "global": [
+      {
+        "id": "mi7w3slyyjau8c15hlc",
+        "from": "WayPoint",
+        "to": null,
+        "text": "Добро пожаловать на основной сервер WayPoint!",
+        "time": "2025-11-20T20:34:40.152Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      }
+    ]
+  },
+  "lastUpdate": "2025-11-20T20:34:40.183Z"
 }
