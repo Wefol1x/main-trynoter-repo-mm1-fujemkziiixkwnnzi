@@ -1,13 +1,8 @@
 {
   "users": {
-    "TryNoter": {
-      "name": "TryNoter",
+    "WayPoint": {
+      "name": "WayPoint",
       "lastSeen": "2025-11-09T08:34:38.893Z",
-      "isOnline": true
-    },
-    "KirillEblan": {
-      "name": "KirillEblan",
-      "lastSeen": "2025-11-09T13:09:40.728Z",
       "isOnline": true
     },
     "kornix-dev": {
@@ -40,9 +35,9 @@
     "global": [
       {
         "id": "mhq7bm4a5bb4k6q9byl",
-        "from": "TryNoter",
+        "from": "WayPoint",
         "to": null,
-        "text": "Добро пожаловать в TryNoter! Это MinRepo Server - основной сервер TryNoter",
+        "text": "Добро пожаловать в WayPoint! Это MinRepo Server - основной сервер WayPoint",
         "time": "2025-11-08T11:28:49.596Z",
         "isGlobal": true,
         "replyTo": null,
@@ -50,7 +45,7 @@
       },
       {
         "id": "mhq7di9g5msmg3mio3",
-        "from": "TryNoter",
+        "from": "WayPoint",
         "to": null,
         "text": "Теперь вы можете упоминать посты, подробнее в этом поинте",
         "time": "2025-11-08T11:30:17.908Z",
@@ -58,14 +53,15 @@
         "replyTo": null,
         "tagMention": {
           "postId": 100000,
-          "postTitle": "[TN] - (10.0 - X) - RePoints - Упоминания поинтов!",
+          "postTitle": "[WP] - (10.0 - X) - RePoints - Упоминания поинтов!",
           "postPreview": "Теперь вы можете создать упоминание поинта. Пишете в любом чате команду /tag id Cooбщение - id берет..."
         }
       }
     ],
-    "KirillEblan_TryNoter": [
-      {
-        "id": "mhqfbeox4flgrr9p7ph",
+  },
+  "lastUpdate": "2025-11-19T05:16:41.370Z"
+}
+: "mhqfbeox4flgrr9p7ph",
         "from": "KirillEblan",
         "to": "TryNoter",
         "text": "Быстрее отправка стала?",
