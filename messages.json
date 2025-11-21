@@ -7,7 +7,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-21T10:52:26.720Z",
+      "lastSeen": "2025-11-21T11:09:08.423Z",
       "isOnline": true
     },
     "Werline": {
@@ -53,8 +53,18 @@
           "text": "Жопа"
         },
         "tagMention": null
+      },
+      {
+        "id": "mi8rcddzyfyj4fukhw",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Нет блять тыоя",
+        "time": "2025-11-21T11:09:08.423Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-21T10:53:23.280Z"
+  "lastUpdate": "2025-11-21T11:09:08.433Z"
 }
