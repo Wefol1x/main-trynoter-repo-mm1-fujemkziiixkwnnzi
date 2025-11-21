@@ -7,7 +7,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-21T11:09:10.866Z",
+      "lastSeen": "2025-11-21T11:09:34.686Z",
       "isOnline": true
     },
     "Werline": {
@@ -63,8 +63,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mi8rcxnig344dd8l5be",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Волосатая и Вовина",
+        "time": "2025-11-21T11:09:34.686Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mi8qs42nxknvi4nboz",
+          "sender": "Werline",
+          "text": "Рыжая?"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-21T11:09:11.153Z"
+  "lastUpdate": "2025-11-21T11:09:34.707Z"
 }
