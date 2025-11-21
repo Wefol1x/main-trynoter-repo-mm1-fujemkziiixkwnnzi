@@ -4,6 +4,11 @@
       "name": "WayPoint",
       "lastSeen": "2025-11-20T20:34:40.152Z",
       "isOnline": true
+    },
+    "FlamingOxygen": {
+      "name": "FlamingOxygen",
+      "lastSeen": "2025-11-21T10:52:26.720Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -18,7 +23,19 @@
         "replyTo": null,
         "tagMention": null
       }
+    ],
+    "FlamingOxygen_Werline": [
+      {
+        "id": "mi8qqwgwcjv6kkrgaqt",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Жопа",
+        "time": "2025-11-21T10:52:26.720Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-20T20:34:40.183Z"
+  "lastUpdate": "2025-11-21T10:52:26.734Z"
 }
