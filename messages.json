@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-29T11:03:13.982Z",
+      "lastSeen": "2025-12-29T11:03:20.241Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -126,8 +126,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjr1va29qetz3mxl2wl",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Все таки написал сучка",
+        "time": "2025-12-29T11:03:20.241Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T11:03:13.996Z"
+  "lastUpdate": "2025-12-29T11:03:20.260Z"
 }
