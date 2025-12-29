@@ -186,16 +186,6 @@
         "tagMention": null
       },
       {
-        "id": "mjrbz6xalzqvrzdrv1m",
-        "from": "Werline",
-        "to": "Infantophile",
-        "text": "Сева гандон... Звучит так круто 🤟",
-        "time": "2025-12-29T15:46:18.958Z",
-        "isGlobal": false,
-        "replyTo": null,
-        "tagMention": null
-      },
-      {
         "id": "mjrcc3unviocjaq614b",
         "from": "Infantophile",
         "to": "Werline",
@@ -225,5 +215,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-12-29T15:58:07.136Z"
+  "lastUpdate": "2025-12-29T15:58:13.488Z"
 }
