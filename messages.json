@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2025-12-29T11:05:05.288Z",
+      "lastSeen": "2025-12-29T15:56:21.516Z",
       "isOnline": true
     }
   },
@@ -194,8 +194,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjrcc3unviocjaq614b",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а чо за обнова",
+        "time": "2025-12-29T15:56:21.503Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjr36f0r7srw3tvy2sa",
+          "sender": "Werline",
+          "text": "Хмм. Я вот думаю. Я могу сделать охуенную обнову на wp. Но в тоже время меня останавливает то, что никто им не пользуется... Мне жаль, это лучший подарок (+ он тебе же на день рождения). Хотя я могу сделать это для нас"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T15:46:18.986Z"
+  "lastUpdate": "2025-12-29T15:56:21.548Z"
 }
