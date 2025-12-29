@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-29T11:03:37.620Z",
+      "lastSeen": "2025-12-29T11:39:59.500Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -160,8 +160,22 @@
           "text": "Кстати, как думаешь. Евсей капрофил?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjr36f0r7srw3tvy2sa",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Хмм. Я вот думаю. Я могу сделать охуенную обнову на wp. Но в тоже время меня останавливает то, что никто им не пользуется... Мне жаль, это лучший подарок (+ он тебе же на день рождения). Хотя я могу сделать это для нас",
+        "time": "2025-12-29T11:39:59.500Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjr1xj48qsidfwp1led",
+          "sender": "Infantophile",
+          "text": "возможно частично"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T11:05:05.299Z"
+  "lastUpdate": "2025-12-29T11:39:59.520Z"
 }
