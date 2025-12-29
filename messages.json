@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-29T11:39:59.500Z",
+      "lastSeen": "2025-12-29T11:40:17.418Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -174,8 +174,18 @@
           "text": "возможно частично"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjr36suinh1tpxzcl5j",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Что думаешь?",
+        "time": "2025-12-29T11:40:17.418Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T11:39:59.520Z"
+  "lastUpdate": "2025-12-29T11:40:17.436Z"
 }
