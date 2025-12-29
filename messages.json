@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-29T18:58:02.758Z",
+      "lastSeen": "2025-12-29T18:58:21.483Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -332,8 +332,22 @@
           "text": "завтра"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjriu5rfiytjq3widwe",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Блять, как же тут ахуенно сидеть. Я чувствую себя здесь как дома",
+        "time": "2025-12-29T18:58:21.483Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjrg5b16pld1c9g4rb",
+          "sender": "Infantophile",
+          "text": "мы его используем как \"ЯЙЦА ПРИБИТЫЕ К СТЕНКАМ\""
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T18:58:02.770Z"
+  "lastUpdate": "2025-12-29T18:58:21.508Z"
 }
