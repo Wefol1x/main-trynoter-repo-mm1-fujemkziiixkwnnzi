@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-29T16:04:47.962Z",
+      "lastSeen": "2025-12-29T16:05:13.291Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -270,8 +270,18 @@
           "postTitle": "Антиговнофобия",
           "postPreview": "Жил да был безрукий копроинвалид,раковик с говном в голове вместо опухоли Волохуиммер.Он срал и срал..."
         }
+      },
+      {
+        "id": "mjrcni6jedhnuvfm16i",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Когда новый сделаешь? На новый год. По типу новогодний поносик",
+        "time": "2025-12-29T16:05:13.291Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T16:04:47.968Z"
+  "lastUpdate": "2025-12-29T16:05:13.324Z"
 }
