@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2025-12-29T15:59:37.493Z",
+      "lastSeen": "2025-12-29T17:43:02.682Z",
       "isOnline": true
     }
   },
@@ -290,8 +290,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjrg5b16pld1c9g4rb",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "мы его используем как \"ЯЙЦА ПРИБИТЫЕ К СТЕНКАМ\"",
+        "time": "2025-12-29T17:43:02.682Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjrcrhiyisupk7omqy",
+          "sender": "Werline",
+          "text": "Мы походу тг используем как \"зайди в wp сучара\""
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T16:08:19.091Z"
+  "lastUpdate": "2025-12-29T17:43:02.695Z"
 }
