@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-29T16:05:13.291Z",
+      "lastSeen": "2025-12-29T16:08:19.066Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -280,8 +280,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjrcrhiyisupk7omqy",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мы походу тг используем как \"зайди в wp сучара\"",
+        "time": "2025-12-29T16:08:19.066Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-29T16:05:13.324Z"
+  "lastUpdate": "2025-12-29T16:08:19.091Z"
 }
