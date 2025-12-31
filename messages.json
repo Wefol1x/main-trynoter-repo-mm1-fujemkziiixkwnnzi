@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2025-12-31T12:28:01.237Z",
+      "lastSeen": "2025-12-31T12:28:05.340Z",
       "isOnline": true
     }
   },
@@ -562,8 +562,18 @@
           "text": "Чо как делишки. Сегодня последний день 2025 года"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjtzrz2z0ls9kyi1tjp",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "сойдёт",
+        "time": "2025-12-31T12:28:05.340Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-31T12:28:01.247Z"
+  "lastUpdate": "2025-12-31T12:28:05.350Z"
 }
