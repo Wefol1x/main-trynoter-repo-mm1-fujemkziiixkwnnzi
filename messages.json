@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2025-12-31T13:43:17.263Z",
+      "lastSeen": "2025-12-31T13:43:56.466Z",
       "isOnline": true
     }
   },
@@ -630,8 +630,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mju2hir61guk0wjz407",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "но спасибо за похвалу",
+        "time": "2025-12-31T13:43:56.466Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-31T13:43:17.276Z"
+  "lastUpdate": "2025-12-31T13:43:56.473Z"
 }
