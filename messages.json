@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2025-12-31T13:42:38.910Z",
+      "lastSeen": "2025-12-31T13:43:17.263Z",
       "isOnline": true
     }
   },
@@ -620,8 +620,18 @@
           "text": "Честно скажу, ты меня удивил когда сам собрал приложение безупречно"
         },
         "tagMention": null
+      },
+      {
+        "id": "mju2goi7nylfev0cssm",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "это не так сложно",
+        "time": "2025-12-31T13:43:17.263Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-12-31T13:42:38.934Z"
+  "lastUpdate": "2025-12-31T13:43:17.276Z"
 }
