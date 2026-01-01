@@ -7,7 +7,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-12-31T23:50:11.313Z",
+      "lastSeen": "2026-01-01T13:35:16.001Z",
       "isOnline": true
     },
     "Werline": {
@@ -102,6 +102,20 @@
           "id": "mjuo4tj2ykubr2aviqn",
           "sender": "FlamingOxygen",
           "text": "С новым GOYDOM"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjvhm7ttd3o7u6z4gto",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Xyй знает",
+        "time": "2026-01-01T13:35:16.001Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mjv9h5bnz0xwnlkvjnn",
+          "sender": "Werline",
+          "text": "Кстати, чо в Briges добавить? А то там нечего нового"
         },
         "tagMention": null
       }
@@ -879,5 +893,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:14:31.531Z"
+  "lastUpdate": "2026-01-01T13:35:16.056Z"
 }
