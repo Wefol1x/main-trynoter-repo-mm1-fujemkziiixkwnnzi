@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T13:13:50.145Z",
+      "lastSeen": "2026-01-01T13:14:31.210Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -836,6 +836,20 @@
           "text": "Ну смотри можно про то как Ксюша захотела быть Волохуимером, но потом сам Волохуимер наказал ее"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjvgvjcaquyrvltcp",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кста акк оформил ахуенно. НО у тебя ава слетела",
+        "time": "2026-01-01T13:14:31.210Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjv9g3urbc8j91ciryh",
+          "sender": "Werline",
+          "text": "Кстати, добавь меня в друзья и добавь себе описание"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -865,5 +879,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:13:50.390Z"
+  "lastUpdate": "2026-01-01T13:14:31.531Z"
 }
