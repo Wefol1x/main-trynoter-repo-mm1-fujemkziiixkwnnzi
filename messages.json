@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T13:48:22.576Z",
+      "lastSeen": "2026-01-01T13:48:41.118Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -934,6 +934,20 @@
           "text": "попробую"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjvi3h26m9p6wldh5p",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Как тебе интерфейс ответов и стекло?",
+        "time": "2026-01-01T13:48:41.118Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjvhz1es54b7pf4drdk",
+          "sender": "Infantophile",
+          "text": "ахуенные обновы"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -963,5 +977,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:48:22.836Z"
+  "lastUpdate": "2026-01-01T13:48:41.422Z"
 }
