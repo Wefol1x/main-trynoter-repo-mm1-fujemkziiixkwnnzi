@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T09:44:26.940Z",
+      "lastSeen": "2026-01-01T09:44:47.954Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -79,6 +79,16 @@
           "sender": "FlamingOxygen",
           "text": "Похуй что поздно, зато поздравил"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mjv9du1e5rgybmq9in3",
+        "from": "Werline",
+        "to": null,
+        "text": "#HappyNewБлять",
+        "time": "2026-01-01T09:44:47.954Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -729,5 +739,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T09:44:27.106Z"
+  "lastUpdate": "2026-01-01T09:44:48.094Z"
 }
