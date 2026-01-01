@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T13:06:19.694Z",
+      "lastSeen": "2026-01-01T13:06:26.767Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -820,8 +820,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjvgl5jjq68ke64fd8c",
+        "from": "Werline",
+        "to": "WayPointSMM",
+        "text": "Тест",
+        "time": "2026-01-01T13:06:26.767Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjvgl032o26q22ytvbn",
+          "sender": "Werline",
+          "text": "Тест"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:06:19.750Z"
+  "lastUpdate": "2026-01-01T13:06:26.884Z"
 }
