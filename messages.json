@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T14:01:33.170Z",
+      "lastSeen": "2026-01-01T14:02:00.754Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -992,6 +992,16 @@
           "text": "но почему фанфики все обрезались"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjvikm2abnoom9o2vff",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кстати, попробуй что либо написать в основном чате (общий)",
+        "time": "2026-01-01T14:02:00.754Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1021,5 +1031,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T14:01:33.435Z"
+  "lastUpdate": "2026-01-01T14:02:01.026Z"
 }
