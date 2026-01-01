@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T09:46:33.987Z",
+      "lastSeen": "2026-01-01T09:47:22.547Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -89,6 +89,20 @@
         "time": "2026-01-01T09:44:47.954Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjv9h5bnz0xwnlkvjnn",
+        "from": "Werline",
+        "to": null,
+        "text": "Кстати, чо в Briges добавить? А то там нечего нового",
+        "time": "2026-01-01T09:47:22.547Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mjuo4tj2ykubr2aviqn",
+          "sender": "FlamingOxygen",
+          "text": "С новым GOYDOM"
+        },
         "tagMention": null
       }
     ],
@@ -749,5 +763,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T09:46:34.190Z"
+  "lastUpdate": "2026-01-01T09:47:22.649Z"
 }
