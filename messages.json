@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T13:39:55.460Z",
+      "lastSeen": "2026-01-01T13:41:29.450Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -125,6 +125,20 @@
         "to": null,
         "text": "Знаешь, типа мы все что-то придумываем ахуенное, а потом когда собираемся добавить просто нечего не поним",
         "time": "2026-01-01T13:39:55.452Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mjvhm7ttd3o7u6z4gto",
+          "sender": "FlamingOxygen",
+          "text": "Xyй знает"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjvhu7ze29293aiwr7",
+        "from": "Werline",
+        "to": null,
+        "text": "Ziben dagen uaaajajjadadad",
+        "time": "2026-01-01T13:41:29.450Z",
         "isGlobal": true,
         "replyTo": {
           "id": "mjvhm7ttd3o7u6z4gto",
@@ -907,5 +921,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:39:55.567Z"
+  "lastUpdate": "2026-01-01T13:41:29.599Z"
 }
