@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T09:43:14.444Z",
+      "lastSeen": "2026-01-01T09:43:33.935Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -64,6 +64,20 @@
           "id": "mjuo4tj2ykubr2aviqn",
           "sender": "FlamingOxygen",
           "text": "С новым GOYDOM"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjv9c8xbsb6l768wnjb",
+        "from": "Werline",
+        "to": null,
+        "text": "Зато не в тг. Да ну нахуй - ЕВСЕЙ ЗАШЕЛ В wp",
+        "time": "2026-01-01T09:43:33.935Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mjuo55rlib69c3m1wxi",
+          "sender": "FlamingOxygen",
+          "text": "Похуй что поздно, зато поздравил"
         },
         "tagMention": null
       }
@@ -691,5 +705,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T09:43:14.519Z"
+  "lastUpdate": "2026-01-01T09:43:34.036Z"
 }
