@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-01T13:04:54.073Z",
+      "lastSeen": "2026-01-01T13:44:40.787Z",
       "isOnline": true
     }
   },
@@ -892,6 +892,20 @@
           "text": "Кстати, добавь меня в друзья и добавь себе описание"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjvhybmbrube1t5618s",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "попробую",
+        "time": "2026-01-01T13:44:40.787Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjvgu8mpg7s77t01gwd",
+          "sender": "Werline",
+          "text": "Ну смотри можно про то как Ксюша захотела быть Волохуимером, но потом сам Волохуимер наказал ее"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -921,5 +935,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:41:29.599Z"
+  "lastUpdate": "2026-01-01T13:44:41.078Z"
 }
