@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T13:48:41.118Z",
+      "lastSeen": "2026-01-01T14:01:33.170Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -978,6 +978,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjvik0s21z5cmww4zxu",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Да??!? Исправлю",
+        "time": "2026-01-01T14:01:33.170Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjvia7gfnxqj20oz2an",
+          "sender": "Infantophile",
+          "text": "но почему фанфики все обрезались"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1007,5 +1021,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:53:55.359Z"
+  "lastUpdate": "2026-01-01T14:01:33.435Z"
 }
