@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-01T13:14:31.210Z",
+      "lastSeen": "2026-01-01T13:39:55.460Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -116,6 +116,20 @@
           "id": "mjv9h5bnz0xwnlkvjnn",
           "sender": "Werline",
           "text": "Кстати, чо в Briges добавить? А то там нечего нового"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjvhs7gcc22b35t3ek4",
+        "from": "Werline",
+        "to": null,
+        "text": "Знаешь, типа мы все что-то придумываем ахуенное, а потом когда собираемся добавить просто нечего не поним",
+        "time": "2026-01-01T13:39:55.452Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mjvhm7ttd3o7u6z4gto",
+          "sender": "FlamingOxygen",
+          "text": "Xyй знает"
         },
         "tagMention": null
       }
@@ -893,5 +907,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-01T13:35:16.056Z"
+  "lastUpdate": "2026-01-01T13:39:55.567Z"
 }
