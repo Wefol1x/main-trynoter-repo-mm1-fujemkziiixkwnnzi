@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2025-12-31T13:44:49.988Z",
+      "lastSeen": "2026-01-01T13:04:43.162Z",
       "isOnline": true
     }
   },
@@ -780,8 +780,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjvgixll98eatasftaa",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "про чо",
+        "time": "2026-01-01T13:04:43.161Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjvgba36gn5ynyo0z3d",
+          "sender": "Werline",
+          "text": "Напиши новый фанфик кста"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-01T12:58:46.372Z"
+  "lastUpdate": "2026-01-01T13:04:43.395Z"
 }
