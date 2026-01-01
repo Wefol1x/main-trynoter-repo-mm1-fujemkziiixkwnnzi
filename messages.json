@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2025-12-31T13:10:34.034Z",
+      "lastSeen": "2026-01-01T09:43:14.444Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -51,6 +51,20 @@
         "time": "2025-12-31T23:50:11.313Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjv9btvwj5c60vnldid",
+        "from": "Werline",
+        "to": null,
+        "text": "Тебя тоже с новым годом",
+        "time": "2026-01-01T09:43:14.444Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mjuo4tj2ykubr2aviqn",
+          "sender": "FlamingOxygen",
+          "text": "С новым GOYDOM"
+        },
         "tagMention": null
       }
     ],
@@ -677,5 +691,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-12-31T23:50:11.332Z"
+  "lastUpdate": "2026-01-01T09:43:14.519Z"
 }
