@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-02T09:08:41.731Z",
+      "lastSeen": "2026-01-02T09:09:44.728Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1054,6 +1054,20 @@
           "text": "Да??!? Исправлю"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjwnklufu351rdbbkh",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Все, у меня уже есть исправленная версия. (Там просто в файле со стилями один стиль начал доминировать над другим и задались фиксированные размеры (какого хуя, не знаю))",
+        "time": "2026-01-02T09:09:44.728Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjvxjmarh89r0p3in84",
+          "sender": "Infantophile",
+          "text": "а когда"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1083,5 +1097,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-02T09:08:41.833Z"
+  "lastUpdate": "2026-01-02T09:09:44.932Z"
 }
