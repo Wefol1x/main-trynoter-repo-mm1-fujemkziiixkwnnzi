@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-02T09:10:33.997Z",
+      "lastSeen": "2026-01-02T09:26:28.601Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1078,6 +1078,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjwo64ft454kyxlothm",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Выложишь новую версию в канал тг*",
+        "time": "2026-01-02T09:26:28.601Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjwnlnv13n1urk2icek",
+          "sender": "Werline",
+          "text": "Давай так. Ты сегодня напишешь фанфик. Когда будешь готов я просто в тг тебе кину версию с исправленными стилями, ты пропатчишь и выложишь новую версию?"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1107,5 +1121,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-02T09:10:34.220Z"
+  "lastUpdate": "2026-01-02T09:26:28.886Z"
 }
