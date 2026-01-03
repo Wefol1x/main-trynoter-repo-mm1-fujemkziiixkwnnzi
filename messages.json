@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-03T14:47:16.268Z",
+      "lastSeen": "2026-01-03T14:48:36.861Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1170,6 +1170,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjyf48vx7xoh8oxmki7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Нет, дело не в пасике, наверное нет кульминации... Хотя блять фанфик на нг это пздц, это высший пилотаж",
+        "time": "2026-01-03T14:48:36.861Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjtsoygkwdb1cgmhfn8",
+          "sender": "Werline",
+          "text": "ЭТО НЕ ФАНФИК ЭТО ИМБИЩЕ. АХУЕННО НАПИСАНО. НЕОЖИДАЛ ЛЕСБИЙСКИЙ СЕКС"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1199,5 +1213,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-03T14:47:16.619Z"
+  "lastUpdate": "2026-01-03T14:48:37.136Z"
 }
