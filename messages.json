@@ -4,6 +4,11 @@
       "name": "Werline",
       "lastSeen": "2026-01-03T16:57:39.561Z",
       "isOnline": true
+    },
+    "Infantophile": {
+      "name": "Infantophile",
+      "lastSeen": "2026-01-03T20:59:46.436Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -22,8 +27,18 @@
           "text": "высший пилотаж анального самолёта"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjysdk77mez32mbhmw",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "могу",
+        "time": "2026-01-03T20:59:46.435Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-03T16:57:52.083Z"
+  "lastUpdate": "2026-01-03T20:59:46.449Z"
 }
