@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-03T14:48:36.861Z",
+      "lastSeen": "2026-01-03T16:53:40.689Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1198,6 +1198,20 @@
           "text": "Нет, дело не в пасике, наверное нет кульминации... Хотя блять фанфик на нг это пздц, это высший пилотаж"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjyjl2vl0vfu610p8min",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Именно",
+        "time": "2026-01-03T16:53:40.689Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyhbaxonm7prh772q",
+          "sender": "Infantophile",
+          "text": "высший пилотаж анального самолёта"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1227,5 +1241,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-03T15:50:05.624Z"
+  "lastUpdate": "2026-01-03T16:53:41.120Z"
 }
