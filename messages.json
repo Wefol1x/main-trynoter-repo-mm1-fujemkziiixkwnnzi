@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-03T20:59:46.436Z",
+      "lastSeen": "2026-01-03T21:00:19.929Z",
       "isOnline": true
     }
   },
@@ -37,8 +37,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjysea1lvo3bmnmh9q",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "однако можно и 10 частей",
+        "time": "2026-01-03T21:00:19.929Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-03T20:59:46.449Z"
+  "lastUpdate": "2026-01-03T21:00:19.965Z"
 }
