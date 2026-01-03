@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-03T13:26:47.845Z",
+      "lastSeen": "2026-01-03T15:50:05.340Z",
       "isOnline": true
     }
   },
@@ -1184,6 +1184,20 @@
           "text": "ЭТО НЕ ФАНФИК ЭТО ИМБИЩЕ. АХУЕННО НАПИСАНО. НЕОЖИДАЛ ЛЕСБИЙСКИЙ СЕКС"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjyhbaxonm7prh772q",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "высший пилотаж анального самолёта",
+        "time": "2026-01-03T15:50:05.340Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyf48vx7xoh8oxmki7",
+          "sender": "Werline",
+          "text": "Нет, дело не в пасике, наверное нет кульминации... Хотя блять фанфик на нг это пздц, это высший пилотаж"
+        },
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1213,5 +1227,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-03T14:48:37.136Z"
+  "lastUpdate": "2026-01-03T15:50:05.624Z"
 }
