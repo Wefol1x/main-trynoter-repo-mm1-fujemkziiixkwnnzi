@@ -17,7 +17,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-03T13:26:22.552Z",
+      "lastSeen": "2026-01-03T13:26:38.377Z",
       "isOnline": true
     }
   },
@@ -1130,6 +1130,16 @@
           "text": "Честно говоря, ты мог бы и лучше.  В принципе фанфик прикольный, но чего-то не хватает.. 🤔"
         },
         "tagMention": null
+      },
+      {
+        "id": "mjyc6trd5hru8a29ypu",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "невероятного поноса",
+        "time": "2026-01-03T13:26:38.377Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1159,5 +1169,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-03T13:26:22.755Z"
+  "lastUpdate": "2026-01-03T13:26:38.629Z"
 }
