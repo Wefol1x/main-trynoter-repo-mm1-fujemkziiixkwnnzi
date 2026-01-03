@@ -12,7 +12,7 @@
     },
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-03T14:46:59.970Z",
+      "lastSeen": "2026-01-03T14:47:16.268Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1160,6 +1160,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjyf2ip8d2hlb235zdh",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну тут сложно на самом деле то",
+        "time": "2026-01-03T14:47:16.268Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "WayPointSMM_Werline": [
@@ -1189,5 +1199,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-03T14:47:00.269Z"
+  "lastUpdate": "2026-01-03T14:47:16.619Z"
 }
