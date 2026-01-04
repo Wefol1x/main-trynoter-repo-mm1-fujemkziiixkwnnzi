@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-03T16:57:39.561Z",
+      "lastSeen": "2026-01-04T07:41:48.441Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -57,8 +57,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjzfb7yqeqplni6jzwg",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну попробуй",
+        "time": "2026-01-04T07:41:48.441Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyseeuxfljr8tejrjt",
+          "sender": "Infantophile",
+          "text": "повышу планку"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-03T21:00:26.211Z"
+  "lastUpdate": "2026-01-04T07:41:48.496Z"
 }
