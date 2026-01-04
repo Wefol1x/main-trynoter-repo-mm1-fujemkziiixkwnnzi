@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-04T07:42:53.765Z",
+      "lastSeen": "2026-01-04T07:54:38.056Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -81,8 +81,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mjzfrpt3cxeblegbw0q",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кажется я понял почему. Изза нагрузки на mm1 раздел, сделаю другую архитектуру",
+        "time": "2026-01-04T07:54:38.056Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjzfcmdhvs3ktz0205o",
+          "sender": "Werline",
+          "text": "У тя тоже чат обрезался 😨"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-04T07:42:55.957Z"
+  "lastUpdate": "2026-01-04T07:54:38.116Z"
 }
