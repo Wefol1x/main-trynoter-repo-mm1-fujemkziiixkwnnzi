@@ -1,0 +1,142 @@
+{
+  "users": {
+    "Werline": {
+      "name": "Werline",
+      "lastSeen": "2026-01-05T05:13:55.263Z",
+      "isOnline": true
+    },
+    "Infantophile": {
+      "name": "Infantophile",
+      "lastSeen": "2026-01-05T13:39:56.347Z",
+      "isOnline": true
+    }
+  },
+  "conversations": {
+    "global": [],
+    "Infantophile_Werline": [
+      {
+        "id": "mjyjq76txm29ophhlce",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я жду от тебя новый имбовый фанфик. Кстати, может тебе сделать что-то многосерийное? По типу 5 частей",
+        "time": "2026-01-03T16:57:39.561Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyhbaxonm7prh772q",
+          "sender": "Infantophile",
+          "text": "высший пилотаж анального самолёта"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjysdk77mez32mbhmw",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "могу",
+        "time": "2026-01-03T20:59:46.435Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjysea1lvo3bmnmh9q",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "однако можно и 10 частей",
+        "time": "2026-01-03T21:00:19.929Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjyseeuxfljr8tejrjt",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "повышу планку",
+        "time": "2026-01-03T21:00:26.169Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjzfb7yqeqplni6jzwg",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну попробуй",
+        "time": "2026-01-04T07:41:48.441Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyseeuxfljr8tejrjt",
+          "sender": "Infantophile",
+          "text": "повышу планку"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjzfcmdhvs3ktz0205o",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "У тя тоже чат обрезался 😨",
+        "time": "2026-01-04T07:42:53.765Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjzfrpt3cxeblegbw0q",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кажется я понял почему. Изза нагрузки на mm1 раздел, сделаю другую архитектуру",
+        "time": "2026-01-04T07:54:38.056Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjzfcmdhvs3ktz0205o",
+          "sender": "Werline",
+          "text": "У тя тоже чат обрезался 😨"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk0pftx8x17pfmbivyq",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Привет",
+        "time": "2026-01-05T05:13:05.852Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk0pgjkg3ljgsa6z85d",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Отправка сообщений стала чуть дольше, но зато надёжнее",
+        "time": "2026-01-05T05:13:39.088Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk0pgw1r4ro7i3xcyj",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Оцени кстати новый фан",
+        "time": "2026-01-05T05:13:55.263Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk17jmt72hhy7g08mba",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "привет",
+        "time": "2026-01-05T13:39:56.347Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
+    ]
+  },
+  "lastUpdate": "2026-01-05T13:39:57.140Z"
+}
