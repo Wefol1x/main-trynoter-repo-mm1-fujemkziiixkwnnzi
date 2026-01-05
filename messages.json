@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-05T13:39:56.347Z",
+      "lastSeen": "2026-01-05T13:40:06.851Z",
       "isOnline": true
     }
   },
@@ -135,8 +135,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk17juwzymtpu274le",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "хороший фанфик",
+        "time": "2026-01-05T13:40:06.851Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-05T13:39:57.140Z"
+  "lastUpdate": "2026-01-05T13:40:07.563Z"
 }
