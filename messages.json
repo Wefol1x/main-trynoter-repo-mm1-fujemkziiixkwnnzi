@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-05T13:40:06.851Z",
+      "lastSeen": "2026-01-05T13:40:22.426Z",
       "isOnline": true
     }
   },
@@ -145,8 +145,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk17k6xmodgmo3jjkdm",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "явно не расистский",
+        "time": "2026-01-05T13:40:22.426Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-05T13:40:07.563Z"
+  "lastUpdate": "2026-01-05T13:40:23.161Z"
 }
