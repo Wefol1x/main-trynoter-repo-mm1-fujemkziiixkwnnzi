@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-04T07:54:38.056Z",
+      "lastSeen": "2026-01-05T05:13:05.852Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -95,8 +95,18 @@
           "text": "У тя тоже чат обрезался 😨"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk0pftx8x17pfmbivyq",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Привет",
+        "time": "2026-01-05T05:13:05.852Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-04T07:54:38.116Z"
+  "lastUpdate": "2026-01-05T05:13:07.165Z"
 }
