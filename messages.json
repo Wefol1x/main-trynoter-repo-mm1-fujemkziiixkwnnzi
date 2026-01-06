@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-06T04:49:21.528Z",
+      "lastSeen": "2026-01-06T04:49:32.016Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -169,8 +169,18 @@
           "text": "явно не расистский"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk241do0cihf9cfrpw",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Рад что тебе фан зашел",
+        "time": "2026-01-06T04:49:32.016Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-06T04:49:22.297Z"
+  "lastUpdate": "2026-01-06T04:49:32.986Z"
 }
