@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-06T04:49:32.016Z",
+      "lastSeen": "2026-01-07T12:25:28.923Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -179,8 +179,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk3zrl23xzkkk14g158",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Как твой фан на 10 частей?",
+        "time": "2026-01-07T12:25:28.923Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-06T04:49:32.986Z"
+  "lastUpdate": "2026-01-07T12:25:30.060Z"
 }
