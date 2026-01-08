@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-08T19:06:28.037Z",
+      "lastSeen": "2026-01-08T19:06:56.882Z",
       "isOnline": true
     }
   },
@@ -209,8 +209,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk5tjq42smqaupv2dd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "уже есть одна пизданутая картинка",
+        "time": "2026-01-08T19:06:56.882Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-08T19:06:28.820Z"
+  "lastUpdate": "2026-01-08T19:06:57.606Z"
 }
