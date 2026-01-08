@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-05T13:40:22.426Z",
+      "lastSeen": "2026-01-08T19:06:28.037Z",
       "isOnline": true
     }
   },
@@ -199,8 +199,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk5tj3uti27911j45o",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я Фотошоп освоил",
+        "time": "2026-01-08T19:06:28.037Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-07T12:25:37.335Z"
+  "lastUpdate": "2026-01-08T19:06:28.820Z"
 }
