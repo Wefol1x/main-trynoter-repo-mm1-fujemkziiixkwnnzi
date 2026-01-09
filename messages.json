@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-09T06:58:27.501Z",
+      "lastSeen": "2026-01-09T06:58:40.186Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -243,8 +243,22 @@
           "text": "фан тоже пишу"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk6iz06yk728y3acpn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Нуну, чекнем",
+        "time": "2026-01-09T06:58:40.186Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk5tj3uti27911j45o",
+          "sender": "Infantophile",
+          "text": "я Фотошоп освоил"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-09T06:58:28.236Z"
+  "lastUpdate": "2026-01-09T06:58:41.083Z"
 }
