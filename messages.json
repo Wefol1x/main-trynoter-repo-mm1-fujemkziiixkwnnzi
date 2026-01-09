@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-07T12:25:36.267Z",
+      "lastSeen": "2026-01-09T06:58:27.501Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -229,8 +229,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk6iyqel1h5stn3pu9k",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Понял",
+        "time": "2026-01-09T06:58:27.501Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk5yh3u8ooawixfi8rl",
+          "sender": "Infantophile",
+          "text": "фан тоже пишу"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-08T21:24:53.679Z"
+  "lastUpdate": "2026-01-09T06:58:28.236Z"
 }
