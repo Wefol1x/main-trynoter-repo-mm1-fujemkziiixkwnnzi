@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-08T21:24:52.784Z",
+      "lastSeen": "2026-01-09T20:15:46.611Z",
       "isOnline": true
     }
   },
@@ -257,8 +257,22 @@
           "text": "я Фотошоп освоил"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk7bg3arnc1vs5zcrps",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я там такой пиздец сделал",
+        "time": "2026-01-09T20:15:46.611Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk6iz06yk728y3acpn",
+          "sender": "Werline",
+          "text": "Нуну, чекнем"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-09T06:58:41.083Z"
+  "lastUpdate": "2026-01-09T20:15:47.495Z"
 }
