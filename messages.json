@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-10T01:45:43.384Z",
+      "lastSeen": "2026-01-10T13:55:54.292Z",
       "isOnline": true
     }
   },
@@ -305,8 +305,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mk8dbfaryhy0939oo4c",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "даа",
+        "time": "2026-01-10T13:55:54.291Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk801bbu4wl1khephwc",
+          "sender": "Werline",
+          "text": "Слушай. Ты же завтра ко мне домой пойдёшь. Сначала мы погуляем, потом посидим у меня) Похаваем, музон врубим, просто посидим... Я так ждал этого))"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-10T07:44:08.567Z"
+  "lastUpdate": "2026-01-10T13:55:55.204Z"
 }
