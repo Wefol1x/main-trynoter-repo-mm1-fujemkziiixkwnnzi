@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-10T07:43:15.482Z",
+      "lastSeen": "2026-01-10T07:44:07.578Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -295,8 +295,18 @@
           "text": "я смог сделать оптическую иллюзию с участием гниющего ануса"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk801bbu4wl1khephwc",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Слушай. Ты же завтра ко мне домой пойдёшь. Сначала мы погуляем, потом посидим у меня) Похаваем, музон врубим, просто посидим... Я так ждал этого))",
+        "time": "2026-01-10T07:44:07.578Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-10T07:43:16.524Z"
+  "lastUpdate": "2026-01-10T07:44:08.567Z"
 }
