@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-09T20:15:46.611Z",
+      "lastSeen": "2026-01-10T01:45:40.979Z",
       "isOnline": true
     }
   },
@@ -271,8 +271,18 @@
           "text": "Нуну, чекнем"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk7n8cqaa4f2pght68",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я смог сделать оптическую иллюзию с участием гниющего ануса",
+        "time": "2026-01-10T01:45:40.979Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-09T20:15:47.495Z"
+  "lastUpdate": "2026-01-10T01:45:42.045Z"
 }
