@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-11T05:50:36.926Z",
+      "lastSeen": "2026-01-11T23:38:07.435Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -416,8 +416,18 @@
           "text": "ноу бро. пепе. так говорить фатафа нельзя шнеля"
         },
         "tagMention": null
+      },
+      {
+        "id": "mkadk0jo58zh42lm5xm",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Читаю ща твои фаны",
+        "time": "2026-01-11T23:38:07.435Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-11T21:08:26.897Z"
+  "lastUpdate": "2026-01-11T23:38:08.955Z"
 }
