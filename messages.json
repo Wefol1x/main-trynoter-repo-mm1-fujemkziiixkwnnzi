@@ -7,12 +7,27 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-11T06:27:46.020Z",
+      "lastSeen": "2026-01-11T17:25:44.712Z",
       "isOnline": true
     }
   },
   "conversations": {
-    "global": [],
+    "global": [
+      {
+        "id": "mka094soc1iaucu1678",
+        "from": "Infantophile",
+        "to": null,
+        "text": "имбафан",
+        "time": "2026-01-11T17:25:44.712Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 99974,
+          "postTitle": "Мир с фундаментом педофилизма или будни Чикатило",
+          "postPreview": "Мир с фундаментом педофилизма. Типо там произошли люди не от обезьян , а от Адама и Евы только Адаму..."
+        }
+      }
+    ],
     "Infantophile_Werline": [
       {
         "id": "mjyjq76txm29ophhlce",
@@ -366,5 +381,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-11T06:27:47.032Z"
+  "lastUpdate": "2026-01-11T17:25:45.627Z"
 }
