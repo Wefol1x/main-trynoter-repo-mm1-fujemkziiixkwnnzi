@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-11T21:07:59.792Z",
+      "lastSeen": "2026-01-11T21:08:26.054Z",
       "isOnline": true
     }
   },
@@ -402,8 +402,22 @@
           "text": "кимпинтяууууууу"
         },
         "tagMention": null
+      },
+      {
+        "id": "mka87ih230tj2dr1v43",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "надо говорить пепе ватафа фа. шнеля Пепе ватафа",
+        "time": "2026-01-11T21:08:26.054Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mka86y7khdv8cqsz9km",
+          "sender": "Infantophile",
+          "text": "ноу бро. пепе. так говорить фатафа нельзя шнеля"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-11T21:08:00.801Z"
+  "lastUpdate": "2026-01-11T21:08:26.897Z"
 }
