@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-11T05:50:19.078Z",
+      "lastSeen": "2026-01-11T05:50:36.926Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -343,8 +343,18 @@
           "text": "это будет лучший день за эти каникулы"
         },
         "tagMention": null
+      },
+      {
+        "id": "mk9bf6v256ru5i4wqry",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Дааа, я соскучился броу",
+        "time": "2026-01-11T05:50:36.926Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-11T05:50:22.219Z"
+  "lastUpdate": "2026-01-11T05:50:38.686Z"
 }
