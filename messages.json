@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-12T12:37:54.125Z",
+      "lastSeen": "2026-01-12T12:39:31.517Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -466,8 +466,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkb5gwjhpt4x58palk",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Они в ахуе",
+        "time": "2026-01-12T12:39:31.517Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb5ete58tkjcw1azde",
+          "sender": "Werline",
+          "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\""
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T12:37:55.205Z"
+  "lastUpdate": "2026-01-12T12:39:32.907Z"
 }
