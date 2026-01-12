@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-12T13:05:51.789Z",
+      "lastSeen": "2026-01-12T13:06:24.784Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -528,8 +528,22 @@
           "text": "а как евсей отреагировал на тот фанфик"
         },
         "tagMention": null
+      },
+      {
+        "id": "mkb6fhcgrorkimx6yy",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мы с Евсеем обдумали новое глобальное обновление на WayPoint. Лаги уйдут",
+        "time": "2026-01-12T13:06:24.784Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb69au5aoy1g8u7taa",
+          "sender": "Infantophile",
+          "text": "блять лагает"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T13:05:53.371Z"
+  "lastUpdate": "2026-01-12T13:06:26.251Z"
 }
