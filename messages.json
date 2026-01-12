@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-12T12:39:31.517Z",
+      "lastSeen": "2026-01-12T13:05:51.789Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -514,8 +514,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkb6ervxwcwaulx36fl",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Он не читал. Хз. Завтра сам узнаешь",
+        "time": "2026-01-12T13:05:51.789Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6csl86z7i1fhonvs",
+          "sender": "Infantophile",
+          "text": "а как евсей отреагировал на тот фанфик"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T13:04:20.683Z"
+  "lastUpdate": "2026-01-12T13:05:53.371Z"
 }
