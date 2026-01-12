@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-12T12:36:22.700Z",
+      "lastSeen": "2026-01-12T12:36:50.802Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -446,8 +446,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkb5dgj6ja3vsvmie5f",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Крч, я так жоско сегодня наебал Евсея, Вову, Сашу и Ксюшу",
+        "time": "2026-01-12T12:36:50.802Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T12:36:23.813Z"
+  "lastUpdate": "2026-01-12T12:36:51.930Z"
 }
