@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-12T13:16:44.267Z",
+      "lastSeen": "2026-01-12T13:17:17.199Z",
       "isOnline": true
     }
   },
@@ -556,8 +556,22 @@
           "text": "Он не читал. Хз. Завтра сам узнаешь"
         },
         "tagMention": null
+      },
+      {
+        "id": "mkb6tgr3m6i4f295wlc",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "жду",
+        "time": "2026-01-12T13:17:17.199Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6fhcgrorkimx6yy",
+          "sender": "Werline",
+          "text": "Мы с Евсеем обдумали новое глобальное обновление на WayPoint. Лаги уйдут"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T13:16:45.382Z"
+  "lastUpdate": "2026-01-12T13:17:18.593Z"
 }
