@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-11T23:38:34.780Z",
+      "lastSeen": "2026-01-12T12:36:22.700Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -436,8 +436,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkb5cuukfsw852zjbua",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля",
+        "time": "2026-01-12T12:36:22.700Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-11T23:38:36.210Z"
+  "lastUpdate": "2026-01-12T12:36:23.813Z"
 }
