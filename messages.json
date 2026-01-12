@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-12T13:01:36.413Z",
+      "lastSeen": "2026-01-12T13:02:28.050Z",
       "isOnline": true
     }
   },
@@ -490,8 +490,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkb6aeoiywp77ox1x3",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "лучше бы сказал что она думает то что мне 50",
+        "time": "2026-01-12T13:02:28.050Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb5ete58tkjcw1azde",
+          "sender": "Werline",
+          "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\""
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T13:01:37.285Z"
+  "lastUpdate": "2026-01-12T13:02:45.578Z"
 }
