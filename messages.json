@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-12T15:58:08.573Z",
+      "lastSeen": "2026-01-12T15:58:44.024Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -626,8 +626,22 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkbcl35kgmx2sy4occv",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Я думаю что это будет главным самым. Можно даже WayWallet убрать (удалить) в нем же смысла нет?",
+        "time": "2026-01-12T15:58:44.024Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkbcjomx21q7c389vzf",
+          "sender": "Werline",
+          "text": "На кой всрались все эти обновления? Ну обновлю я интерфейс, допилю управление"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T15:58:09.727Z"
+  "lastUpdate": "2026-01-12T15:58:48.901Z"
 }
