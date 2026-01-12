@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-01-12T16:04:49.789Z",
+      "lastSeen": "2026-01-12T16:05:54.815Z",
       "isOnline": true
     }
   },
@@ -675,8 +675,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkbcubjzfdzljdd4wv",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Это приложение изначально было создано чтоб сдерживать шизу Никиты и не выставлять его безумства на всеобщее обозрение",
+        "time": "2026-01-12T16:05:54.815Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T16:04:51.240Z"
+  "lastUpdate": "2026-01-12T16:05:56.815Z"
 }
