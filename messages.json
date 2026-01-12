@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-12T15:58:53.620Z",
+      "lastSeen": "2026-01-12T16:15:35.844Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -745,8 +745,18 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mkbd6rvoqrbu1wbidm",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Все таки хз. Я с Никитой каждый день общаюсь тут",
+        "time": "2026-01-12T16:15:35.844Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T16:13:48.889Z"
+  "lastUpdate": "2026-01-12T16:15:37.499Z"
 }
