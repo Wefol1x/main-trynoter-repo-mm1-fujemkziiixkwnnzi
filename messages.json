@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-11T21:08:26.054Z",
+      "lastSeen": "2026-01-12T13:01:36.413Z",
       "isOnline": true
     }
   },
@@ -480,8 +480,18 @@
           "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\""
         },
         "tagMention": null
+      },
+      {
+        "id": "mkb69au5aoy1g8u7taa",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "блять лагает",
+        "time": "2026-01-12T13:01:36.413Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T12:39:32.907Z"
+  "lastUpdate": "2026-01-12T13:01:37.285Z"
 }
