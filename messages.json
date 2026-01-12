@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-12T13:04:19.388Z",
+      "lastSeen": "2026-01-12T13:16:44.267Z",
       "isOnline": true
     }
   },
@@ -542,8 +542,22 @@
           "text": "блять лагает"
         },
         "tagMention": null
+      },
+      {
+        "id": "mkb6srcajc2mpgaet7j",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "о имба",
+        "time": "2026-01-12T13:16:44.266Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6ervxwcwaulx36fl",
+          "sender": "Werline",
+          "text": "Он не читал. Хз. Завтра сам узнаешь"
+        },
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T13:06:26.251Z"
+  "lastUpdate": "2026-01-12T13:16:45.382Z"
 }
