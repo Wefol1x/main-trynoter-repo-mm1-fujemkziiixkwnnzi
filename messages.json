@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-01-12T13:03:43.411Z",
+      "lastSeen": "2026-01-12T13:04:19.388Z",
       "isOnline": true
     }
   },
@@ -504,8 +504,18 @@
           "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\""
         },
         "tagMention": null
+      },
+      {
+        "id": "mkb6csl86z7i1fhonvs",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а как евсей отреагировал на тот фанфик",
+        "time": "2026-01-12T13:04:19.388Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T13:03:49.190Z"
+  "lastUpdate": "2026-01-12T13:04:20.683Z"
 }
