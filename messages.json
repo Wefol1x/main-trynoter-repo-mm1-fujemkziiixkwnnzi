@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-01-12T16:07:29.697Z",
+      "lastSeen": "2026-01-12T16:07:30.668Z",
       "isOnline": true
     }
   },
@@ -727,16 +727,16 @@
         "tagMention": null
       },
       {
-        "id": "mkbcwcrl2m8stgkwpfq",
+        "id": "mkbcwdik53fe5jrmymu",
         "from": "FlamingOxygen",
         "to": "Werline",
         "text": "Да и это приложение использовалось чтоб ты набивал руку а чем-то",
-        "time": "2026-01-12T16:07:29.697Z",
+        "time": "2026-01-12T16:07:30.668Z",
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2026-01-12T16:07:30.905Z"
+  "lastUpdate": "2026-01-12T16:07:36.099Z"
 }
