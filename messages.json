@@ -14,6 +14,11 @@
       "name": "FlamingOxygen",
       "lastSeen": "2026-01-12T16:13:47.257Z",
       "isOnline": true
+    },
+    "Xerrorain": {
+      "name": "Xerrorain",
+      "lastSeen": "2026-01-20T18:50:09.415Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -44,6 +49,16 @@
           "sender": "Infantophile",
           "text": "имбафан"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mkmy8cqvvti95yikfz",
+        "from": "Xerrorain",
+        "to": null,
+        "text": "Осталось понять, куда меня занесло",
+        "time": "2026-01-20T18:50:09.415Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -782,5 +797,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-19T19:39:30.766Z"
+  "lastUpdate": "2026-01-20T18:50:10.374Z"
 }
