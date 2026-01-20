@@ -60,16 +60,6 @@
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
-      },
-      {
-        "id": "mkmy8ebtdhlap9wmd6l",
-        "from": "Xerrorain",
-        "to": null,
-        "text": "Осталось понять, куда меня занесло",
-        "time": "2026-01-20T18:50:11.465Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
       }
     ],
     "Infantophile_Werline": [
@@ -807,5 +797,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-20T18:50:12.526Z"
+  "lastUpdate": "2026-01-20T18:50:16.756Z"
 }
