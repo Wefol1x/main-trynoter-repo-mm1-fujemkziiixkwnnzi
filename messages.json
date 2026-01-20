@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-01-20T18:53:52.902Z",
+      "lastSeen": "2026-01-20T18:54:18.687Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -67,6 +67,20 @@
         "to": null,
         "text": "Ага",
         "time": "2026-01-20T18:53:52.902Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mkmy8cqvvti95yikfz",
+          "sender": "Xerrorain",
+          "text": "Осталось понять, куда меня занесло"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkmydp33zw4ih74c4c",
+        "from": "Werline",
+        "to": null,
+        "text": "Приветики минетики)",
+        "time": "2026-01-20T18:54:18.687Z",
         "isGlobal": true,
         "replyTo": {
           "id": "mkmy8cqvvti95yikfz",
@@ -811,5 +825,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-01-20T18:53:53.871Z"
+  "lastUpdate": "2026-01-20T18:54:19.682Z"
 }
