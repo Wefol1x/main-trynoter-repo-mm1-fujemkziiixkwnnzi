@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-13T17:17:12.595Z",
+      "lastSeen": "2026-02-13T17:17:38.095Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -724,6 +724,16 @@
           "text": "через апк эдитор часто"
         },
         "tagMention": null
+      },
+      {
+        "id": "mll5htbj5rjh3vdupx5",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мне понравились фаны новые. Жаль что без иллюстраций",
+        "time": "2026-02-13T17:17:38.095Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -893,5 +903,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-13T17:17:14.165Z"
+  "lastUpdate": "2026-02-13T17:17:39.790Z"
 }
