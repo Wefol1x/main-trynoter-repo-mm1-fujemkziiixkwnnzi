@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-08T07:43:34.734Z",
+      "lastSeen": "2026-02-13T15:22:31.806Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -690,6 +690,16 @@
           "text": "пиздец полнейший"
         },
         "tagMention": null
+      },
+      {
+        "id": "mll1dse6cvmubabf4d5",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля, вот на сколько часто ты сюда заходишь?",
+        "time": "2026-02-13T15:22:31.806Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -859,5 +869,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-08T07:43:35.753Z"
+  "lastUpdate": "2026-02-13T15:22:43.036Z"
 }
