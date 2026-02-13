@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-13T15:22:59.079Z",
+      "lastSeen": "2026-02-13T15:22:30.130Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -692,21 +692,11 @@
         "tagMention": null
       },
       {
-        "id": "mll1dse6cvmubabf4d5",
+        "id": "mll1dr3fm64sb0ys0g",
         "from": "Werline",
         "to": "Infantophile",
         "text": "Бля, вот на сколько часто ты сюда заходишь?",
-        "time": "2026-02-13T15:22:31.806Z",
-        "isGlobal": false,
-        "replyTo": null,
-        "tagMention": null
-      },
-      {
-        "id": "mll1edfrdlvh8hsyziv",
-        "from": "Werline",
-        "to": "Infantophile",
-        "text": "Бля, вот на сколько часто ты сюда заходишь?",
-        "time": "2026-02-13T15:22:59.079Z",
+        "time": "2026-02-13T15:22:30.123Z",
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
@@ -879,5 +869,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-13T15:23:05.434Z"
+  "lastUpdate": "2026-02-13T15:23:26.865Z"
 }
