@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-16T19:59:56.769Z",
+      "lastSeen": "2026-02-16T20:00:20.669Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -938,6 +938,16 @@
           "text": "Бля я такое готовлю для WayPoint. Короче Way3 выйдет уже без рыжих"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlplmm65un1yoxch069",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "или как",
+        "time": "2026-02-16T20:00:20.669Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1107,5 +1117,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T19:59:58.254Z"
+  "lastUpdate": "2026-02-16T20:00:21.879Z"
 }
