@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-16T19:28:57.026Z",
+      "lastSeen": "2026-02-16T19:59:56.769Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -924,6 +924,20 @@
           "text": "сумеречное изгнание"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlplm3q8gwq51k3y0r",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "типо без его акка в вейпоинт?",
+        "time": "2026-02-16T19:59:56.769Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlpkmik70sqhg2acax3",
+          "sender": "Werline",
+          "text": "Бля я такое готовлю для WayPoint. Короче Way3 выйдет уже без рыжих"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1093,5 +1107,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T19:32:17.760Z"
+  "lastUpdate": "2026-02-16T19:59:58.254Z"
 }
