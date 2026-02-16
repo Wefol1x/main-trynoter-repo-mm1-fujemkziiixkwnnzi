@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-15T12:23:00.694Z",
+      "lastSeen": "2026-02-16T14:28:41.140Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -838,6 +838,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mlp9s3lgoagnpefegdn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Все, севу кинули ото всюду",
+        "time": "2026-02-16T14:28:41.140Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1007,5 +1017,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-15T17:18:34.622Z"
+  "lastUpdate": "2026-02-16T14:28:42.373Z"
 }
