@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-15T17:18:29.951Z",
+      "lastSeen": "2026-02-16T19:28:57.026Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -858,6 +858,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mlpki8qphtmc9xjnyw",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "сумеречное изгнание",
+        "time": "2026-02-16T19:28:57.025Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlp9s3lgoagnpefegdn",
+          "sender": "Werline",
+          "text": "Все, севу кинули ото всюду"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1027,5 +1041,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T19:15:04.081Z"
+  "lastUpdate": "2026-02-16T19:28:58.196Z"
 }
