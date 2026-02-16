@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-16T19:29:56.710Z",
+      "lastSeen": "2026-02-16T19:30:03.640Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -90,11 +90,11 @@
         "tagMention": null
       },
       {
-        "id": "mlpkjismr5a7ooaa57",
+        "id": "mlpkjo54qvee7ufo7e",
         "from": "Werline",
         "to": null,
         "text": "Everyone, мы выгнали Севу ото всюду. Из NextRAM, OP1UM (WayPoint) и вообще",
-        "time": "2026-02-16T19:29:56.710Z",
+        "time": "2026-02-16T19:30:03.640Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1051,5 +1051,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T19:30:04.566Z"
+  "lastUpdate": "2026-02-16T19:30:08.463Z"
 }
