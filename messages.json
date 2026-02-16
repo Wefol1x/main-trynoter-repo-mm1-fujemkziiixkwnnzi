@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-16T19:31:35.536Z",
+      "lastSeen": "2026-02-16T19:32:16.375Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -910,6 +910,20 @@
           "text": "сумеречное изгнание"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlpkmik70sqhg2acax3",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля я такое готовлю для WayPoint. Короче Way3 выйдет уже без рыжих",
+        "time": "2026-02-16T19:32:16.375Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlpki8qphtmc9xjnyw",
+          "sender": "Infantophile",
+          "text": "сумеречное изгнание"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1079,5 +1093,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T19:31:36.808Z"
+  "lastUpdate": "2026-02-16T19:32:17.760Z"
 }
