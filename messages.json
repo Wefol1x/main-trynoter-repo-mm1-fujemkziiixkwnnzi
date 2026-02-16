@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-16T20:00:20.669Z",
+      "lastSeen": "2026-02-16T20:08:16.433Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -962,6 +962,20 @@
           "text": "типо без его акка в вейпоинт?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlplwt9t5492sn4dk2b",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "золотой век вейпоинта",
+        "time": "2026-02-16T20:08:16.433Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlplvcihrlfn7ydnmv",
+          "sender": "Werline",
+          "text": "Без его участия"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1131,5 +1145,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T20:07:09.255Z"
+  "lastUpdate": "2026-02-16T20:08:18.641Z"
 }
