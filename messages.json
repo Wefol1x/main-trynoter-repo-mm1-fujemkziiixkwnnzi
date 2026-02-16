@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-16T19:15:02.747Z",
+      "lastSeen": "2026-02-16T19:29:56.710Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -87,6 +87,16 @@
           "sender": "Xerrorain",
           "text": "Осталось понять, куда меня занесло"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mlpkjismr5a7ooaa57",
+        "from": "Werline",
+        "to": null,
+        "text": "Everyone, мы выгнали Севу ото всюду. Из NextRAM, OP1UM (WayPoint) и вообще",
+        "time": "2026-02-16T19:29:56.710Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1041,5 +1051,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-16T19:28:58.196Z"
+  "lastUpdate": "2026-02-16T19:30:04.566Z"
 }
