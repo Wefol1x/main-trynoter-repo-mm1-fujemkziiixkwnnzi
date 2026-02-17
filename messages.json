@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-17T17:55:51.282Z",
+      "lastSeen": "2026-02-17T17:57:11.712Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -391,6 +391,20 @@
         "time": "2026-02-17T17:55:51.282Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwo3hci77xvqj0mft",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну он говорит чтоб ты какое нибудь другое нашел",
+        "time": "2026-02-17T17:57:11.712Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqwg3ziqo1ttfq8dwj",
+          "sender": "FlamingOxygen",
+          "text": "Так что вы меня осуждает за мои увлечения"
+        },
         "tagMention": null
       }
     ],
@@ -1463,5 +1477,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:55:52.761Z"
+  "lastUpdate": "2026-02-17T17:57:13.049Z"
 }
