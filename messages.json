@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-17T17:55:20.470Z",
+      "lastSeen": "2026-02-17T17:55:51.282Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -379,6 +379,16 @@
         "to": null,
         "text": "в лицо",
         "time": "2026-02-17T17:55:20.470Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwmdf64svtoem2jw7",
+        "from": "Infantophile",
+        "to": null,
+        "text": "но ты долго не ходил",
+        "time": "2026-02-17T17:55:51.282Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1453,5 +1463,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:55:21.747Z"
+  "lastUpdate": "2026-02-17T17:55:52.761Z"
 }
