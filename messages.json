@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-17T16:43:23.059Z",
+      "lastSeen": "2026-02-17T16:43:46.583Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -119,6 +119,16 @@
         "to": null,
         "text": "Ух, ифатофильчик чекай кто в вп зашел второй раз за все его существование",
         "time": "2026-02-17T16:43:23.059Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqu1ognyxmizq8lx2d",
+        "from": "Werline",
+        "to": null,
+        "text": "Инфат, объяснишь почему рыжего обидели?",
+        "time": "2026-02-17T16:43:46.583Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1193,5 +1203,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T16:43:24.367Z"
+  "lastUpdate": "2026-02-17T16:43:47.827Z"
 }
