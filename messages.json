@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T15:06:15.902Z",
+      "lastSeen": "2026-02-17T15:09:11.802Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -87,6 +87,16 @@
           "sender": "Xerrorain",
           "text": "Осталось понять, куда меня занесло"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mlqqo1ru5yuq5flxmf8",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Werline какого черта вы с MmAhOoo меня везде блокнули",
+        "time": "2026-02-17T15:09:11.802Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1159,5 +1169,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T15:08:12.815Z"
+  "lastUpdate": "2026-02-17T15:09:13.038Z"
 }
