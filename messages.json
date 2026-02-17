@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T16:47:13.922Z",
+      "lastSeen": "2026-02-17T16:47:16.721Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -139,6 +139,16 @@
         "to": null,
         "text": "Ой бля дайте угадаю, за то что в школе не появлюсь",
         "time": "2026-02-17T16:47:13.922Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqu66ltf2w9ay8hhn9",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Ой бля дайте угадаю, за то что в школе не появлюсь",
+        "time": "2026-02-17T16:47:16.721Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1213,5 +1223,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T16:47:14.972Z"
+  "lastUpdate": "2026-02-17T16:47:17.876Z"
 }
