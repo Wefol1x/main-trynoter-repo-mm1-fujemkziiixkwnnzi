@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:33:48.112Z",
+      "lastSeen": "2026-02-17T17:34:24.877Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -207,6 +207,16 @@
         "to": null,
         "text": "Из-за того что я тебя ненормальным и т.п. называю?",
         "time": "2026-02-17T17:33:48.112Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvustp9kftgs48z77",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Так ты вроде знаешь что я тебя так любя называю",
+        "time": "2026-02-17T17:34:24.877Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1281,5 +1291,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:33:49.198Z"
+  "lastUpdate": "2026-02-17T17:34:25.957Z"
 }
