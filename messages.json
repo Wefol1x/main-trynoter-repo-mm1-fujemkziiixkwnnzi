@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:38:37.401Z",
+      "lastSeen": "2026-02-17T17:44:24.372Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -275,6 +275,16 @@
           "sender": "Infantophile",
           "text": "просто твои педофильские шутки про мя , бывают иногда слишком жесткие"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mlqw7nec27fqy9fw838",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Да и рекламит постоянно тя педофилом называл",
+        "time": "2026-02-17T17:44:24.372Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1347,5 +1357,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:38:38.680Z"
+  "lastUpdate": "2026-02-17T17:44:25.582Z"
 }
