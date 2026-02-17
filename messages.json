@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-16T20:08:16.433Z",
+      "lastSeen": "2026-02-17T17:18:37.534Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -141,6 +141,20 @@
         "time": "2026-02-17T16:47:13.922Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvahum8y92ckmvn93",
+        "from": "Infantophile",
+        "to": null,
+        "text": "заебал нас потому что",
+        "time": "2026-02-17T17:18:37.534Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqu64g2uikq63kbrz",
+          "sender": "FlamingOxygen",
+          "text": "Ой бля дайте угадаю, за то что в школе не появлюсь"
+        },
         "tagMention": null
       }
     ],
@@ -1213,5 +1227,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T16:47:32.341Z"
+  "lastUpdate": "2026-02-17T17:18:38.748Z"
 }
