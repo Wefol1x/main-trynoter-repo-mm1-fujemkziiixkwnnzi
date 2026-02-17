@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-17T14:41:00.212Z",
+      "lastSeen": "2026-02-17T14:44:08.484Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -966,6 +966,20 @@
           "text": "золотой век вейпоинта"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlqprtstyyfws93e8me",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля, пздц. Это получится сутки как без севки",
+        "time": "2026-02-17T14:44:08.477Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlqpnsj8upj6gao67jl",
+          "sender": "Werline",
+          "text": "Типа. Ты имеешь ввиду хорошо что не рыжий?"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1135,5 +1149,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T14:41:02.520Z"
+  "lastUpdate": "2026-02-17T14:44:09.761Z"
 }
