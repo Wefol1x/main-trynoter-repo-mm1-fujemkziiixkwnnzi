@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-17T17:24:18.477Z",
+      "lastSeen": "2026-02-17T17:35:00.305Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -219,6 +219,20 @@
         "time": "2026-02-17T17:34:24.877Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvvk5t6b44y1ysdk2",
+        "from": "Infantophile",
+        "to": null,
+        "text": "да не",
+        "time": "2026-02-17T17:35:00.305Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvu0gg4qcnqrteej4",
+          "sender": "FlamingOxygen",
+          "text": "Из-за того что я тебя ненормальным и т.п. называю?"
+        },
         "tagMention": null
       }
     ],
@@ -1291,5 +1305,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:34:25.957Z"
+  "lastUpdate": "2026-02-17T17:35:01.433Z"
 }
