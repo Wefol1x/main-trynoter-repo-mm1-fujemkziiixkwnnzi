@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-17T14:35:52.477Z",
+      "lastSeen": "2026-02-17T14:40:57.963Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -952,6 +952,20 @@
           "text": "Без его участия"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlqpnqsjgra8wvbdjem",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Типа. Ты имеешь ввиду хорошо что не рыжий?",
+        "time": "2026-02-17T14:40:57.955Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlplwt9t5492sn4dk2b",
+          "sender": "Infantophile",
+          "text": "золотой век вейпоинта"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1121,5 +1135,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T14:36:03.009Z"
+  "lastUpdate": "2026-02-17T14:40:59.399Z"
 }
