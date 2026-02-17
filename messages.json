@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:50:31.888Z",
+      "lastSeen": "2026-02-17T17:50:59.118Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -329,6 +329,20 @@
         "time": "2026-02-17T17:50:31.888Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwg3ziqo1ttfq8dwj",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Так что вы меня осуждает за мои увлечения",
+        "time": "2026-02-17T17:50:59.118Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqwf1pct5943kb85aj",
+          "sender": "FlamingOxygen",
+          "text": "Рекламит постоянно кодит, ему это нравится, ты пишешь принты, тебе это нравится, я играю в видеоигры, мне это нравится"
+        },
         "tagMention": null
       }
     ],
@@ -1401,5 +1415,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:50:33.106Z"
+  "lastUpdate": "2026-02-17T17:51:00.466Z"
 }
