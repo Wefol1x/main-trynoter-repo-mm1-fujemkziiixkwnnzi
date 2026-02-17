@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:34:24.877Z",
+      "lastSeen": "2026-02-17T17:35:49.008Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -232,6 +232,20 @@
           "id": "mlqvu0gg4qcnqrteej4",
           "sender": "FlamingOxygen",
           "text": "Из-за того что я тебя ненормальным и т.п. называю?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqvwlqdjdrxv8f2u6r",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "На счёт скучным я не совсем понял о чем речь, пусть он сам объяснит",
+        "time": "2026-02-17T17:35:48.997Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvhsx879h0nvmaz9k",
+          "sender": "Infantophile",
+          "text": "Рексамит говорил что ты стал тип слишком скучным, только в клешик играешь и се. Меня конечно тож подзаебал но чутка по другим причинам"
         },
         "tagMention": null
       }
@@ -1305,5 +1319,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:35:01.433Z"
+  "lastUpdate": "2026-02-17T17:35:50.055Z"
 }
