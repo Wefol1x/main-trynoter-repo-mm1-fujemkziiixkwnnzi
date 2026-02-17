@@ -88,16 +88,6 @@
           "text": "Осталось понять, куда меня занесло"
         },
         "tagMention": null
-      },
-      {
-        "id": "mlqph730e8l67dujvbi",
-        "from": "Werline",
-        "to": null,
-        "text": "Привет как делалмопоаоаоалаоаььObject.assign(Forum.prototype, {     setupScrollToBottom() {         const messagesContainer = document.querySelector('.messages-scroll-container');         if (!messagesContainer) {             setTimeout(() => this.setupScrollToBottom(), 500);             return;         }          let scrollBtn = document.getElementById('scroll-to-bottom-btn');         if (!scroll",
-        "time": "2026-02-17T14:35:52.476Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
       }
     ],
     "Infantophile_Werline": [
@@ -1131,5 +1121,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T14:35:53.521Z"
+  "lastUpdate": "2026-02-17T14:36:03.009Z"
 }
