@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-17T17:18:37.534Z",
+      "lastSeen": "2026-02-17T17:24:18.477Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -165,6 +165,20 @@
         "time": "2026-02-17T17:19:44.506Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvhsx879h0nvmaz9k",
+        "from": "Infantophile",
+        "to": null,
+        "text": "Рексамит говорил что ты стал тип слишком скучным, только в клешик играешь и се. Меня конечно тож подзаебал но чутка по другим причинам",
+        "time": "2026-02-17T17:24:18.477Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvbxiyjx91p2bekan",
+          "sender": "FlamingOxygen",
+          "text": "Поподробнее можно?"
+        },
         "tagMention": null
       }
     ],
@@ -1237,5 +1251,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:19:54.995Z"
+  "lastUpdate": "2026-02-17T17:24:19.695Z"
 }
