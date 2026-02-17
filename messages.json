@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:32:57.990Z",
+      "lastSeen": "2026-02-17T17:33:21.274Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -187,6 +187,16 @@
         "to": null,
         "text": "В рояль я уже надели 2 не заходил, в бс не заходил неделю гдет",
         "time": "2026-02-17T17:32:57.990Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvtfqynnubyaz633o",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Тя я догадываюсь почёму подзаебал",
+        "time": "2026-02-17T17:33:21.274Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1261,5 +1271,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:32:59.110Z"
+  "lastUpdate": "2026-02-17T17:33:22.319Z"
 }
