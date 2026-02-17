@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:50:09.504Z",
+      "lastSeen": "2026-02-17T17:50:31.888Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -317,6 +317,16 @@
         "to": null,
         "text": "Рекламит постоянно кодит, ему это нравится, ты пишешь принты, тебе это нравится, я играю в видеоигры, мне это нравится",
         "time": "2026-02-17T17:50:09.504Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwfiz405s414okncgm",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Чертов т9",
+        "time": "2026-02-17T17:50:31.888Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1391,5 +1401,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:50:14.085Z"
+  "lastUpdate": "2026-02-17T17:50:33.106Z"
 }
