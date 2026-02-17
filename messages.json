@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-17T17:45:31.756Z",
+      "lastSeen": "2026-02-17T17:55:13.073Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -356,6 +356,20 @@
           "id": "mlqw93e4reaubrvrv1r",
           "sender": "Infantophile",
           "text": "ну он крч хочет сказать что мы ваще ни во что не играем и у нас нету ни одной игры. Этим он хотел сказать что тебе надо взрослеть чтоли"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwljxts8ssrwrr17",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну мы хотели",
+        "time": "2026-02-17T17:55:13.073Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqwhrj9xhwfnny632",
+          "sender": "FlamingOxygen",
+          "text": "Да и вы не взрослее, чуть что вам не нравится вы меня блокаете вместо того чтоб сказать в лицо в чем проблема"
         },
         "tagMention": null
       }
@@ -1429,5 +1443,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:52:17.536Z"
+  "lastUpdate": "2026-02-17T17:55:14.382Z"
 }
