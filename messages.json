@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:50:59.118Z",
+      "lastSeen": "2026-02-17T17:52:16.293Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -342,6 +342,20 @@
           "id": "mlqwf1pct5943kb85aj",
           "sender": "FlamingOxygen",
           "text": "Рекламит постоянно кодит, ему это нравится, ты пишешь принты, тебе это нравится, я играю в видеоигры, мне это нравится"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwhrj9xhwfnny632",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Да и вы не взрослее, чуть что вам не нравится вы меня блокаете вместо того чтоб сказать в лицо в чем проблема",
+        "time": "2026-02-17T17:52:16.293Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqw93e4reaubrvrv1r",
+          "sender": "Infantophile",
+          "text": "ну он крч хочет сказать что мы ваще ни во что не играем и у нас нету ни одной игры. Этим он хотел сказать что тебе надо взрослеть чтоли"
         },
         "tagMention": null
       }
@@ -1415,5 +1429,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:51:00.466Z"
+  "lastUpdate": "2026-02-17T17:52:17.536Z"
 }
