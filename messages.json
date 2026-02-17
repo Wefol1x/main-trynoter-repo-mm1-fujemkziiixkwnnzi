@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-17T14:55:50.654Z",
+      "lastSeen": "2026-02-17T16:43:23.059Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -109,6 +109,16 @@
         "to": null,
         "text": "Объясните суть своих действий",
         "time": "2026-02-17T15:10:47.630Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqu16b69y3xp02i0cs",
+        "from": "Werline",
+        "to": null,
+        "text": "Ух, ифатофильчик чекай кто в вп зашел второй раз за все его существование",
+        "time": "2026-02-17T16:43:23.059Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1183,5 +1193,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T15:10:48.456Z"
+  "lastUpdate": "2026-02-17T16:43:24.367Z"
 }
