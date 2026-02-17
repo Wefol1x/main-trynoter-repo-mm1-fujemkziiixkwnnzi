@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-17T17:36:43.266Z",
+      "lastSeen": "2026-02-17T17:45:31.756Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -285,6 +285,20 @@
         "time": "2026-02-17T17:44:24.372Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqw93e4reaubrvrv1r",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну он крч хочет сказать что мы ваще ни во что не играем и у нас нету ни одной игры. Этим он хотел сказать что тебе надо взрослеть чтоли",
+        "time": "2026-02-17T17:45:31.756Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvwlqdjdrxv8f2u6r",
+          "sender": "FlamingOxygen",
+          "text": "На счёт скучным я не совсем понял о чем речь, пусть он сам объяснит"
+        },
         "tagMention": null
       }
     ],
@@ -1357,5 +1371,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:44:25.582Z"
+  "lastUpdate": "2026-02-17T17:45:33.351Z"
 }
