@@ -142,16 +142,6 @@
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
-      },
-      {
-        "id": "mlqu66ltf2w9ay8hhn9",
-        "from": "FlamingOxygen",
-        "to": null,
-        "text": "Ой бля дайте угадаю, за то что в школе не появлюсь",
-        "time": "2026-02-17T16:47:16.721Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
       }
     ],
     "Infantophile_Werline": [
@@ -1223,5 +1213,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T16:47:17.876Z"
+  "lastUpdate": "2026-02-17T16:47:32.341Z"
 }
