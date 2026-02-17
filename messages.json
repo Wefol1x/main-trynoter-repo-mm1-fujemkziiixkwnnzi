@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-17T14:44:08.484Z",
+      "lastSeen": "2026-02-17T14:55:50.654Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -980,6 +980,16 @@
           "text": "Типа. Ты имеешь ввиду хорошо что не рыжий?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mlqq6vlqeoh8cnttlc7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Как много в словосочетании - залупа со вкусом залупы...",
+        "time": "2026-02-17T14:55:50.654Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1149,5 +1159,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T14:44:09.761Z"
+  "lastUpdate": "2026-02-17T14:55:51.850Z"
 }
