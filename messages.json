@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:35:51.929Z",
+      "lastSeen": "2026-02-17T17:38:37.401Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -260,6 +260,20 @@
           "id": "mlqvu0gg4qcnqrteej4",
           "sender": "FlamingOxygen",
           "text": "Из-за того что я тебя ненормальным и т.п. называю?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqw07o9itl3h5tualh",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Соглашусь, перегнул, хотя ты сам такой образ и выстраивал сам",
+        "time": "2026-02-17T17:38:37.401Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvxrlu0ee3zecrifun",
+          "sender": "Infantophile",
+          "text": "просто твои педофильские шутки про мя , бывают иногда слишком жесткие"
         },
         "tagMention": null
       }
@@ -1333,5 +1347,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:36:44.517Z"
+  "lastUpdate": "2026-02-17T17:38:38.680Z"
 }
