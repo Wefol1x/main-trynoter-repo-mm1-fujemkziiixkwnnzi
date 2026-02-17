@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T17:19:47.003Z",
+      "lastSeen": "2026-02-17T17:32:57.990Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -179,6 +179,16 @@
           "sender": "FlamingOxygen",
           "text": "Поподробнее можно?"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mlqvsxs6yz50z2h6j",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "В рояль я уже надели 2 не заходил, в бс не заходил неделю гдет",
+        "time": "2026-02-17T17:32:57.990Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1251,5 +1261,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-17T17:24:19.695Z"
+  "lastUpdate": "2026-02-17T17:32:59.110Z"
 }
