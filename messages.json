@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T15:31:06.378Z",
+      "lastSeen": "2026-02-18T15:43:59.160Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -693,6 +693,20 @@
         "time": "2026-02-18T15:41:11.944Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls7cn20ujaspy81p5",
+        "from": "Werline",
+        "to": null,
+        "text": "Ну да согласен, блок излишнее, я это понял уже через раз и извини. Но благодаря этому ты в вп",
+        "time": "2026-02-18T15:43:59.160Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls79214wqykuc2shy",
+          "sender": "FlamingOxygen",
+          "text": "В некоторые да, хотя тот же рояль, колда меня достали"
+        },
         "tagMention": null
       }
     ],
@@ -1765,5 +1779,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T15:41:13.501Z"
+  "lastUpdate": "2026-02-18T15:44:02.501Z"
 }
