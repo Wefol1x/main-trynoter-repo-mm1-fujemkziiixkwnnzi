@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-18T15:24:43.792Z",
+      "lastSeen": "2026-02-18T15:41:11.945Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -681,6 +681,16 @@
         "to": null,
         "text": "У меня есть основной вопрос - тебе до сих пор интересно в игры играть?",
         "time": "2026-02-18T15:31:06.378Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls79214wqykuc2shy",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "В некоторые да, хотя тот же рояль, колда меня достали",
+        "time": "2026-02-18T15:41:11.944Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1755,5 +1765,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T15:31:08.511Z"
+  "lastUpdate": "2026-02-18T15:41:13.501Z"
 }
