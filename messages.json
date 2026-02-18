@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T13:09:01.508Z",
+      "lastSeen": "2026-02-18T14:52:54.310Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -573,6 +573,20 @@
         "time": "2026-02-18T14:43:36.997Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls5iy7a26tzkkd04tz",
+        "from": "Werline",
+        "to": null,
+        "text": "Не в этом плане. Ну бля...",
+        "time": "2026-02-18T14:52:54.310Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls510sup87vnz5b9zl",
+          "sender": "FlamingOxygen",
+          "text": "А хули те собственно не нравится, вот инфат пишет поинты, тоже убивает время, ты когда делаешь что-то для вп ты по факту тоже убиваешь время"
+        },
         "tagMention": null
       }
     ],
@@ -1645,5 +1659,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T14:43:38.885Z"
+  "lastUpdate": "2026-02-18T14:52:56.446Z"
 }
