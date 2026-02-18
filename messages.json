@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-18T14:43:34.036Z",
+      "lastSeen": "2026-02-18T14:43:36.997Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -561,6 +561,16 @@
         "to": null,
         "text": "Вся наша жизнь состоит из убивания времени в той или иной форме",
         "time": "2026-02-18T14:43:34.036Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls5706djabc8kzr2d",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Вся наша жизнь состоит из убивания времени в той или иной форме",
+        "time": "2026-02-18T14:43:36.997Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1635,5 +1645,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T14:43:35.327Z"
+  "lastUpdate": "2026-02-18T14:43:38.885Z"
 }
