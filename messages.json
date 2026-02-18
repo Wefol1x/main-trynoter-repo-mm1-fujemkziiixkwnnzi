@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T15:49:44.571Z",
+      "lastSeen": "2026-02-18T17:05:34.490Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -717,6 +717,20 @@
         "time": "2026-02-18T15:49:44.571Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlsa9kbeae17mgmc8t",
+        "from": "Werline",
+        "to": null,
+        "text": "Правильно, ты просто заходишь сюда. Вот так можно всегда заходить, раз в день... Уведомления может быть добавлю (если будет желание переписывать джава с нуля",
+        "time": "2026-02-18T17:05:34.490Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls7k1kqum7j8ei4v",
+          "sender": "Werline",
+          "text": "Вот как ты понимаешь что я тебе написал?"
+        },
         "tagMention": null
       }
     ],
@@ -1789,5 +1803,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T15:49:47.191Z"
+  "lastUpdate": "2026-02-18T17:05:36.571Z"
 }
