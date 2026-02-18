@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-18T15:24:24.921Z",
+      "lastSeen": "2026-02-18T15:24:43.792Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -659,6 +659,20 @@
         "time": "2026-02-18T15:24:24.921Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls6nvkgtovkstyh3i",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Отвергаешь - предлагай",
+        "time": "2026-02-18T15:24:43.792Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls5ojengd3fv0g9ae",
+          "sender": "Werline",
+          "text": "Разве, оксиген, нет больше нечего интересного, чем бы ты мог заняться?"
+        },
         "tagMention": null
       }
     ],
@@ -1731,5 +1745,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T15:24:26.364Z"
+  "lastUpdate": "2026-02-18T15:24:45.132Z"
 }
