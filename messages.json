@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-18T14:43:36.997Z",
+      "lastSeen": "2026-02-18T15:24:24.921Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -647,6 +647,16 @@
         "to": null,
         "text": "Кроме игр",
         "time": "2026-02-18T14:57:27.926Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls6nh09nu2neie0co",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Вообще не понимаю твоих возмущений",
+        "time": "2026-02-18T15:24:24.921Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1721,5 +1731,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T14:57:31.035Z"
+  "lastUpdate": "2026-02-18T15:24:26.364Z"
 }
