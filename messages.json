@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T13:04:16.547Z",
+      "lastSeen": "2026-02-18T13:06:23.693Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -486,6 +486,20 @@
           "id": "mlqy705vkuutbq1jg98",
           "sender": "FlamingOxygen",
           "text": "Так что верлайн, почему ты конкретно считаешь меня скучным?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls1pz650a7xwjxcks7n",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля \"я люблю детей, особенно на завтрак...\"",
+        "time": "2026-02-18T13:06:23.693Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqxqxy7ido5kto9ky",
+          "sender": "Infantophile",
+          "text": "о пр"
         },
         "tagMention": null
       }
@@ -1559,5 +1573,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T13:04:17.657Z"
+  "lastUpdate": "2026-02-18T13:06:24.890Z"
 }
