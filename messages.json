@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-17T18:39:53.492Z",
+      "lastSeen": "2026-02-18T14:37:16.031Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -525,6 +525,20 @@
         "time": "2026-02-18T13:09:01.508Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls4yu7zsf3kzpkhxhj",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Хитро задуманно, соглашусь, добавь сюда уведомления и тогда я буду периодически заходить",
+        "time": "2026-02-18T14:37:16.031Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls1tcxwlm85ixnp46a",
+          "sender": "Werline",
+          "text": "Кстати мы благодаря блокировкам вынудили тебя, оксиген, прийти сюда и общаться с нами тут"
+        },
         "tagMention": null
       }
     ],
@@ -1597,5 +1611,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T13:09:03.898Z"
+  "lastUpdate": "2026-02-18T14:37:17.229Z"
 }
