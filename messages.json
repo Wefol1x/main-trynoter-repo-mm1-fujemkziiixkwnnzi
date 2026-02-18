@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T13:06:23.693Z",
+      "lastSeen": "2026-02-18T13:07:34.294Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -500,6 +500,20 @@
           "id": "mlqxqxy7ido5kto9ky",
           "sender": "Infantophile",
           "text": "о пр"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls1rhnabv9xy286sqt",
+        "from": "Werline",
+        "to": null,
+        "text": "Разве игры это хобби? Ну странное какое-то оно. Разве ты не понимаешь что просто убиваешь время? Это просто алгоритм с рандомом, разве ты этого не понимаешь?",
+        "time": "2026-02-18T13:07:34.294Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqy705vkuutbq1jg98",
+          "sender": "FlamingOxygen",
+          "text": "Так что верлайн, почему ты конкретно считаешь меня скучным?"
         },
         "tagMention": null
       }
@@ -1573,5 +1587,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T13:06:24.890Z"
+  "lastUpdate": "2026-02-18T13:07:54.968Z"
 }
