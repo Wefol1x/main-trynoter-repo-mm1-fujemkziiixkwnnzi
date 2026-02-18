@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T15:43:59.160Z",
+      "lastSeen": "2026-02-18T15:49:44.571Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -707,6 +707,16 @@
           "sender": "FlamingOxygen",
           "text": "В некоторые да, хотя тот же рояль, колда меня достали"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mls7k1kqum7j8ei4v",
+        "from": "Werline",
+        "to": null,
+        "text": "Вот как ты понимаешь что я тебе написал?",
+        "time": "2026-02-18T15:49:44.571Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1779,5 +1789,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T15:44:02.501Z"
+  "lastUpdate": "2026-02-18T15:49:47.191Z"
 }
