@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T13:07:34.294Z",
+      "lastSeen": "2026-02-18T13:07:46.678Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -504,11 +504,11 @@
         "tagMention": null
       },
       {
-        "id": "mls1rhnabv9xy286sqt",
+        "id": "mls1rr7a2uhaumfhdwf",
         "from": "Werline",
         "to": null,
         "text": "Разве игры это хобби? Ну странное какое-то оно. Разве ты не понимаешь что просто убиваешь время? Это просто алгоритм с рандомом, разве ты этого не понимаешь?",
-        "time": "2026-02-18T13:07:34.294Z",
+        "time": "2026-02-18T13:07:46.678Z",
         "isGlobal": true,
         "replyTo": {
           "id": "mlqy705vkuutbq1jg98",
@@ -1587,5 +1587,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T13:07:54.968Z"
+  "lastUpdate": "2026-02-18T13:07:58.689Z"
 }
