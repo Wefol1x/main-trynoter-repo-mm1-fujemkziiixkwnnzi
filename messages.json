@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T13:07:46.678Z",
+      "lastSeen": "2026-02-18T13:09:01.508Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -515,6 +515,16 @@
           "sender": "FlamingOxygen",
           "text": "Так что верлайн, почему ты конкретно считаешь меня скучным?"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mls1tcxwlm85ixnp46a",
+        "from": "Werline",
+        "to": null,
+        "text": "Кстати мы благодаря блокировкам вынудили тебя, оксиген, прийти сюда и общаться с нами тут",
+        "time": "2026-02-18T13:09:01.508Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1587,5 +1597,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T13:07:58.689Z"
+  "lastUpdate": "2026-02-18T13:09:03.898Z"
 }
