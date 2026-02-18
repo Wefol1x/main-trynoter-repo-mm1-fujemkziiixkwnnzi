@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T14:57:27.926Z",
+      "lastSeen": "2026-02-18T15:31:06.378Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -673,6 +673,16 @@
           "sender": "Werline",
           "text": "Разве, оксиген, нет больше нечего интересного, чем бы ты мог заняться?"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mls6w2ru5l8abn3bpu",
+        "from": "Werline",
+        "to": null,
+        "text": "У меня есть основной вопрос - тебе до сих пор интересно в игры играть?",
+        "time": "2026-02-18T15:31:06.378Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1745,5 +1755,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T15:24:45.132Z"
+  "lastUpdate": "2026-02-18T15:31:08.511Z"
 }
