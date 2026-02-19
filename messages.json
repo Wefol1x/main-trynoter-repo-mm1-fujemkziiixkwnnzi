@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-19T13:29:43.702Z",
+      "lastSeen": "2026-02-19T18:33:23.439Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -751,6 +751,20 @@
         "time": "2026-02-19T18:28:18.016Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mltsucismnlhg4u6gzp",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля, оксиген... А ведь скоро фраза \"срать говном\" для нас будет чем то необычным...",
+        "time": "2026-02-19T18:33:23.428Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mltsnsv439f95ik0ulh",
+          "sender": "FlamingOxygen",
+          "text": "На него вся надежда"
+        },
         "tagMention": null
       }
     ],
@@ -1823,5 +1837,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-19T18:28:19.461Z"
+  "lastUpdate": "2026-02-19T18:33:25.222Z"
 }
