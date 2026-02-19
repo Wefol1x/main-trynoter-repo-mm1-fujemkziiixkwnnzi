@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-18T17:05:34.490Z",
+      "lastSeen": "2026-02-19T13:29:43.702Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -731,6 +731,16 @@
           "sender": "Werline",
           "text": "Вот как ты понимаешь что я тебе написал?"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mlthzu3aizz61uf3qs",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля, Everyone, делаю уведомления уже. Если Xerrorain сможет собрать, то очень скоро...",
+        "time": "2026-02-19T13:29:43.702Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1803,5 +1813,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-18T17:05:36.571Z"
+  "lastUpdate": "2026-02-19T13:29:45.250Z"
 }
