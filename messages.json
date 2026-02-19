@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-18T15:41:11.945Z",
+      "lastSeen": "2026-02-19T18:28:18.016Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -739,6 +739,16 @@
         "to": null,
         "text": "Бля, Everyone, делаю уведомления уже. Если Xerrorain сможет собрать, то очень скоро...",
         "time": "2026-02-19T13:29:43.702Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mltsnsv439f95ik0ulh",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "На него вся надежда",
+        "time": "2026-02-19T18:28:18.016Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1813,5 +1823,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-19T13:29:45.250Z"
+  "lastUpdate": "2026-02-19T18:28:19.461Z"
 }
