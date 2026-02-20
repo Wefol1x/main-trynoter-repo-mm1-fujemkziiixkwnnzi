@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T14:08:43.869Z",
+      "lastSeen": "2026-02-20T14:09:16.324Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1781,6 +1781,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mluyujhgyp286aghxed",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Заебал. Лучше чем дс все таки здесь писать. Как минимум без ограничений и полностью все под контролем",
+        "time": "2026-02-20T14:09:16.324Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mluytufxx5w9bvl4h9",
+          "sender": "Werline",
+          "text": "Бля, хули ты не заходишь"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -1972,5 +1986,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T14:08:45.817Z"
+  "lastUpdate": "2026-02-20T14:09:18.294Z"
 }
