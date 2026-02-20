@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-20T13:58:52.214Z",
+      "lastSeen": "2026-02-20T13:59:36.329Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -832,6 +832,16 @@
         "to": null,
         "text": "Че не обновляется",
         "time": "2026-02-20T13:58:52.214Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyi3yh7mxhueb0mi",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Че все через очко работает",
+        "time": "2026-02-20T13:59:36.329Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1928,5 +1938,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T13:59:22.697Z"
+  "lastUpdate": "2026-02-20T13:59:37.674Z"
 }
