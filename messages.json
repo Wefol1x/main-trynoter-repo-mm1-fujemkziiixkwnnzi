@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T14:25:03.878Z",
+      "lastSeen": "2026-02-20T14:40:45.805Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -925,6 +925,17 @@
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mluzz1f1ty8iiwx3v2e",
+        "from": "Werline",
+        "to": null,
+        "text": "Ты по два раза отправляешь сообщения. Все таки у тебя проблемы с соединением. Но я сижу на версии новой. Тут я все пофиксил",
+        "time": "2026-02-20T14:40:45.805Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
       }
     ],
     "Infantophile_Werline": [
@@ -2075,5 +2086,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T14:34:00.524Z"
+  "lastUpdate": "2026-02-20T14:40:47.523Z"
 }
