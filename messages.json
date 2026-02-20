@@ -22,7 +22,7 @@
     },
     "WayPoint": {
       "name": "WayPoint",
-      "lastSeen": "2026-02-20T09:57:48.683Z",
+      "lastSeen": "2026-02-20T09:58:16.965Z",
       "isOnline": true
     }
   },
@@ -1860,7 +1860,19 @@
         "replyTo": null,
         "tagMention": null
       }
+    ],
+    "WayPoint_Werline": [
+      {
+        "id": "mlupvrlxfys3cy6iyff",
+        "from": "WayPoint",
+        "to": "Werline",
+        "text": "Сервисы были перезагружены!",
+        "time": "2026-02-20T09:58:16.965Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
     ]
   },
-  "lastUpdate": "2026-02-20T09:57:51.135Z"
+  "lastUpdate": "2026-02-20T09:58:19.213Z"
 }
