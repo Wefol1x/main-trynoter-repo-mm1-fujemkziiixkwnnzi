@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T10:48:24.669Z",
+      "lastSeen": "2026-02-20T13:50:02.124Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -804,6 +804,16 @@
           "sender": "WayPoint",
           "text": "&&[ctlww]&& / reload proxy,dns"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mluy5swazv8hyke9a9",
+        "from": "Werline",
+        "to": null,
+        "text": "Крч, делаю обнову с добавлением отправки фотографий. Да, с кодом придется конкретно поебаться + добавил три новых сервера под три кластера с фотографиями",
+        "time": "2026-02-20T13:50:02.122Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1898,5 +1908,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T10:48:26.368Z"
+  "lastUpdate": "2026-02-20T13:50:04.196Z"
 }
