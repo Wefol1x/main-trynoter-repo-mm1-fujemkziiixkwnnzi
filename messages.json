@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-19T18:28:18.016Z",
+      "lastSeen": "2026-02-20T13:56:45.603Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -812,6 +812,16 @@
         "to": null,
         "text": "Крч, делаю обнову с добавлением отправки фотографий. Да, с кодом придется конкретно поебаться + добавил три новых сервера под три кластера с фотографиями",
         "time": "2026-02-20T13:50:02.122Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyeg7qc98kqtagg17",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Ща, погоди, обновлюсь",
+        "time": "2026-02-20T13:56:45.595Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1908,5 +1918,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T13:50:04.196Z"
+  "lastUpdate": "2026-02-20T13:56:48.362Z"
 }
