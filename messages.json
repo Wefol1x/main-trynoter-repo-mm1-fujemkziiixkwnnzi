@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-20T20:47:11.644Z",
+      "lastSeen": "2026-02-20T20:47:31.282Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1886,6 +1886,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mlvd2oyaup34f4gfc1c",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "продолжить саинт соулс или чёт новое",
+        "time": "2026-02-20T20:47:31.282Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2110,5 +2120,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T20:47:13.352Z"
+  "lastUpdate": "2026-02-20T20:47:32.820Z"
 }
