@@ -827,16 +827,6 @@
         "tagMention": null
       },
       {
-        "id": "mluyh5x2hkddc19wps5",
-        "from": "FlamingOxygen",
-        "to": null,
-        "text": "Че не обновляется",
-        "time": "2026-02-20T13:58:52.214Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
-      },
-      {
         "id": "mluyi3yh7mxhueb0mi",
         "from": "FlamingOxygen",
         "to": null,
@@ -1948,5 +1938,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T13:59:56.671Z"
+  "lastUpdate": "2026-02-20T14:01:41.929Z"
 }
