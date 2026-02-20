@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T14:11:24.604Z",
+      "lastSeen": "2026-02-20T14:17:43.735Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1993,8 +1993,19 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mluz5f075mhoj30r0k",
+        "from": "Werline",
+        "to": "WayPoint",
+        "text": "Тест сообщение1",
+        "time": "2026-02-20T14:17:43.735Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
       }
     ]
   },
-  "lastUpdate": "2026-02-20T14:11:25.999Z"
+  "lastUpdate": "2026-02-20T14:17:44.998Z"
 }
