@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-20T20:47:31.282Z",
+      "lastSeen": "2026-02-20T20:49:57.708Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1896,6 +1896,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mlvd5txotwyvgq5wl8l",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а чо за боты появились",
+        "time": "2026-02-20T20:49:57.708Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2120,5 +2130,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T20:47:32.820Z"
+  "lastUpdate": "2026-02-20T20:49:59.255Z"
 }
