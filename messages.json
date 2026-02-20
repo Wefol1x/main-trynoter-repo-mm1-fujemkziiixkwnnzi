@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-20T13:56:50.136Z",
+      "lastSeen": "2026-02-20T13:58:59.301Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -848,6 +848,16 @@
           "sender": "FlamingOxygen",
           "text": "Ща, погоди, обновлюсь"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mluyhbdxio2quut9ya",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Че не обновл",
+        "time": "2026-02-20T13:58:59.301Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -1942,5 +1952,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T13:58:23.101Z"
+  "lastUpdate": "2026-02-20T13:59:00.758Z"
 }
