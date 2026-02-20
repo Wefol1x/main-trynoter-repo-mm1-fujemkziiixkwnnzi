@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T13:58:21.345Z",
+      "lastSeen": "2026-02-20T13:50:02.124Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-20T13:58:59.301Z",
+      "lastSeen": "2026-02-20T13:58:52.214Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -837,25 +837,11 @@
         "tagMention": null
       },
       {
-        "id": "mluygi3lqkc661v61es",
-        "from": "Werline",
-        "to": null,
-        "text": "Давай, там как раз новый интерфейс впч",
-        "time": "2026-02-20T13:58:21.345Z",
-        "isGlobal": true,
-        "replyTo": {
-          "id": "mluyeg7qc98kqtagg17",
-          "sender": "FlamingOxygen",
-          "text": "Ща, погоди, обновлюсь"
-        },
-        "tagMention": null
-      },
-      {
-        "id": "mluyhbdxio2quut9ya",
+        "id": "mluyh5x2hkddc19wps5",
         "from": "FlamingOxygen",
         "to": null,
-        "text": "Че не обновл",
-        "time": "2026-02-20T13:58:59.301Z",
+        "text": "Че не обновляется",
+        "time": "2026-02-20T13:58:52.214Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -1952,5 +1938,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T13:59:00.758Z"
+  "lastUpdate": "2026-02-20T13:59:04.757Z"
 }
