@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T13:57:55.311Z",
+      "lastSeen": "2026-02-20T13:58:21.345Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -834,6 +834,20 @@
         "time": "2026-02-20T13:56:50.136Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluygi3lqkc661v61es",
+        "from": "Werline",
+        "to": null,
+        "text": "Давай, там как раз новый интерфейс впч",
+        "time": "2026-02-20T13:58:21.345Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mluyeg7qc98kqtagg17",
+          "sender": "FlamingOxygen",
+          "text": "Ща, погоди, обновлюсь"
+        },
         "tagMention": null
       }
     ],
@@ -1928,5 +1942,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T13:58:04.916Z"
+  "lastUpdate": "2026-02-20T13:58:23.101Z"
 }
