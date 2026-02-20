@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-20T13:50:02.124Z",
+      "lastSeen": "2026-02-20T14:05:08.106Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -844,6 +844,20 @@
         "time": "2026-02-20T13:59:55.308Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyp7yhywm7hnjjyca",
+        "from": "Werline",
+        "to": null,
+        "text": "Хз, проблемы у тебя с соединением поход. Включи или выключи portalwg",
+        "time": "2026-02-20T14:05:08.106Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mluyiilo6qvkinza5se",
+          "sender": "FlamingOxygen",
+          "text": "Щас при ответе сообщение не отправлялось"
+        },
         "tagMention": null
       }
     ],
@@ -1938,5 +1952,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T14:01:41.929Z"
+  "lastUpdate": "2026-02-20T14:05:10.068Z"
 }
