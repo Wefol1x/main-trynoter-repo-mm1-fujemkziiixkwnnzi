@@ -917,16 +917,6 @@
         "tagMention": null
       },
       {
-        "id": "mluzqb889xzefg71nhb",
-        "from": "FlamingOxygen",
-        "to": null,
-        "text": "Выглядит неплохо",
-        "time": "2026-02-20T14:33:58.616Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
-      },
-      {
         "id": "mluzz1f1ty8iiwx3v2e",
         "from": "Werline",
         "to": null,
@@ -2130,5 +2120,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-20T20:49:59.255Z"
+  "lastUpdate": "2026-02-21T17:53:58.455Z"
 }
