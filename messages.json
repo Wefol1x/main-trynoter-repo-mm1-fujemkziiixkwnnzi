@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-02-20T14:33:58.616Z",
+      "lastSeen": "2026-02-21T17:54:14.346Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -939,6 +939,16 @@
           "sender": "Werline",
           "text": "Ты по два раза отправляешь сообщения. Все таки у тебя проблемы с соединением. Но я сижу на версии новой. Тут я все пофиксил"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mlwmbpai1ad2hl2s1w7",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Неприятно",
+        "time": "2026-02-21T17:54:14.346Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -2120,5 +2130,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-21T17:53:58.455Z"
+  "lastUpdate": "2026-02-21T17:54:16.165Z"
 }
