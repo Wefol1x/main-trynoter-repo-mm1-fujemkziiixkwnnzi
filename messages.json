@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-23T15:17:23.685Z",
+      "lastSeen": "2026-02-23T15:17:47.347Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -962,6 +962,20 @@
           "id": "mlwmbpai1ad2hl2s1w7",
           "sender": "FlamingOxygen",
           "text": "Неприятно"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlzbm7kjygldfpjonk",
+        "from": "Werline",
+        "to": null,
+        "text": "Ну то есть надо постараться",
+        "time": "2026-02-23T15:17:47.347Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlzblpb94r8sbl2aivs",
+          "sender": "Werline",
+          "text": "Буду переписывать чо сказать. Надо по новой написать java точь в точь сетевого стека"
         },
         "tagMention": null
       }
@@ -2144,5 +2158,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-23T15:17:25.214Z"
+  "lastUpdate": "2026-02-23T15:17:48.736Z"
 }
