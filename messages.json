@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-24T13:05:33.795Z",
+      "lastSeen": "2026-02-24T13:05:52.235Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1948,6 +1948,20 @@
           "text": "а чо за боты появились"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm0mcewbfnw6168ddar",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я думаю новый разврат напиши и хуй с ним",
+        "time": "2026-02-24T13:05:52.235Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlvd2oyaup34f4gfc1c",
+          "sender": "Infantophile",
+          "text": "продолжить саинт соулс или чёт новое"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2172,5 +2186,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-24T13:05:35.454Z"
+  "lastUpdate": "2026-02-24T13:05:54.845Z"
 }
