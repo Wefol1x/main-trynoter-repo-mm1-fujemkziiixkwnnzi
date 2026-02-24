@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-23T15:17:47.347Z",
+      "lastSeen": "2026-02-24T13:05:33.795Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1934,6 +1934,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm0mc0o3n3gtdfnqvob",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Всм",
+        "time": "2026-02-24T13:05:33.795Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlvd5txotwyvgq5wl8l",
+          "sender": "Infantophile",
+          "text": "а чо за боты появились"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2158,5 +2172,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-23T15:17:48.736Z"
+  "lastUpdate": "2026-02-24T13:05:35.454Z"
 }
