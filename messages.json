@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-20T20:49:57.708Z",
+      "lastSeen": "2026-02-25T11:42:41.244Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1962,6 +1962,20 @@
           "text": "продолжить саинт соулс или чёт новое"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm1ytahon89yimgoytl",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ну лан",
+        "time": "2026-02-25T11:42:41.244Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm0mcewbfnw6168ddar",
+          "sender": "Werline",
+          "text": "Я думаю новый разврат напиши и хуй с ним"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2186,5 +2200,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-24T13:05:54.845Z"
+  "lastUpdate": "2026-02-25T11:42:43.031Z"
 }
