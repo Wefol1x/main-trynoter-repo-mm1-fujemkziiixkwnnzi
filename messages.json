@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-27T13:16:13.341Z",
+      "lastSeen": "2026-02-27T13:16:25.531Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2014,6 +2014,16 @@
           "text": "заметки работника детского морга"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm4x1jjv6t47o9g2xy7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Что за депрессия?",
+        "time": "2026-02-27T13:16:25.531Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2238,5 +2248,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-27T13:16:14.867Z"
+  "lastUpdate": "2026-02-27T13:16:27.102Z"
 }
