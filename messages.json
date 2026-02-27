@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-27T13:45:03.122Z",
+      "lastSeen": "2026-02-27T19:49:55.758Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2092,6 +2092,20 @@
           "text": "Что ты этим хочешь сказать"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm5b3lbizevlhwaovvi",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "кто сможет стать новым писателем фанфиков?",
+        "time": "2026-02-27T19:49:55.758Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm5ahytf73lrp7dr838",
+          "sender": "Werline",
+          "text": "Ты хочешь забросить WayPoint или что?"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2316,5 +2330,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-27T19:33:08.298Z"
+  "lastUpdate": "2026-02-27T19:49:57.271Z"
 }
