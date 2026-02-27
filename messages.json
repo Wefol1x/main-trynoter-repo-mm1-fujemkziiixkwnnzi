@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-27T13:16:25.531Z",
+      "lastSeen": "2026-02-27T13:16:41.645Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -977,6 +977,16 @@
           "sender": "Werline",
           "text": "Буду переписывать чо сказать. Надо по новой написать java точь в точь сетевого стека"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mm4x1vzh4c0m3sbxbj2",
+        "from": "Werline",
+        "to": null,
+        "text": "Со следующей недели займусь WP",
+        "time": "2026-02-27T13:16:41.645Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -2248,5 +2258,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-27T13:16:27.102Z"
+  "lastUpdate": "2026-02-27T13:16:43.100Z"
 }
