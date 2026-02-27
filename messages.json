@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-25T20:22:37.916Z",
+      "lastSeen": "2026-02-27T13:44:37.857Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2034,6 +2034,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm4y1tcx1hh0vsk1h3o",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "выгорел слегка",
+        "time": "2026-02-27T13:44:37.857Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm4x1jjv6t47o9g2xy7",
+          "sender": "Werline",
+          "text": "Что за депрессия?"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2258,5 +2272,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-27T13:16:43.100Z"
+  "lastUpdate": "2026-02-27T13:44:39.503Z"
 }
