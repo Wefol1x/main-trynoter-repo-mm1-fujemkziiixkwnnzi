@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-27T13:44:37.857Z",
+      "lastSeen": "2026-02-27T13:45:03.122Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2048,6 +2048,16 @@
           "text": "Что за депрессия?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm4y2cuqjxfn2bkja9",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "устал писать фанфики",
+        "time": "2026-02-27T13:45:03.122Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2272,5 +2282,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-27T13:44:39.503Z"
+  "lastUpdate": "2026-02-27T13:45:04.727Z"
 }
