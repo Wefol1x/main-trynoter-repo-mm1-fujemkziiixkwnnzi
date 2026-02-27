@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-25T18:56:20.930Z",
+      "lastSeen": "2026-02-27T13:16:13.341Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2000,6 +2000,20 @@
           "text": "Кста как тебе идея написан фан не про говно а про то как кого нибудь в жопу отымели до смерти и потом рассказывать как он разлагается"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm4x1a59te9fvh5dzid",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "+",
+        "time": "2026-02-27T13:16:13.341Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm2hdxzvwp56omyua",
+          "sender": "Infantophile",
+          "text": "заметки работника детского морга"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2224,5 +2238,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-25T20:22:39.621Z"
+  "lastUpdate": "2026-02-27T13:16:14.867Z"
 }
