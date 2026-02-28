@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-27T19:33:06.820Z",
+      "lastSeen": "2026-02-28T08:16:27.715Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2106,6 +2106,20 @@
           "text": "Ты хочешь забросить WayPoint или что?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm61rn0bqtj3b63tgb9",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Все таки забросить решил? В принципе никто",
+        "time": "2026-02-28T08:16:27.707Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm5b3lbizevlhwaovvi",
+          "sender": "Infantophile",
+          "text": "кто сможет стать новым писателем фанфиков?"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2330,5 +2344,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-27T19:49:57.271Z"
+  "lastUpdate": "2026-02-28T08:16:29.156Z"
 }
