@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T20:20:42.712Z",
+      "lastSeen": "2026-02-28T20:21:01.434Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2774,6 +2774,20 @@
           "text": "у них там пароли почти одинаковые"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6rnfjucr07vxh8k8j",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Он сюда вообще не заходит",
+        "time": "2026-02-28T20:21:01.434Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rfoqapul0ukfbzkq",
+          "sender": "Infantophile",
+          "text": "это денис"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3020,5 +3034,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T20:20:45.067Z"
+  "lastUpdate": "2026-02-28T20:21:03.641Z"
 }
