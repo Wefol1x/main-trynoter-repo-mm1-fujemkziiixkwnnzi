@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T11:26:51.319Z",
+      "lastSeen": "2026-02-28T16:47:45.564Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2192,6 +2192,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6k1670r56998uqyhn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Против",
+        "time": "2026-02-28T16:47:45.564Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2416,5 +2426,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T13:02:47.912Z"
+  "lastUpdate": "2026-02-28T16:47:47.068Z"
 }
