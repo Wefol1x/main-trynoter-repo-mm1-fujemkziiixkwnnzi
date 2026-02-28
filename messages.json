@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T19:20:53.156Z",
+      "lastSeen": "2026-02-28T19:32:44.537Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2688,6 +2688,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6pxcah8vymj3wgabv",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Посмотрим чо будет. Он не навредит так то",
+        "time": "2026-02-28T19:32:44.537Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6plleyncp44t3ow2",
+          "sender": "Infantophile",
+          "text": "а возможно удалить чужой акк"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2934,5 +2948,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T19:23:47.811Z"
+  "lastUpdate": "2026-02-28T19:32:46.385Z"
 }
