@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T18:51:25.727Z",
+      "lastSeen": "2026-02-28T18:51:48.914Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2534,6 +2534,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6ogpijozquvv6zsog",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кста у нас какой-то чел появился в вп XXn11",
+        "time": "2026-02-28T18:51:48.914Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2758,5 +2768,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:51:27.225Z"
+  "lastUpdate": "2026-02-28T18:51:50.827Z"
 }
