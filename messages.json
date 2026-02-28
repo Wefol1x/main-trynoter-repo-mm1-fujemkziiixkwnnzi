@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T19:01:04.567Z",
+      "lastSeen": "2026-02-28T19:04:15.684Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2592,6 +2592,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6owpqc0s0vpwrdhu4h",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "блять",
+        "time": "2026-02-28T19:04:15.684Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6ou0t17l9dkdnia1e",
+          "sender": "Werline",
+          "text": "Хз. Ноу био френдс и нечего не писал. Лол"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2838,5 +2852,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T19:03:02.895Z"
+  "lastUpdate": "2026-02-28T19:04:18.306Z"
 }
