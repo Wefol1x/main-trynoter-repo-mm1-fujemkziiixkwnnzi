@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T18:34:43.834Z",
+      "lastSeen": "2026-02-28T18:39:20.793Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2350,6 +2350,20 @@
           "text": "пока что не ухожу"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6o0o9lnfrewyx5vb",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "чутка нестабильный",
+        "time": "2026-02-28T18:39:20.793Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6nxd8k88xj5fs9ppv",
+          "sender": "Werline",
+          "text": "Бля что это за внезапные депы в последнее время"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2574,5 +2588,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:36:48.223Z"
+  "lastUpdate": "2026-02-28T18:39:23.177Z"
 }
