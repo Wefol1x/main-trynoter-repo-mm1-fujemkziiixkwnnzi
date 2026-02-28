@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T19:23:46.004Z",
+      "lastSeen": "2026-02-28T19:43:47.366Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2702,6 +2702,20 @@
           "text": "а возможно удалить чужой акк"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6qbjqefd5ymrm2t0m",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "чо можно сделать с чужим акком",
+        "time": "2026-02-28T19:43:47.366Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6pxcah8vymj3wgabv",
+          "sender": "Werline",
+          "text": "Посмотрим чо будет. Он не навредит так то"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2948,5 +2962,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T19:32:46.385Z"
+  "lastUpdate": "2026-02-28T19:43:53.716Z"
 }
