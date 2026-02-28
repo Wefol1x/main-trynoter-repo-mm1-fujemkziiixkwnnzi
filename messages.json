@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T19:02:31.376Z",
+      "lastSeen": "2026-02-28T19:03:01.387Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -985,6 +985,16 @@
         "to": null,
         "text": "Со следующей недели займусь WP",
         "time": "2026-02-27T13:16:41.645Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6ov4ejhgsmwb33fk",
+        "from": "Werline",
+        "to": null,
+        "text": "У нас новый чел зарегался под ником XXn11",
+        "time": "2026-02-28T19:03:01.387Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -2828,5 +2838,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T19:02:32.934Z"
+  "lastUpdate": "2026-02-28T19:03:02.895Z"
 }
