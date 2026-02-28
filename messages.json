@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T18:16:54.061Z",
+      "lastSeen": "2026-02-28T18:34:43.834Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2322,6 +2322,20 @@
           "text": "ну думаю у вас там лучше получится"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6nuqk9verznl5kama",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "пока что не ухожу",
+        "time": "2026-02-28T18:34:43.834Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6ncwoatxh8hwqwdk9",
+          "sender": "Werline",
+          "text": "Пожалуйста, не уходи из WP прошу 🥺"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2546,5 +2560,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:20:53.676Z"
+  "lastUpdate": "2026-02-28T18:34:45.665Z"
 }
