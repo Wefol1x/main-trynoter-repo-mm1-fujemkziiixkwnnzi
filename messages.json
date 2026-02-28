@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T20:48:14.301Z",
+      "lastSeen": "2026-02-28T20:48:40.746Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2840,6 +2840,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6smzvuijjdgcgqtri",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "У него на конце ma. Видно maть шлюха",
+        "time": "2026-02-28T20:48:40.746Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3086,5 +3096,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T20:48:16.270Z"
+  "lastUpdate": "2026-02-28T20:48:42.500Z"
 }
