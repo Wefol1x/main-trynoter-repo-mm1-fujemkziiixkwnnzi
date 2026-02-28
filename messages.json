@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T18:43:20.397Z",
+      "lastSeen": "2026-02-28T18:43:51.117Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2442,6 +2442,16 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6o6gul4qz4rrgok9o",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "но изначально вейпоинт я не просил делать",
+        "time": "2026-02-28T18:43:51.117Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2666,5 +2676,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:43:21.954Z"
+  "lastUpdate": "2026-02-28T18:43:52.766Z"
 }
