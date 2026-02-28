@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T18:48:12.472Z",
+      "lastSeen": "2026-02-28T18:49:01.799Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2504,6 +2504,16 @@
           "text": "Ну к чему ты ведешь"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6od4kn5vcpyr4khf",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "просто к слову",
+        "time": "2026-02-28T18:49:01.799Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2728,5 +2738,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:48:14.066Z"
+  "lastUpdate": "2026-02-28T18:49:03.582Z"
 }
