@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T18:42:44.874Z",
+      "lastSeen": "2026-02-28T18:47:43.754Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2476,6 +2476,20 @@
           "text": "Мне надо это исправить"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6obgcqte6vh8uh2kg",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну к чему ты ведешь",
+        "time": "2026-02-28T18:47:43.754Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6o7juy0jxwg9qz8ul",
+          "sender": "Infantophile",
+          "text": "он появился как раз в тот момент когда я переставал нести хуйню и фанфики рассказывать"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2700,5 +2714,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:45:53.227Z"
+  "lastUpdate": "2026-02-28T18:47:45.573Z"
 }
