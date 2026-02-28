@@ -3109,16 +3109,6 @@
     ],
     "Werline_XXn11": [
       {
-        "id": "mm6ogxmcj7nwlql3nai",
-        "from": "Werline",
-        "to": "XXn11",
-        "text": "Привет",
-        "time": "2026-02-28T18:51:59.412Z",
-        "isGlobal": false,
-        "replyTo": null,
-        "tagMention": null
-      },
-      {
         "id": "mm6oh32sl0niod6i0pl",
         "from": "Werline",
         "to": "XXn11",
@@ -3130,5 +3120,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T21:13:23.362Z"
+  "lastUpdate": "2026-02-28T21:13:50.233Z"
 }
