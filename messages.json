@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T13:02:42.228Z",
+      "lastSeen": "2026-02-28T18:00:26.551Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2242,6 +2242,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6mmn5ifd2g3b8ykyd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а кто кста писать будет его?",
+        "time": "2026-02-28T18:00:26.550Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6k1sw8iyjg36c3hto",
+          "sender": "Werline",
+          "text": "Мы ебейшую идею придумали для нового фана"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2466,5 +2480,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T16:48:50.930Z"
+  "lastUpdate": "2026-02-28T18:00:28.060Z"
 }
