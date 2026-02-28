@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T18:44:41.674Z",
+      "lastSeen": "2026-02-28T18:45:51.592Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2462,6 +2462,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6o91t43xfgh1snhih",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "творческий кризис",
+        "time": "2026-02-28T18:45:51.592Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6o51qiv4uv8ap20y",
+          "sender": "Werline",
+          "text": "Мне надо это исправить"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2686,5 +2700,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:44:43.604Z"
+  "lastUpdate": "2026-02-28T18:45:53.227Z"
 }
