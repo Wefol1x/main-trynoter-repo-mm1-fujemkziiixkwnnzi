@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T19:32:44.537Z",
+      "lastSeen": "2026-02-28T19:44:48.915Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2716,6 +2716,20 @@
           "text": "Посмотрим чо будет. Он не навредит так то"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6qcv83gjhg9o2m017",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Поломать, забанить, авторизоваться в него (у меня есть ключи, хеши, пароли) зареган акк пару дней назад",
+        "time": "2026-02-28T19:44:48.915Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6qbjqefd5ymrm2t0m",
+          "sender": "Infantophile",
+          "text": "чо можно сделать с чужим акком"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2962,5 +2976,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T19:43:53.716Z"
+  "lastUpdate": "2026-02-28T19:44:50.745Z"
 }
