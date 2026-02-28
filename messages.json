@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T18:45:51.592Z",
+      "lastSeen": "2026-02-28T18:48:12.472Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2490,6 +2490,20 @@
           "text": "он появился как раз в тот момент когда я переставал нести хуйню и фанфики рассказывать"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6oc2igf0htxpifzut",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ни к чему",
+        "time": "2026-02-28T18:48:12.472Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6obgcqte6vh8uh2kg",
+          "sender": "Werline",
+          "text": "Ну к чему ты ведешь"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2714,5 +2728,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:47:45.573Z"
+  "lastUpdate": "2026-02-28T18:48:14.066Z"
 }
