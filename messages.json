@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T20:58:58.505Z",
+      "lastSeen": "2026-02-28T21:13:05.054Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2860,6 +2860,20 @@
         "isGlobal": false,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mm6tidr2ommitsal2y",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Цитирую (да это был он) - / Просто по какой причине, при тестовых сборках WayPoint в свой аккаунт я войти не мог/",
+        "time": "2026-02-28T21:13:05.054Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rugz52pqo4ukppz",
+          "sender": "Infantophile",
+          "text": "в гитхабе чекнул"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3106,5 +3120,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T20:59:00.681Z"
+  "lastUpdate": "2026-02-28T21:13:06.862Z"
 }
