@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T21:13:20.928Z",
+      "lastSeen": "2026-02-28T21:14:41.706Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -997,6 +997,20 @@
         "time": "2026-02-28T19:03:01.387Z",
         "isGlobal": true,
         "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6tkgbujkg6zk3rme",
+        "from": "Werline",
+        "to": null,
+        "text": "Upd. / это тест акк xerrorain",
+        "time": "2026-02-28T21:14:41.706Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mm6ov4ejhgsmwb33fk",
+          "sender": "Werline",
+          "text": "У нас новый чел зарегался под ником XXn11"
+        },
         "tagMention": null
       }
     ],
@@ -3109,5 +3123,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-02-28T21:14:09.245Z"
+  "lastUpdate": "2026-02-28T21:14:44.431Z"
 }
