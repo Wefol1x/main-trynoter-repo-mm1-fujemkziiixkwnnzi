@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-27T19:49:55.758Z",
+      "lastSeen": "2026-02-28T10:11:31.326Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2120,6 +2120,20 @@
           "text": "кто сможет стать новым писателем фанфиков?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm65vlvi9rwynb92xd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ну я бы забросил",
+        "time": "2026-02-28T10:11:31.326Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm61rn0bqtj3b63tgb9",
+          "sender": "Werline",
+          "text": "Все таки забросить решил? В принципе никто"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2344,5 +2358,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T08:16:29.156Z"
+  "lastUpdate": "2026-02-28T10:11:33.821Z"
 }
