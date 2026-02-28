@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T20:21:28.002Z",
+      "lastSeen": "2026-02-28T20:41:02.772Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2816,6 +2816,20 @@
           "text": "Всм. Ты откуда знаешь"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6sd6i97lv1uqrl8y7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Нихуя ты. Я тебя недооценивал",
+        "time": "2026-02-28T20:41:02.769Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rugz52pqo4ukppz",
+          "sender": "Infantophile",
+          "text": "в гитхабе чекнул"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3062,5 +3076,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T20:26:31.813Z"
+  "lastUpdate": "2026-02-28T20:41:04.646Z"
 }
