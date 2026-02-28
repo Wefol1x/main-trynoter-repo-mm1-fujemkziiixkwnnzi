@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T18:20:51.946Z",
+      "lastSeen": "2026-02-28T18:36:46.532Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2336,6 +2336,20 @@
           "text": "Пожалуйста, не уходи из WP прошу 🥺"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6nxd8k88xj5fs9ppv",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля что это за внезапные депы в последнее время",
+        "time": "2026-02-28T18:36:46.532Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6nuqk9verznl5kama",
+          "sender": "Infantophile",
+          "text": "пока что не ухожу"
+        },
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2560,5 +2574,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T18:34:45.665Z"
+  "lastUpdate": "2026-02-28T18:36:48.223Z"
 }
