@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T19:10:37.636Z",
+      "lastSeen": "2026-02-28T19:23:36.491Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2668,6 +2668,16 @@
           "text": "чо за челик"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6plleyncp44t3ow2",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а возможно удалить чужой акк",
+        "time": "2026-02-28T19:23:36.490Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -2914,5 +2924,5 @@
       }
     ]
   },
-  "lastUpdate": "2026-02-28T19:20:54.712Z"
+  "lastUpdate": "2026-02-28T19:23:38.896Z"
 }
