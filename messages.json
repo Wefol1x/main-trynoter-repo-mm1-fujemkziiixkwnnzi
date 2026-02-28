@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-02-28T23:06:38.270Z",
+      "lastSeen": "2026-02-28T23:43:40.920Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1011,6 +1011,16 @@
           "sender": "Werline",
           "text": "У нас новый чел зарегался под ником XXn11"
         },
+        "tagMention": null
+      },
+      {
+        "id": "mm6yw1vcdjqt5q9emi9",
+        "from": "Infantophile",
+        "to": null,
+        "text": "героин",
+        "time": "2026-02-28T23:43:40.920Z",
+        "isGlobal": true,
+        "replyTo": null,
         "tagMention": null
       }
     ],
@@ -3143,5 +3153,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-02-28T23:06:41.858Z"
+  "lastUpdate": "2026-02-28T23:43:42.507Z"
 }
