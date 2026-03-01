@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-02-28T23:49:02.708Z",
+      "lastSeen": "2026-03-01T00:08:05.305Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -2952,6 +2952,16 @@
           "text": "писи попы"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm6zrfsp6b02a4ueruw",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Пердеть говном?",
+        "time": "2026-03-01T00:08:05.305Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3177,5 +3187,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-02-28T23:49:04.754Z"
+  "lastUpdate": "2026-03-01T00:08:07.320Z"
 }
