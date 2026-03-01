@@ -7,7 +7,7 @@
     },
     "Infantophile": {
       "name": "Infantophile",
-      "lastSeen": "2026-03-01T17:08:00.386Z",
+      "lastSeen": "2026-03-01T19:00:35.176Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2996,6 +2996,16 @@
           "text": "я в рабстве вейпоинта"
         },
         "tagMention": null
+      },
+      {
+        "id": "mm847u94cm6effh81f",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а перестать быть вефоликсом можно?",
+        "time": "2026-03-01T19:00:35.176Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3221,5 +3231,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-03-01T17:43:22.117Z"
+  "lastUpdate": "2026-03-01T19:00:38.869Z"
 }
