@@ -12,7 +12,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2026-03-03T18:01:28.457Z",
+      "lastSeen": "2026-03-03T18:01:34.796Z",
       "isOnline": true
     },
     "Xerrorain": {
@@ -1024,11 +1024,11 @@
         "tagMention": null
       },
       {
-        "id": "mmawzix50djlcjjk2g5",
+        "id": "mmawznt8rsy5eidmnce",
         "from": "FlamingOxygen",
         "to": null,
         "text": "Кстати у Стаса очень жирная мама и она скоро умрёт",
-        "time": "2026-03-03T18:01:28.457Z",
+        "time": "2026-03-03T18:01:34.796Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
@@ -3241,5 +3241,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-03-03T18:01:33.503Z"
+  "lastUpdate": "2026-03-03T18:01:37.743Z"
 }
