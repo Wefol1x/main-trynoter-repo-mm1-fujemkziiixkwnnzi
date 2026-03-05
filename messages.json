@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-03-05T17:20:18.771Z",
+      "lastSeen": "2026-03-05T17:20:45.334Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -1039,6 +1039,20 @@
         "to": null,
         "text": "Знаем знаем 😁",
         "time": "2026-03-05T17:20:18.771Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mmawznt8rsy5eidmnce",
+          "sender": "FlamingOxygen",
+          "text": "Кстати у Стаса очень жирная мама и она скоро умрёт"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mmdqev4m7tfvutatpxe",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля ты себе не представляешь чем я хочу заниматься вместо NextRAM",
+        "time": "2026-03-05T17:20:45.334Z",
         "isGlobal": true,
         "replyTo": {
           "id": "mmawznt8rsy5eidmnce",
@@ -3279,5 +3293,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-03-05T17:20:20.643Z"
+  "lastUpdate": "2026-03-05T17:20:47.171Z"
 }
