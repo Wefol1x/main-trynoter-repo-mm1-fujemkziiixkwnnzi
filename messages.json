@@ -2,7 +2,7 @@
   "users": {
     "Werline": {
       "name": "Werline",
-      "lastSeen": "2026-03-05T17:19:35.030Z",
+      "lastSeen": "2026-03-05T17:19:51.479Z",
       "isOnline": true
     },
     "Infantophile": {
@@ -3030,6 +3030,16 @@
           "text": "а перестать быть вефоликсом можно?"
         },
         "tagMention": null
+      },
+      {
+        "id": "mmdqdpknx16prtm1t0g",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кнш, твое право",
+        "time": "2026-03-05T17:19:51.479Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
       }
     ],
     "FlamingOxygen_Werline": [
@@ -3255,5 +3265,5 @@
     ],
     "Werline_XXn11": []
   },
-  "lastUpdate": "2026-03-05T17:19:37.665Z"
+  "lastUpdate": "2026-03-05T17:19:53.570Z"
 }
