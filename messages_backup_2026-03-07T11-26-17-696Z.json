@@ -1,0 +1,3307 @@
+{
+  "users": {
+    "Werline": {
+      "name": "Werline",
+      "lastSeen": "2026-03-05T17:20:45.334Z",
+      "isOnline": true
+    },
+    "Infantophile": {
+      "name": "Infantophile",
+      "lastSeen": "2026-03-07T11:26:09.342Z",
+      "isOnline": true
+    },
+    "FlamingOxygen": {
+      "name": "FlamingOxygen",
+      "lastSeen": "2026-03-03T18:01:34.796Z",
+      "isOnline": true
+    },
+    "Xerrorain": {
+      "name": "Xerrorain",
+      "lastSeen": "2026-01-20T18:50:11.465Z",
+      "isOnline": true
+    },
+    "WayPoint": {
+      "name": "WayPoint",
+      "lastSeen": "2026-02-20T09:58:43.310Z",
+      "isOnline": true
+    }
+  },
+  "conversations": {
+    "global": [
+      {
+        "id": "mka094soc1iaucu1678",
+        "from": "Infantophile",
+        "to": null,
+        "text": "имбафан",
+        "time": "2026-01-11T17:25:44.712Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 99974,
+          "postTitle": "Мир с фундаментом педофилизма или будни Чикатило",
+          "postPreview": "Мир с фундаментом педофилизма. Типо там произошли люди не от обезьян , а от Адама и Евы только Адаму..."
+        }
+      },
+      {
+        "id": "mkbii25s6u3s0ok16n2",
+        "from": "Werline",
+        "to": null,
+        "text": "Согл",
+        "time": "2026-01-12T18:44:20.464Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mka094soc1iaucu1678",
+          "sender": "Infantophile",
+          "text": "имбафан"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkmy8cqvvti95yikfz",
+        "from": "Xerrorain",
+        "to": null,
+        "text": "Осталось понять, куда меня занесло",
+        "time": "2026-01-20T18:50:09.415Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkmyd56utv154c23xy",
+        "from": "Werline",
+        "to": null,
+        "text": "Ага",
+        "time": "2026-01-20T18:53:52.902Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mkmy8cqvvti95yikfz",
+          "sender": "Xerrorain",
+          "text": "Осталось понять, куда меня занесло"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkmydp33zw4ih74c4c",
+        "from": "Werline",
+        "to": null,
+        "text": "Приветики минетики)",
+        "time": "2026-01-20T18:54:18.687Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mkmy8cqvvti95yikfz",
+          "sender": "Xerrorain",
+          "text": "Осталось понять, куда меня занесло"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqqpbqpzx3i29b1ck",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Какого черта вы меня везде блокнули",
+        "time": "2026-02-17T15:10:11.377Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mkmydp33zw4ih74c4c",
+          "sender": "Werline",
+          "text": "Приветики минетики)"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqqq3pqz0dvzlgxge",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Объясните суть своих действий",
+        "time": "2026-02-17T15:10:47.630Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqu16b69y3xp02i0cs",
+        "from": "Werline",
+        "to": null,
+        "text": "Ух, ифатофильчик чекай кто в вп зашел второй раз за все его существование",
+        "time": "2026-02-17T16:43:23.059Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqu1ognyxmizq8lx2d",
+        "from": "Werline",
+        "to": null,
+        "text": "Инфат, объяснишь почему рыжего обидели?",
+        "time": "2026-02-17T16:43:46.583Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqu64g2uikq63kbrz",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Ой бля дайте угадаю, за то что в школе не появлюсь",
+        "time": "2026-02-17T16:47:13.922Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvahum8y92ckmvn93",
+        "from": "Infantophile",
+        "to": null,
+        "text": "заебал нас потому что",
+        "time": "2026-02-17T17:18:37.534Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqu64g2uikq63kbrz",
+          "sender": "FlamingOxygen",
+          "text": "Ой бля дайте угадаю, за то что в школе не появлюсь"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqvbxiyjx91p2bekan",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Поподробнее можно?",
+        "time": "2026-02-17T17:19:44.506Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvhsx879h0nvmaz9k",
+        "from": "Infantophile",
+        "to": null,
+        "text": "Рексамит говорил что ты стал тип слишком скучным, только в клешик играешь и се. Меня конечно тож подзаебал но чутка по другим причинам",
+        "time": "2026-02-17T17:24:18.477Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvbxiyjx91p2bekan",
+          "sender": "FlamingOxygen",
+          "text": "Поподробнее можно?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqvsxs6yz50z2h6j",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "В рояль я уже надели 2 не заходил, в бс не заходил неделю гдет",
+        "time": "2026-02-17T17:32:57.990Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvtfqynnubyaz633o",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Тя я догадываюсь почёму подзаебал",
+        "time": "2026-02-17T17:33:21.274Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvu0gg4qcnqrteej4",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Из-за того что я тебя ненормальным и т.п. называю?",
+        "time": "2026-02-17T17:33:48.112Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvustp9kftgs48z77",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Так ты вроде знаешь что я тебя так любя называю",
+        "time": "2026-02-17T17:34:24.877Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqvvk5t6b44y1ysdk2",
+        "from": "Infantophile",
+        "to": null,
+        "text": "да не",
+        "time": "2026-02-17T17:35:00.305Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvu0gg4qcnqrteej4",
+          "sender": "FlamingOxygen",
+          "text": "Из-за того что я тебя ненормальным и т.п. называю?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqvwlqdjdrxv8f2u6r",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "На счёт скучным я не совсем понял о чем речь, пусть он сам объяснит",
+        "time": "2026-02-17T17:35:48.997Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvhsx879h0nvmaz9k",
+          "sender": "Infantophile",
+          "text": "Рексамит говорил что ты стал тип слишком скучным, только в клешик играешь и се. Меня конечно тож подзаебал но чутка по другим причинам"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqvxrlu0ee3zecrifun",
+        "from": "Infantophile",
+        "to": null,
+        "text": "просто твои педофильские шутки про мя , бывают иногда слишком жесткие",
+        "time": "2026-02-17T17:36:43.266Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvu0gg4qcnqrteej4",
+          "sender": "FlamingOxygen",
+          "text": "Из-за того что я тебя ненормальным и т.п. называю?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqw07o9itl3h5tualh",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Соглашусь, перегнул, хотя ты сам такой образ и выстраивал сам",
+        "time": "2026-02-17T17:38:37.401Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvxrlu0ee3zecrifun",
+          "sender": "Infantophile",
+          "text": "просто твои педофильские шутки про мя , бывают иногда слишком жесткие"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqw7nec27fqy9fw838",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Да и рекламит постоянно тя педофилом называл",
+        "time": "2026-02-17T17:44:24.372Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqw93e4reaubrvrv1r",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну он крч хочет сказать что мы ваще ни во что не играем и у нас нету ни одной игры. Этим он хотел сказать что тебе надо взрослеть чтоли",
+        "time": "2026-02-17T17:45:31.756Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqvwlqdjdrxv8f2u6r",
+          "sender": "FlamingOxygen",
+          "text": "На счёт скучным я не совсем понял о чем речь, пусть он сам объяснит"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwcqmx3m3d5j372tl",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Так если у меня блять есть свободное время и я его чем то занимаю, то",
+        "time": "2026-02-17T17:48:21.849Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwf1pct5943kb85aj",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Рекламит постоянно кодит, ему это нравится, ты пишешь принты, тебе это нравится, я играю в видеоигры, мне это нравится",
+        "time": "2026-02-17T17:50:09.504Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwfiz405s414okncgm",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Чертов т9",
+        "time": "2026-02-17T17:50:31.888Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwg3ziqo1ttfq8dwj",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Так что вы меня осуждает за мои увлечения",
+        "time": "2026-02-17T17:50:59.118Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqwf1pct5943kb85aj",
+          "sender": "FlamingOxygen",
+          "text": "Рекламит постоянно кодит, ему это нравится, ты пишешь принты, тебе это нравится, я играю в видеоигры, мне это нравится"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwhrj9xhwfnny632",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Да и вы не взрослее, чуть что вам не нравится вы меня блокаете вместо того чтоб сказать в лицо в чем проблема",
+        "time": "2026-02-17T17:52:16.293Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqw93e4reaubrvrv1r",
+          "sender": "Infantophile",
+          "text": "ну он крч хочет сказать что мы ваще ни во что не играем и у нас нету ни одной игры. Этим он хотел сказать что тебе надо взрослеть чтоли"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwljxts8ssrwrr17",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну мы хотели",
+        "time": "2026-02-17T17:55:13.073Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqwhrj9xhwfnny632",
+          "sender": "FlamingOxygen",
+          "text": "Да и вы не взрослее, чуть что вам не нравится вы меня блокаете вместо того чтоб сказать в лицо в чем проблема"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwlpnarby2coxsnv",
+        "from": "Infantophile",
+        "to": null,
+        "text": "в лицо",
+        "time": "2026-02-17T17:55:20.470Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwmdf64svtoem2jw7",
+        "from": "Infantophile",
+        "to": null,
+        "text": "но ты долго не ходил",
+        "time": "2026-02-17T17:55:51.282Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwo3hci77xvqj0mft",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну он говорит чтоб ты какое нибудь другое нашел",
+        "time": "2026-02-17T17:57:11.712Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqwg3ziqo1ttfq8dwj",
+          "sender": "FlamingOxygen",
+          "text": "Так что вы меня осуждает за мои увлечения"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqwzhkxgy9j73xao5b",
+        "from": "Infantophile",
+        "to": null,
+        "text": "ну мы ещё обсудим это все",
+        "time": "2026-02-17T18:06:03.201Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqwznmfi5tvdleu9km",
+        "from": "Infantophile",
+        "to": null,
+        "text": "в жизни",
+        "time": "2026-02-17T18:06:11.031Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqxpa4zoe3uv5fe0pi",
+        "from": "Werline",
+        "to": null,
+        "text": "О",
+        "time": "2026-02-17T18:26:06.611Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqxpqkm3s9lvh03srv",
+        "from": "Werline",
+        "to": null,
+        "text": "Наконец wp поставил. Инфатофил, я прошился",
+        "time": "2026-02-17T18:26:27.910Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlqxqxy7ido5kto9ky",
+        "from": "Infantophile",
+        "to": null,
+        "text": "о пр",
+        "time": "2026-02-17T18:27:24.127Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqxpqkm3s9lvh03srv",
+          "sender": "Werline",
+          "text": "Наконец wp поставил. Инфатофил, я прошился"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqy705vkuutbq1jg98",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Так что верлайн, почему ты конкретно считаешь меня скучным?",
+        "time": "2026-02-17T18:39:53.491Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqxpqkm3s9lvh03srv",
+          "sender": "Werline",
+          "text": "Наконец wp поставил. Инфатофил, я прошился"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls1n92b9u5nx8mfqgh",
+        "from": "Werline",
+        "to": null,
+        "text": "Ну знаешь оксиген, вот сможешь ли ты взять и бросить все игры. Просто перестать играть?",
+        "time": "2026-02-18T13:04:16.547Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqy705vkuutbq1jg98",
+          "sender": "FlamingOxygen",
+          "text": "Так что верлайн, почему ты конкретно считаешь меня скучным?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls1pz650a7xwjxcks7n",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля \"я люблю детей, особенно на завтрак...\"",
+        "time": "2026-02-18T13:06:23.693Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqxqxy7ido5kto9ky",
+          "sender": "Infantophile",
+          "text": "о пр"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls1rr7a2uhaumfhdwf",
+        "from": "Werline",
+        "to": null,
+        "text": "Разве игры это хобби? Ну странное какое-то оно. Разве ты не понимаешь что просто убиваешь время? Это просто алгоритм с рандомом, разве ты этого не понимаешь?",
+        "time": "2026-02-18T13:07:46.678Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlqy705vkuutbq1jg98",
+          "sender": "FlamingOxygen",
+          "text": "Так что верлайн, почему ты конкретно считаешь меня скучным?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls1tcxwlm85ixnp46a",
+        "from": "Werline",
+        "to": null,
+        "text": "Кстати мы благодаря блокировкам вынудили тебя, оксиген, прийти сюда и общаться с нами тут",
+        "time": "2026-02-18T13:09:01.508Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls4yu7zsf3kzpkhxhj",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Хитро задуманно, соглашусь, добавь сюда уведомления и тогда я буду периодически заходить",
+        "time": "2026-02-18T14:37:16.031Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls1tcxwlm85ixnp46a",
+          "sender": "Werline",
+          "text": "Кстати мы благодаря блокировкам вынудили тебя, оксиген, прийти сюда и общаться с нами тут"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls510sup87vnz5b9zl",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "А хули те собственно не нравится, вот инфат пишет поинты, тоже убивает время, ты когда делаешь что-то для вп ты по факту тоже убиваешь время",
+        "time": "2026-02-18T14:38:57.870Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls1rr7a2uhaumfhdwf",
+          "sender": "Werline",
+          "text": "Разве игры это хобби? Ну странное какое-то оно. Разве ты не понимаешь что просто убиваешь время? Это просто алгоритм с рандомом, разве ты этого не понимаешь?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls56xw34jfpktq6uuo",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Вся наша жизнь состоит из убивания времени в той или иной форме",
+        "time": "2026-02-18T14:43:34.036Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls5706djabc8kzr2d",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Вся наша жизнь состоит из убивания времени в той или иной форме",
+        "time": "2026-02-18T14:43:36.997Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls5iy7a26tzkkd04tz",
+        "from": "Werline",
+        "to": null,
+        "text": "Не в этом плане. Ну бля...",
+        "time": "2026-02-18T14:52:54.310Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls510sup87vnz5b9zl",
+          "sender": "FlamingOxygen",
+          "text": "А хули те собственно не нравится, вот инфат пишет поинты, тоже убивает время, ты когда делаешь что-то для вп ты по факту тоже убиваешь время"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls5japwx0gvn9dp8g",
+        "from": "Werline",
+        "to": null,
+        "text": ".",
+        "time": "2026-02-18T14:53:10.532Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls1n92b9u5nx8mfqgh",
+          "sender": "Werline",
+          "text": "Ну знаешь оксиген, вот сможешь ли ты взять и бросить все игры. Просто перестать играть?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls5nb8m315h501rsxw",
+        "from": "Werline",
+        "to": null,
+        "text": "А ты видно забыл, добавление к сожалению не возможно, как бы мне этого не хотелось. Конечно если вы согласны на перепись джава, что займет где-то неделю. В принципе возможно. А просто заходить и чекать чат каждый день сложно?",
+        "time": "2026-02-18T14:56:17.830Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls4yu7zsf3kzpkhxhj",
+          "sender": "FlamingOxygen",
+          "text": "Хитро задуманно, соглашусь, добавь сюда уведомления и тогда я буду периодически заходить"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls5nvgoosehb7nc54",
+        "from": "Werline",
+        "to": null,
+        "text": "Под этим подразумевается полная смена сурса",
+        "time": "2026-02-18T14:56:44.040Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls5nb8m315h501rsxw",
+          "sender": "Werline",
+          "text": "А ты видно забыл, добавление к сожалению не возможно, как бы мне этого не хотелось. Конечно если вы согласны на перепись джава, что займет где-то неделю. В принципе возможно. А просто заходить и чекать чат каждый день сложно?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls5ojengd3fv0g9ae",
+        "from": "Werline",
+        "to": null,
+        "text": "Разве, оксиген, нет больше нечего интересного, чем бы ты мог заняться?",
+        "time": "2026-02-18T14:57:15.071Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls5otbpla1cej36499",
+        "from": "Werline",
+        "to": null,
+        "text": "Кроме игр",
+        "time": "2026-02-18T14:57:27.926Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls6nh09nu2neie0co",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Вообще не понимаю твоих возмущений",
+        "time": "2026-02-18T15:24:24.921Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls6nvkgtovkstyh3i",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Отвергаешь - предлагай",
+        "time": "2026-02-18T15:24:43.792Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls5ojengd3fv0g9ae",
+          "sender": "Werline",
+          "text": "Разве, оксиген, нет больше нечего интересного, чем бы ты мог заняться?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls6w2ru5l8abn3bpu",
+        "from": "Werline",
+        "to": null,
+        "text": "У меня есть основной вопрос - тебе до сих пор интересно в игры играть?",
+        "time": "2026-02-18T15:31:06.378Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls79214wqykuc2shy",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "В некоторые да, хотя тот же рояль, колда меня достали",
+        "time": "2026-02-18T15:41:11.944Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mls7cn20ujaspy81p5",
+        "from": "Werline",
+        "to": null,
+        "text": "Ну да согласен, блок излишнее, я это понял уже через раз и извини. Но благодаря этому ты в вп",
+        "time": "2026-02-18T15:43:59.160Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls79214wqykuc2shy",
+          "sender": "FlamingOxygen",
+          "text": "В некоторые да, хотя тот же рояль, колда меня достали"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mls7k1kqum7j8ei4v",
+        "from": "Werline",
+        "to": null,
+        "text": "Вот как ты понимаешь что я тебе написал?",
+        "time": "2026-02-18T15:49:44.571Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlsa9kbeae17mgmc8t",
+        "from": "Werline",
+        "to": null,
+        "text": "Правильно, ты просто заходишь сюда. Вот так можно всегда заходить, раз в день... Уведомления может быть добавлю (если будет желание переписывать джава с нуля",
+        "time": "2026-02-18T17:05:34.490Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mls7k1kqum7j8ei4v",
+          "sender": "Werline",
+          "text": "Вот как ты понимаешь что я тебе написал?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlthzu3aizz61uf3qs",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля, Everyone, делаю уведомления уже. Если Xerrorain сможет собрать, то очень скоро...",
+        "time": "2026-02-19T13:29:43.702Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mltsnsv439f95ik0ulh",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "На него вся надежда",
+        "time": "2026-02-19T18:28:18.016Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mltsucismnlhg4u6gzp",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля, оксиген... А ведь скоро фраза \"срать говном\" для нас будет чем то необычным...",
+        "time": "2026-02-19T18:33:23.428Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mltsnsv439f95ik0ulh",
+          "sender": "FlamingOxygen",
+          "text": "На него вся надежда"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlupshqanmt79vq76zd",
+        "from": "Werline",
+        "to": null,
+        "text": "Вроде, упоминания работают. Но когда соберу приложение будут и уведомления",
+        "time": "2026-02-20T09:55:44.194Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlupv5sb7pbixzxhio5",
+        "from": "WayPoint",
+        "to": null,
+        "text": "&&[ctlww]&& / reload proxy,dns",
+        "time": "2026-02-20T09:57:48.683Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluro8d9cujeipcmpqv",
+        "from": "Werline",
+        "to": null,
+        "text": "Не, хуйня. Толком нечего не делает",
+        "time": "2026-02-20T10:48:24.669Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlupv5sb7pbixzxhio5",
+          "sender": "WayPoint",
+          "text": "&&[ctlww]&& / reload proxy,dns"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mluy5swazv8hyke9a9",
+        "from": "Werline",
+        "to": null,
+        "text": "Крч, делаю обнову с добавлением отправки фотографий. Да, с кодом придется конкретно поебаться + добавил три новых сервера под три кластера с фотографиями",
+        "time": "2026-02-20T13:50:02.122Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyeg7qc98kqtagg17",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Ща, погоди, обновлюсь",
+        "time": "2026-02-20T13:56:45.595Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyi3yh7mxhueb0mi",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Че все через очко работает",
+        "time": "2026-02-20T13:59:36.329Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyiilo6qvkinza5se",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Щас при ответе сообщение не отправлялось",
+        "time": "2026-02-20T13:59:55.308Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyp7yhywm7hnjjyca",
+        "from": "Werline",
+        "to": null,
+        "text": "Хз, проблемы у тебя с соединением поход. Включи или выключи portalwg",
+        "time": "2026-02-20T14:05:08.106Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mluyiilo6qvkinza5se",
+          "sender": "FlamingOxygen",
+          "text": "Щас при ответе сообщение не отправлялось"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mluypm1oxrbklzzcr9b",
+        "from": "Werline",
+        "to": null,
+        "text": "У меня все стабильно и плавно",
+        "time": "2026-02-20T14:05:26.364Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyxags74zlqvn4hq5",
+        "from": "Werline",
+        "to": null,
+        "text": "Ну чо. Как?",
+        "time": "2026-02-20T14:11:24.604Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluze4cvvjryxev91fj",
+        "from": "Werline",
+        "to": null,
+        "text": "Ух, будущий way3 по-настоящему красив 😍",
+        "time": "2026-02-20T14:24:29.839Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mluyxags74zlqvn4hq5",
+          "sender": "Werline",
+          "text": "Ну чо. Как?"
+        },
+        "tagMention": null,
+        "imageUrl": null
+      },
+      {
+        "id": "mluzeume5ciaby7iua7",
+        "from": "Werline",
+        "to": null,
+        "text": "Ахахах, как хорошо что я разраб этого всего)",
+        "time": "2026-02-20T14:25:03.878Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
+      },
+      {
+        "id": "mluzq7a9r9c8jpnfj1",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Выглядит неплохо",
+        "time": "2026-02-20T14:33:53.505Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluzz1f1ty8iiwx3v2e",
+        "from": "Werline",
+        "to": null,
+        "text": "Ты по два раза отправляешь сообщения. Все таки у тебя проблемы с соединением. Но я сижу на версии новой. Тут я все пофиксил",
+        "time": "2026-02-20T14:40:45.805Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
+      },
+      {
+        "id": "mlvbloubutm4gq2gqx",
+        "from": "Werline",
+        "to": null,
+        "text": "Пока все плохо. Приложение собирается с новой java, но сетевой стек не работает 🤷‍♂️",
+        "time": "2026-02-20T20:06:18.371Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mluzz1f1ty8iiwx3v2e",
+          "sender": "Werline",
+          "text": "Ты по два раза отправляешь сообщения. Все таки у тебя проблемы с соединением. Но я сижу на версии новой. Тут я все пофиксил"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlwmbpai1ad2hl2s1w7",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Неприятно",
+        "time": "2026-02-21T17:54:14.346Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlzblpb94r8sbl2aivs",
+        "from": "Werline",
+        "to": null,
+        "text": "Буду переписывать чо сказать. Надо по новой написать java точь в точь сетевого стека",
+        "time": "2026-02-23T15:17:23.685Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlwmbpai1ad2hl2s1w7",
+          "sender": "FlamingOxygen",
+          "text": "Неприятно"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlzbm7kjygldfpjonk",
+        "from": "Werline",
+        "to": null,
+        "text": "Ну то есть надо постараться",
+        "time": "2026-02-23T15:17:47.347Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mlzblpb94r8sbl2aivs",
+          "sender": "Werline",
+          "text": "Буду переписывать чо сказать. Надо по новой написать java точь в точь сетевого стека"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm4x1vzh4c0m3sbxbj2",
+        "from": "Werline",
+        "to": null,
+        "text": "Со следующей недели займусь WP",
+        "time": "2026-02-27T13:16:41.645Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6ov4ejhgsmwb33fk",
+        "from": "Werline",
+        "to": null,
+        "text": "У нас новый чел зарегался под ником XXn11",
+        "time": "2026-02-28T19:03:01.387Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6tkgbujkg6zk3rme",
+        "from": "Werline",
+        "to": null,
+        "text": "Upd. / это тест акк xerrorain",
+        "time": "2026-02-28T21:14:41.706Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mm6ov4ejhgsmwb33fk",
+          "sender": "Werline",
+          "text": "У нас новый чел зарегался под ником XXn11"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6yw1vcdjqt5q9emi9",
+        "from": "Infantophile",
+        "to": null,
+        "text": "героин",
+        "time": "2026-02-28T23:43:40.920Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mmawznt8rsy5eidmnce",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Кстати у Стаса очень жирная мама и она скоро умрёт",
+        "time": "2026-03-03T18:01:34.796Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mmdqeamrb63bw4b509c",
+        "from": "Werline",
+        "to": null,
+        "text": "Знаем знаем 😁",
+        "time": "2026-03-05T17:20:18.771Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mmawznt8rsy5eidmnce",
+          "sender": "FlamingOxygen",
+          "text": "Кстати у Стаса очень жирная мама и она скоро умрёт"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mmdqev4m7tfvutatpxe",
+        "from": "Werline",
+        "to": null,
+        "text": "Бля ты себе не представляешь чем я хочу заниматься вместо NextRAM",
+        "time": "2026-03-05T17:20:45.334Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mmawznt8rsy5eidmnce",
+          "sender": "FlamingOxygen",
+          "text": "Кстати у Стаса очень жирная мама и она скоро умрёт"
+        },
+        "tagMention": null
+      }
+    ],
+    "Infantophile_Werline": [
+      {
+        "id": "mjyjq76txm29ophhlce",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я жду от тебя новый имбовый фанфик. Кстати, может тебе сделать что-то многосерийное? По типу 5 частей",
+        "time": "2026-01-03T16:57:39.561Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyhbaxonm7prh772q",
+          "sender": "Infantophile",
+          "text": "высший пилотаж анального самолёта"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjysdk77mez32mbhmw",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "могу",
+        "time": "2026-01-03T20:59:46.435Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjysea1lvo3bmnmh9q",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "однако можно и 10 частей",
+        "time": "2026-01-03T21:00:19.929Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjyseeuxfljr8tejrjt",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "повышу планку",
+        "time": "2026-01-03T21:00:26.169Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjzfb7yqeqplni6jzwg",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну попробуй",
+        "time": "2026-01-04T07:41:48.441Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjyseeuxfljr8tejrjt",
+          "sender": "Infantophile",
+          "text": "повышу планку"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mjzfcmdhvs3ktz0205o",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "У тя тоже чат обрезался 😨",
+        "time": "2026-01-04T07:42:53.765Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mjzfrpt3cxeblegbw0q",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кажется я понял почему. Изза нагрузки на mm1 раздел, сделаю другую архитектуру",
+        "time": "2026-01-04T07:54:38.056Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mjzfcmdhvs3ktz0205o",
+          "sender": "Werline",
+          "text": "У тя тоже чат обрезался 😨"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk0pftx8x17pfmbivyq",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Привет",
+        "time": "2026-01-05T05:13:05.852Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk0pgjkg3ljgsa6z85d",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Отправка сообщений стала чуть дольше, но зато надёжнее",
+        "time": "2026-01-05T05:13:39.088Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk0pgw1r4ro7i3xcyj",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Оцени кстати новый фан",
+        "time": "2026-01-05T05:13:55.263Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk17jmt72hhy7g08mba",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "привет",
+        "time": "2026-01-05T13:39:56.347Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk17juwzymtpu274le",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "хороший фанфик",
+        "time": "2026-01-05T13:40:06.851Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk17k6xmodgmo3jjkdm",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "явно не расистский",
+        "time": "2026-01-05T13:40:22.426Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk2415kof1rr7nw9se",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Старался",
+        "time": "2026-01-06T04:49:21.528Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk17k6xmodgmo3jjkdm",
+          "sender": "Infantophile",
+          "text": "явно не расистский"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk241do0cihf9cfrpw",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Рад что тебе фан зашел",
+        "time": "2026-01-06T04:49:32.016Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk3zrl23xzkkk14g158",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Как твой фан на 10 частей?",
+        "time": "2026-01-07T12:25:28.923Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk3zrqq3uqncezy0op",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Пишешь?",
+        "time": "2026-01-07T12:25:36.267Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk5tj3uti27911j45o",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я Фотошоп освоил",
+        "time": "2026-01-08T19:06:28.037Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk5tjq42smqaupv2dd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "уже есть одна пизданутая картинка",
+        "time": "2026-01-08T19:06:56.882Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk5yh3u8ooawixfi8rl",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "фан тоже пишу",
+        "time": "2026-01-08T21:24:52.784Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk6iyqel1h5stn3pu9k",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Понял",
+        "time": "2026-01-09T06:58:27.501Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk5yh3u8ooawixfi8rl",
+          "sender": "Infantophile",
+          "text": "фан тоже пишу"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk6iz06yk728y3acpn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Нуну, чекнем",
+        "time": "2026-01-09T06:58:40.186Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk5tj3uti27911j45o",
+          "sender": "Infantophile",
+          "text": "я Фотошоп освоил"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk7bg3arnc1vs5zcrps",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я там такой пиздец сделал",
+        "time": "2026-01-09T20:15:46.611Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk6iz06yk728y3acpn",
+          "sender": "Werline",
+          "text": "Нуну, чекнем"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk7n8cqaa4f2pght68",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я смог сделать оптическую иллюзию с участием гниющего ануса",
+        "time": "2026-01-10T01:45:40.979Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk80074qx3x53so8frn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Хмм",
+        "time": "2026-01-10T07:43:15.482Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk7n8cqaa4f2pght68",
+          "sender": "Infantophile",
+          "text": "я смог сделать оптическую иллюзию с участием гниющего ануса"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk801bbu4wl1khephwc",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Слушай. Ты же завтра ко мне домой пойдёшь. Сначала мы погуляем, потом посидим у меня) Похаваем, музон врубим, просто посидим... Я так ждал этого))",
+        "time": "2026-01-10T07:44:07.578Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk8dbfaryhy0939oo4c",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "даа",
+        "time": "2026-01-10T13:55:54.291Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk801bbu4wl1khephwc",
+          "sender": "Werline",
+          "text": "Слушай. Ты же завтра ко мне домой пойдёшь. Сначала мы погуляем, потом посидим у меня) Похаваем, музон врубим, просто посидим... Я так ждал этого))"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk8dc2107lju7kr2tyt",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "это будет лучший день за эти каникулы",
+        "time": "2026-01-10T13:56:23.748Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk9bet3ai72gheu1eqh",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": ")))",
+        "time": "2026-01-11T05:50:19.078Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mk8dc2107lju7kr2tyt",
+          "sender": "Infantophile",
+          "text": "это будет лучший день за эти каникулы"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mk9bf6v256ru5i4wqry",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Дааа, я соскучился броу",
+        "time": "2026-01-11T05:50:36.926Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mk9cqyubgnikxdz12ah",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "и я",
+        "time": "2026-01-11T06:27:46.019Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mka867abfje352x81xm",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "кимпинтяууууууу",
+        "time": "2026-01-11T21:07:24.900Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mka86y7khdv8cqsz9km",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ноу бро. пепе. так говорить фатафа нельзя шнеля",
+        "time": "2026-01-11T21:07:59.792Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mka867abfje352x81xm",
+          "sender": "Infantophile",
+          "text": "кимпинтяууууууу"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mka87ih230tj2dr1v43",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "надо говорить пепе ватафа фа. шнеля Пепе ватафа",
+        "time": "2026-01-11T21:08:26.054Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mka86y7khdv8cqsz9km",
+          "sender": "Infantophile",
+          "text": "ноу бро. пепе. так говорить фатафа нельзя шнеля"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkadk0jo58zh42lm5xm",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Читаю ща твои фаны",
+        "time": "2026-01-11T23:38:07.435Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkadklngkxu0fmbchp",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мне нравится очень. Продолжай. С тебя еще 8 частей",
+        "time": "2026-01-11T23:38:34.780Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkb5cuukfsw852zjbua",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля",
+        "time": "2026-01-12T12:36:22.700Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkb5dgj6ja3vsvmie5f",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Крч, я так жоско сегодня наебал Евсея, Вову, Сашу и Ксюшу",
+        "time": "2026-01-12T12:36:50.802Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkb5ete58tkjcw1azde",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\"",
+        "time": "2026-01-12T12:37:54.125Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkb5gwjhpt4x58palk",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Они в ахуе",
+        "time": "2026-01-12T12:39:31.517Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb5ete58tkjcw1azde",
+          "sender": "Werline",
+          "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\""
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkb69au5aoy1g8u7taa",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "блять лагает",
+        "time": "2026-01-12T13:01:36.413Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkb6aeoiywp77ox1x3",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "лучше бы сказал что она думает то что мне 50",
+        "time": "2026-01-12T13:02:28.050Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb5ete58tkjcw1azde",
+          "sender": "Werline",
+          "text": "Я им сказал что ты типа встречаешься с 8-ми леткой. Она думает что тебе 10 лет. Также я отметил : что ты написал при мне ей - \"знаешь на кого у меня сейчас стоит?\""
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkb6csl86z7i1fhonvs",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а как евсей отреагировал на тот фанфик",
+        "time": "2026-01-12T13:04:19.388Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkb6ervxwcwaulx36fl",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Он не читал. Хз. Завтра сам узнаешь",
+        "time": "2026-01-12T13:05:51.789Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6csl86z7i1fhonvs",
+          "sender": "Infantophile",
+          "text": "а как евсей отреагировал на тот фанфик"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkb6fhcgrorkimx6yy",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мы с Евсеем обдумали новое глобальное обновление на WayPoint. Лаги уйдут",
+        "time": "2026-01-12T13:06:24.784Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb69au5aoy1g8u7taa",
+          "sender": "Infantophile",
+          "text": "блять лагает"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkb6srcajc2mpgaet7j",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "о имба",
+        "time": "2026-01-12T13:16:44.266Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6ervxwcwaulx36fl",
+          "sender": "Werline",
+          "text": "Он не читал. Хз. Завтра сам узнаешь"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkb6tgr3m6i4f295wlc",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "жду",
+        "time": "2026-01-12T13:17:17.199Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6fhcgrorkimx6yy",
+          "sender": "Werline",
+          "text": "Мы с Евсеем обдумали новое глобальное обновление на WayPoint. Лаги уйдут"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkb8pyrkxmoefy2p15",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Пздц, это будет самым глобальным обновлением",
+        "time": "2026-01-12T14:10:33.152Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkb6tgr3m6i4f295wlc",
+          "sender": "Infantophile",
+          "text": "жду"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mklkjy8ve608p2t2jsb",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Что-то мы давно не общались, верно?",
+        "time": "2026-01-19T19:39:29.695Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "ml5odc2hcqdtgum9at",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "пиздец полнейший",
+        "time": "2026-02-02T21:21:43.001Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mldfs4kml8nuupv5qtd",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Что",
+        "time": "2026-02-08T07:43:25.990Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mldfsbbincznprmwj9g",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Поч",
+        "time": "2026-02-08T07:43:34.734Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "ml5odc2hcqdtgum9at",
+          "sender": "Infantophile",
+          "text": "пиздец полнейший"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mll1dr3fm64sb0ys0g",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля, вот на сколько часто ты сюда заходишь?",
+        "time": "2026-02-13T15:22:30.123Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mll4yp1k9tecliwaccs",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "через апк эдитор часто",
+        "time": "2026-02-13T17:02:46.088Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mll5h9n7yy2yi8qfsw",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Смешно",
+        "time": "2026-02-13T17:17:12.595Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mll4yp1k9tecliwaccs",
+          "sender": "Infantophile",
+          "text": "через апк эдитор часто"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mll5htbj5rjh3vdupx5",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мне понравились фаны новые. Жаль что без иллюстраций",
+        "time": "2026-02-13T17:17:38.095Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mll6e28qx4ti4xiw84b",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "не шучу",
+        "time": "2026-02-13T17:42:42.650Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mll5h9n7yy2yi8qfsw",
+          "sender": "Werline",
+          "text": "Смешно"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mll6fokb1dtg4ht8jlq",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "в следущих добавлю",
+        "time": "2026-02-13T17:43:58.235Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mll5htbj5rjh3vdupx5",
+          "sender": "Werline",
+          "text": "Мне понравились фаны новые. Жаль что без иллюстраций"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mllagozl9f981bno165",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Хорошо, я запомню",
+        "time": "2026-02-13T19:36:43.905Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mll6fokb1dtg4ht8jlq",
+          "sender": "Infantophile",
+          "text": "в следущих добавлю"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlnmesrp7t1zchzo4e",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "крутой фанфик",
+        "time": "2026-02-15T10:46:43.237Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlnpts7s5n6zqyir30b",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "99953 этот?",
+        "time": "2026-02-15T12:22:21.209Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlnmesrp7t1zchzo4e",
+          "sender": "Infantophile",
+          "text": "крутой фанфик"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlnpumom9fwy5pxuz5u",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "ну это пиздец кнш. 🙄",
+        "time": "2026-02-15T12:23:00.694Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 99953,
+          "postTitle": "Джонни и его фекальные приключения",
+          "postPreview": "Жил-был на свете Джонни — весёлый парень с необычным хобби. Каждое утро он просыпался с улыбкой до у..."
+        }
+      },
+      {
+        "id": "mlo03akn6gv0s6fvcy8",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "он топ",
+        "time": "2026-02-15T17:09:41.063Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlnpumom9fwy5pxuz5u",
+          "sender": "Werline",
+          "text": "ну это пиздец кнш. 🙄"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlo0emnz4kfmakomvui",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "у меня идея одна появилась",
+        "time": "2026-02-15T17:18:29.951Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlp9s3lgoagnpefegdn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Все, севу кинули ото всюду",
+        "time": "2026-02-16T14:28:41.140Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlpk0d0blfuqu1osa58",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Крч, я так обновил интерфейс чата",
+        "time": "2026-02-16T19:15:02.747Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlpki8qphtmc9xjnyw",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "сумеречное изгнание",
+        "time": "2026-02-16T19:28:57.025Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlp9s3lgoagnpefegdn",
+          "sender": "Werline",
+          "text": "Все, севу кинули ото всюду"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlpkln1s36l41e4bhej",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Заебал уже СЕИВК",
+        "time": "2026-02-16T19:31:35.536Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlpki8qphtmc9xjnyw",
+          "sender": "Infantophile",
+          "text": "сумеречное изгнание"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlpkmik70sqhg2acax3",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля я такое готовлю для WayPoint. Короче Way3 выйдет уже без рыжих",
+        "time": "2026-02-16T19:32:16.375Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlpki8qphtmc9xjnyw",
+          "sender": "Infantophile",
+          "text": "сумеречное изгнание"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlplm3q8gwq51k3y0r",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "типо без его акка в вейпоинт?",
+        "time": "2026-02-16T19:59:56.769Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlpkmik70sqhg2acax3",
+          "sender": "Werline",
+          "text": "Бля я такое готовлю для WayPoint. Короче Way3 выйдет уже без рыжих"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlplmm65un1yoxch069",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "или как",
+        "time": "2026-02-16T20:00:20.669Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlplvcihrlfn7ydnmv",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Без его участия",
+        "time": "2026-02-16T20:07:08.057Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlplm3q8gwq51k3y0r",
+          "sender": "Infantophile",
+          "text": "типо без его акка в вейпоинт?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlplwt9t5492sn4dk2b",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "золотой век вейпоинта",
+        "time": "2026-02-16T20:08:16.433Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlplvcihrlfn7ydnmv",
+          "sender": "Werline",
+          "text": "Без его участия"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqpnsj8upj6gao67jl",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Типа. Ты имеешь ввиду хорошо что не рыжий?",
+        "time": "2026-02-17T14:41:00.212Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlplwt9t5492sn4dk2b",
+          "sender": "Infantophile",
+          "text": "золотой век вейпоинта"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqprtstyyfws93e8me",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля, пздц. Это получится сутки как без севки",
+        "time": "2026-02-17T14:44:08.477Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlqpnsj8upj6gao67jl",
+          "sender": "Werline",
+          "text": "Типа. Ты имеешь ввиду хорошо что не рыжий?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlqq6vlqeoh8cnttlc7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Как много в словосочетании - залупа со вкусом залупы...",
+        "time": "2026-02-17T14:55:50.654Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluytufxx5w9bvl4h9",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля, хули ты не заходишь",
+        "time": "2026-02-20T14:08:43.869Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluyujhgyp286aghxed",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Заебал. Лучше чем дс все таки здесь писать. Как минимум без ограничений и полностью все под контролем",
+        "time": "2026-02-20T14:09:16.324Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mluytufxx5w9bvl4h9",
+          "sender": "Werline",
+          "text": "Бля, хули ты не заходишь"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mlvd29ssmke8av5dk7",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "как думаешь какой фан написать",
+        "time": "2026-02-20T20:47:11.644Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlvd2oyaup34f4gfc1c",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "продолжить саинт соулс или чёт новое",
+        "time": "2026-02-20T20:47:31.282Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlvd5txotwyvgq5wl8l",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а чо за боты появились",
+        "time": "2026-02-20T20:49:57.708Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm0mc0o3n3gtdfnqvob",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Всм",
+        "time": "2026-02-24T13:05:33.795Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlvd5txotwyvgq5wl8l",
+          "sender": "Infantophile",
+          "text": "а чо за боты появились"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm0mcewbfnw6168ddar",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я думаю новый разврат напиши и хуй с ним",
+        "time": "2026-02-24T13:05:52.235Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mlvd2oyaup34f4gfc1c",
+          "sender": "Infantophile",
+          "text": "продолжить саинт соулс или чёт новое"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm1ytahon89yimgoytl",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ну лан",
+        "time": "2026-02-25T11:42:41.244Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm0mcewbfnw6168ddar",
+          "sender": "Werline",
+          "text": "Я думаю новый разврат напиши и хуй с ним"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm2eazeqho399ftcjju",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кста как тебе идея написан фан не про говно а про то как кого нибудь в жопу отымели до смерти и потом рассказывать как он разлагается",
+        "time": "2026-02-25T18:56:20.930Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm2hdxzvwp56omyua",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "заметки работника детского морга",
+        "time": "2026-02-25T20:22:37.915Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm2eazeqho399ftcjju",
+          "sender": "Werline",
+          "text": "Кста как тебе идея написан фан не про говно а про то как кого нибудь в жопу отымели до смерти и потом рассказывать как он разлагается"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm4x1a59te9fvh5dzid",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "+",
+        "time": "2026-02-27T13:16:13.341Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm2hdxzvwp56omyua",
+          "sender": "Infantophile",
+          "text": "заметки работника детского морга"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm4x1jjv6t47o9g2xy7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Что за депрессия?",
+        "time": "2026-02-27T13:16:25.531Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm4y1tcx1hh0vsk1h3o",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "выгорел слегка",
+        "time": "2026-02-27T13:44:37.857Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm4x1jjv6t47o9g2xy7",
+          "sender": "Werline",
+          "text": "Что за депрессия?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm4y2cuqjxfn2bkja9",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "устал писать фанфики",
+        "time": "2026-02-27T13:45:03.122Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm5af52p1vwa9rg9rvs",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "И что дальше",
+        "time": "2026-02-27T19:30:54.961Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm5afeub8r6x669oocm",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Что ты этим хочешь сказать",
+        "time": "2026-02-27T19:31:07.619Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm5ahytf73lrp7dr838",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ты хочешь забросить WayPoint или что?",
+        "time": "2026-02-27T19:33:06.820Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm5afeub8r6x669oocm",
+          "sender": "Werline",
+          "text": "Что ты этим хочешь сказать"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm5b3lbizevlhwaovvi",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "кто сможет стать новым писателем фанфиков?",
+        "time": "2026-02-27T19:49:55.758Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm5ahytf73lrp7dr838",
+          "sender": "Werline",
+          "text": "Ты хочешь забросить WayPoint или что?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm61rn0bqtj3b63tgb9",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Все таки забросить решил? В принципе никто",
+        "time": "2026-02-28T08:16:27.707Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm5b3lbizevlhwaovvi",
+          "sender": "Infantophile",
+          "text": "кто сможет стать новым писателем фанфиков?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm65vlvi9rwynb92xd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ну я бы забросил",
+        "time": "2026-02-28T10:11:31.326Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm61rn0bqtj3b63tgb9",
+          "sender": "Werline",
+          "text": "Все таки забросить решил? В принципе никто"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm65vsb4ndak032g5gi",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "на время",
+        "time": "2026-02-28T10:11:39.664Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm68khivcuf8cfudjz8",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "На какое время",
+        "time": "2026-02-28T11:26:51.319Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm65vlvi9rwynb92xd",
+          "sender": "Infantophile",
+          "text": "ну я бы забросил"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6bvk56vb04baq7vyn",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "на пару месяцев",
+        "time": "2026-02-28T12:59:26.778Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm68khivcuf8cfudjz8",
+          "sender": "Werline",
+          "text": "На какое время"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6bzlfik6gjsb1jdxr",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ты же не против",
+        "time": "2026-02-28T13:02:35.070Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6bzqyc8ytmtdenyea",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "?",
+        "time": "2026-02-28T13:02:42.228Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6k1670r56998uqyhn",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Против",
+        "time": "2026-02-28T16:47:45.564Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6k1fpka3gl48fkqdj",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я создал это все для тебя",
+        "time": "2026-02-28T16:47:57.896Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6k1sw8iyjg36c3hto",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мы ебейшую идею придумали для нового фана",
+        "time": "2026-02-28T16:48:14.984Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6k2079le1sbmhmnw",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Нет инфат",
+        "time": "2026-02-28T16:48:24.453Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6k27mr32v61fh4mns",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я не смогу такое принять",
+        "time": "2026-02-28T16:48:34.083Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6mmn5ifd2g3b8ykyd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а кто кста писать будет его?",
+        "time": "2026-02-28T18:00:26.550Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6k1sw8iyjg36c3hto",
+          "sender": "Werline",
+          "text": "Мы ебейшую идею придумали для нового фана"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6my8zpy0i2gdiz0m",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Вообще думали ты",
+        "time": "2026-02-28T18:09:28.069Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6mmn5ifd2g3b8ykyd",
+          "sender": "Infantophile",
+          "text": "а кто кста писать будет его?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6myn2ua4617d41h3u",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "А ты вон какую хуйню выдал",
+        "time": "2026-02-28T18:09:46.326Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6my8zpy0i2gdiz0m",
+          "sender": "Werline",
+          "text": "Вообще думали ты"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6n7t4df8snn3b4z3",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ну думаю у вас там лучше получится",
+        "time": "2026-02-28T18:16:54.061Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6ncgm6jdsd0tq8khh",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Поч нет",
+        "time": "2026-02-28T18:20:31.134Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6n7t4df8snn3b4z3",
+          "sender": "Infantophile",
+          "text": "ну думаю у вас там лучше получится"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6ncwoatxh8hwqwdk9",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Пожалуйста, не уходи из WP прошу 🥺",
+        "time": "2026-02-28T18:20:51.946Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6n7t4df8snn3b4z3",
+          "sender": "Infantophile",
+          "text": "ну думаю у вас там лучше получится"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6nuqk9verznl5kama",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "пока что не ухожу",
+        "time": "2026-02-28T18:34:43.834Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6ncwoatxh8hwqwdk9",
+          "sender": "Werline",
+          "text": "Пожалуйста, не уходи из WP прошу 🥺"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6nxd8k88xj5fs9ppv",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Бля что это за внезапные депы в последнее время",
+        "time": "2026-02-28T18:36:46.532Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6nuqk9verznl5kama",
+          "sender": "Infantophile",
+          "text": "пока что не ухожу"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6o0o9lnfrewyx5vb",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "чутка нестабильный",
+        "time": "2026-02-28T18:39:20.793Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6nxd8k88xj5fs9ppv",
+          "sender": "Werline",
+          "text": "Бля что это за внезапные депы в последнее время"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6o0w1ziyjot6cz6x",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "кста",
+        "time": "2026-02-28T18:39:30.887Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o1ovcci6g5q019l5",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "у меня есть одна мысль",
+        "time": "2026-02-28T18:40:08.232Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o2a4yfe3mwva3xyu",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "по поводу вп",
+        "time": "2026-02-28T18:40:35.794Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o4pl2kelsks57jkc",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Выкладывай",
+        "time": "2026-02-28T18:42:29.126Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o51qiv4uv8ap20y",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Мне надо это исправить",
+        "time": "2026-02-28T18:42:44.874Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6o0o9lnfrewyx5vb",
+          "sender": "Infantophile",
+          "text": "чутка нестабильный"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6o5lgu892fmpk7rbo",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "точнее",
+        "time": "2026-02-28T18:43:10.446Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6o4pl2kelsks57jkc",
+          "sender": "Werline",
+          "text": "Выкладывай"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6o5t59ltjfdv1erz9",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я тут подумал",
+        "time": "2026-02-28T18:43:20.397Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o6gul4qz4rrgok9o",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "но изначально вейпоинт я не просил делать",
+        "time": "2026-02-28T18:43:51.117Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o7juy0jxwg9qz8ul",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "он появился как раз в тот момент когда я переставал нести хуйню и фанфики рассказывать",
+        "time": "2026-02-28T18:44:41.674Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6o91t43xfgh1snhih",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "творческий кризис",
+        "time": "2026-02-28T18:45:51.592Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6o51qiv4uv8ap20y",
+          "sender": "Werline",
+          "text": "Мне надо это исправить"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6obgcqte6vh8uh2kg",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну к чему ты ведешь",
+        "time": "2026-02-28T18:47:43.754Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6o7juy0jxwg9qz8ul",
+          "sender": "Infantophile",
+          "text": "он появился как раз в тот момент когда я переставал нести хуйню и фанфики рассказывать"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6oc2igf0htxpifzut",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ни к чему",
+        "time": "2026-02-28T18:48:12.472Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6obgcqte6vh8uh2kg",
+          "sender": "Werline",
+          "text": "Ну к чему ты ведешь"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6od4kn5vcpyr4khf",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "просто к слову",
+        "time": "2026-02-28T18:49:01.799Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6odcsr73l5pajp954",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "сказал",
+        "time": "2026-02-28T18:49:12.459Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6og7mn0ip6ir8fewwm",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ну это же подарок",
+        "time": "2026-02-28T18:51:25.727Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6ogpijozquvv6zsog",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кста у нас какой-то чел появился в вп XXn11",
+        "time": "2026-02-28T18:51:48.914Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6osm9j9zserg12lyk",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а кто это рил",
+        "time": "2026-02-28T19:01:04.567Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6ogpijozquvv6zsog",
+          "sender": "Werline",
+          "text": "Кста у нас какой-то чел появился в вп XXn11"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6ou0t17l9dkdnia1e",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Хз. Ноу био френдс и нечего не писал. Лол",
+        "time": "2026-02-28T19:02:10.069Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6osm9j9zserg12lyk",
+          "sender": "Infantophile",
+          "text": "а кто это рил"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6ouh8vck0m2lwpe1t",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Я написал ему",
+        "time": "2026-02-28T19:02:31.376Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6owpqc0s0vpwrdhu4h",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "блять",
+        "time": "2026-02-28T19:04:15.684Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6ou0t17l9dkdnia1e",
+          "sender": "Werline",
+          "text": "Хз. Ноу био френдс и нечего не писал. Лол"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6oxzwvzc10cd3sbma",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "спасибо",
+        "time": "2026-02-28T19:05:15.535Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6og7mn0ip6ir8fewwm",
+          "sender": "Werline",
+          "text": "Ну это же подарок"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6oy8fys01oxfvnjzo",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "в любом случае",
+        "time": "2026-02-28T19:05:26.590Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6p4pd877muepgmhrk",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "как думаешь",
+        "time": "2026-02-28T19:10:28.460Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6ouh8vck0m2lwpe1t",
+          "sender": "Werline",
+          "text": "Я написал ему"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6p4wg44waocsobjkd",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "чо за челик",
+        "time": "2026-02-28T19:10:37.636Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6pi3dw4tld5a9cdgq",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Абсолютно хз",
+        "time": "2026-02-28T19:20:53.156Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6p4wg44waocsobjkd",
+          "sender": "Infantophile",
+          "text": "чо за челик"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6plleyncp44t3ow2",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а возможно удалить чужой акк",
+        "time": "2026-02-28T19:23:36.490Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6plsr8kka1pxklks",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "?",
+        "time": "2026-02-28T19:23:46.004Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6pxcah8vymj3wgabv",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Посмотрим чо будет. Он не навредит так то",
+        "time": "2026-02-28T19:32:44.537Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6plleyncp44t3ow2",
+          "sender": "Infantophile",
+          "text": "а возможно удалить чужой акк"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6qbjqefd5ymrm2t0m",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "чо можно сделать с чужим акком",
+        "time": "2026-02-28T19:43:47.366Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6pxcah8vymj3wgabv",
+          "sender": "Werline",
+          "text": "Посмотрим чо будет. Он не навредит так то"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6qcv83gjhg9o2m017",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Поломать, забанить, авторизоваться в него (у меня есть ключи, хеши, пароли) зареган акк пару дней назад",
+        "time": "2026-02-28T19:44:48.915Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6qbjqefd5ymrm2t0m",
+          "sender": "Infantophile",
+          "text": "чо можно сделать с чужим акком"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6rfi4rc8ubjb4ammj",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "мне кажется",
+        "time": "2026-02-28T20:14:51.531Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6rfoqapul0ukfbzkq",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "это денис",
+        "time": "2026-02-28T20:15:00.082Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6rgbtd5gumli92bru",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "у них там пароли почти одинаковые",
+        "time": "2026-02-28T20:15:30.002Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6rn13skqvafy6x2aa",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Всм. Ты откуда знаешь",
+        "time": "2026-02-28T20:20:42.712Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rgbtd5gumli92bru",
+          "sender": "Infantophile",
+          "text": "у них там пароли почти одинаковые"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6rnfjucr07vxh8k8j",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Он сюда вообще не заходит",
+        "time": "2026-02-28T20:21:01.434Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rfoqapul0ukfbzkq",
+          "sender": "Infantophile",
+          "text": "это денис"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6ro01usrtlvnzkwj8",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "+ ему не когда",
+        "time": "2026-02-28T20:21:28.002Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rnfjucr07vxh8k8j",
+          "sender": "Werline",
+          "text": "Он сюда вообще не заходит"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6rugz52pqo4ukppz",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "в гитхабе чекнул",
+        "time": "2026-02-28T20:26:29.873Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rn13skqvafy6x2aa",
+          "sender": "Werline",
+          "text": "Всм. Ты откуда знаешь"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6sd6i97lv1uqrl8y7",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Нихуя ты. Я тебя недооценивал",
+        "time": "2026-02-28T20:41:02.769Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rugz52pqo4ukppz",
+          "sender": "Infantophile",
+          "text": "в гитхабе чекнул"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6smfh88kwdaj9rsxv",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "А ведь реально похож пароль",
+        "time": "2026-02-28T20:48:14.300Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6smzvuijjdgcgqtri",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "У него на конце ma. Видно maть шлюха",
+        "time": "2026-02-28T20:48:40.746Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6t08jtfovxfw7t9pi",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Ыыы мать шлюха. Стас Cumsite",
+        "time": "2026-02-28T20:58:58.505Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6tidr2ommitsal2y",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Цитирую (да это был он) - / Просто по какой причине, при тестовых сборках WayPoint в свой аккаунт я войти не мог/",
+        "time": "2026-02-28T21:13:05.054Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6rugz52pqo4ukppz",
+          "sender": "Infantophile",
+          "text": "в гитхабе чекнул"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6tiq00uyztaoag5rp",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Это тест ак",
+        "time": "2026-02-28T21:13:20.928Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6xibf7wck1sk8fp1n",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "прикольно",
+        "time": "2026-02-28T23:05:00.499Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6xkev29mt23p2qkaj",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "ожидаемо",
+        "time": "2026-02-28T23:06:38.270Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6z12sxlb76eobfv99",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "писи попы",
+        "time": "2026-02-28T23:47:35.410Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm6z2y5wt298um5r9ed",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "?",
+        "time": "2026-02-28T23:49:02.708Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm6z12sxlb76eobfv99",
+          "sender": "Infantophile",
+          "text": "писи попы"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm6zrfsp6b02a4ueruw",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Пердеть говном?",
+        "time": "2026-03-01T00:08:05.305Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm7nl6e4c0a9j4wl1av",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "в жопу апизьян",
+        "time": "2026-03-01T11:15:03.964Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm8072826lovkjmo6h4",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "я в рабстве вейпоинта",
+        "time": "2026-03-01T17:08:00.386Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mm81ghwsrwrryvsiywm",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Верно мой друг",
+        "time": "2026-03-01T17:43:20.236Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm8072826lovkjmo6h4",
+          "sender": "Infantophile",
+          "text": "я в рабстве вейпоинта"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mm847u94cm6effh81f",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "а перестать быть вефоликсом можно?",
+        "time": "2026-03-01T19:00:35.176Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mmdqdcvqukw34umzflq",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "А чо ты хош",
+        "time": "2026-03-05T17:19:35.030Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mm847u94cm6effh81f",
+          "sender": "Infantophile",
+          "text": "а перестать быть вефоликсом можно?"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mmdqdpknx16prtm1t0g",
+        "from": "Werline",
+        "to": "Infantophile",
+        "text": "Кнш, твое право",
+        "time": "2026-03-05T17:19:51.479Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mmg8mjsu3rqpor5z0ku",
+        "from": "Infantophile",
+        "to": "Werline",
+        "text": "чо",
+        "time": "2026-03-07T11:26:09.342Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
+    ],
+    "FlamingOxygen_Werline": [
+      {
+        "id": "mkbcizt37jlyfyzyfr7",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Знаешь, я так подумал",
+        "time": "2026-01-12T15:57:06.375Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcjomx21q7c389vzf",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "На кой всрались все эти обновления? Ну обновлю я интерфейс, допилю управление",
+        "time": "2026-01-12T15:57:38.553Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcjw0yjhu7u54ebj",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Я думаю что на этом хватит",
+        "time": "2026-01-12T15:57:48.130Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbckbst91mcblqsih",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Даже никитос сказал что это все нахуй не всралось",
+        "time": "2026-01-12T15:58:08.573Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcl35kgmx2sy4occv",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Я думаю что это будет главным самым. Можно даже WayWallet убрать (удалить) в нем же смысла нет?",
+        "time": "2026-01-12T15:58:44.024Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mkbcjomx21q7c389vzf",
+          "sender": "Werline",
+          "text": "На кой всрались все эти обновления? Ну обновлю я интерфейс, допилю управление"
+        },
+        "tagMention": null
+      },
+      {
+        "id": "mkbclak4f4d0dqm39eh",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Хз",
+        "time": "2026-01-12T15:58:53.620Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcrkhcba0xkcwxnrj",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Так то да, но тогда можно прийти к такой цепочке мыслей что и вп не нужен",
+        "time": "2026-01-12T16:03:46.416Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcsxdpyjao9ws23w",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "От вп тоже смысла нет, новых участников у нас нет, ничего гига интересного у нас нет",
+        "time": "2026-01-12T16:04:49.789Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcubjzfdzljdd4wv",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Это приложение изначально было создано чтоб сдерживать шизу Никиты и не выставлять его безумства на всеобщее обозрение",
+        "time": "2026-01-12T16:05:54.815Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcv0tyigoheitkeek",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "А потом это переросло в эксперимент \"а что если\"",
+        "time": "2026-01-12T16:06:27.574Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcv42klhdr60ysf1m",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "А потом это переросло в эксперимент \"а что если\"",
+        "time": "2026-01-12T16:06:31.773Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcvoog9ocuoecoe97",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "А что если добавить то, а что если добавить это",
+        "time": "2026-01-12T16:06:58.480Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcvrkn40z6o1sihes",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "А что если добавить то, а что если добавить это",
+        "time": "2026-01-12T16:07:02.231Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbcwdik53fe5jrmymu",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Да и это приложение использовалось чтоб ты набивал руку а чем-то",
+        "time": "2026-01-12T16:07:30.668Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbd4g3c8lu31j57x35",
+        "from": "FlamingOxygen",
+        "to": "Werline",
+        "text": "Смысл что-то убирать если есть что ещё добавлять",
+        "time": "2026-01-12T16:13:47.257Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mkbd6rvoqrbu1wbidm",
+        "from": "Werline",
+        "to": "FlamingOxygen",
+        "text": "Все таки хз. Я с Никитой каждый день общаюсь тут",
+        "time": "2026-01-12T16:15:35.844Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      }
+    ],
+    "WayPoint_Werline": [
+      {
+        "id": "mlupvrlxfys3cy6iyff",
+        "from": "WayPoint",
+        "to": "Werline",
+        "text": "Сервисы были перезагружены!",
+        "time": "2026-02-20T09:58:16.965Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mlupwbxq86ku3bhpp7v",
+        "from": "WayPoint",
+        "to": "Werline",
+        "text": "×××",
+        "time": "2026-02-20T09:58:43.310Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null
+      },
+      {
+        "id": "mluz5f075mhoj30r0k",
+        "from": "Werline",
+        "to": "WayPoint",
+        "text": "Тест сообщение1",
+        "time": "2026-02-20T14:17:43.735Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
+      },
+      {
+        "id": "mluz8jaf6xltk096nig",
+        "from": "Werline",
+        "to": "WayPoint",
+        "text": "Тест сообщение 2",
+        "time": "2026-02-20T14:20:09.255Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
+      },
+      {
+        "id": "mluz9qbdgmr5w4dna8m",
+        "from": "Werline",
+        "to": "WayPoint",
+        "text": "Тест сообщение 3",
+        "time": "2026-02-20T14:21:05.017Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": null,
+        "imageUrl": null
+      }
+    ],
+    "Werline_XXn11": []
+  },
+  "lastUpdate": "2026-03-07T11:26:11.006Z"
+}
